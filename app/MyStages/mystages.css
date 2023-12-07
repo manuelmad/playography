@@ -1,0 +1,26 @@
+.h2-mystages {
+	text-align: center;
+    margin-bottom: 0;
+}
+
+
+.img-container {
+	width: 28rem;
+	height: 28rem;
+	border-radius: 0.5rem;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+    background-color: var(--black-blue);
+}
+
+.img-container img {
+	width: 100%;
+    height: auto;
+	transition: 0.3s ease all;
+}
+
+.img-container img:hover {
+    width: 110%;
+}
