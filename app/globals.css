@@ -44,7 +44,7 @@ section {
 }
 
 article {
-  width: 100%;
+  	width: 100%;
 	padding: 3rem 1rem 0;
 }
 
@@ -59,12 +59,16 @@ div {
 
 p {
 	margin: 1rem 0;
-  width: 100%;
+  	width: 100%;
 }
 
 .bold-italic {
 	font-weight: bold;
 	font-style: italic;
+}
+
+.yellow {
+	background-color: yellow;
 }
 
 .past {

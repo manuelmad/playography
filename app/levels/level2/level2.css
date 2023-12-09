@@ -1,0 +1,29 @@
+.centered-text {
+	text-align: center;
+}
+
+.centered-text img {
+	width: 28rem;
+    height: auto;
+	border-radius: 0.5rem;
+}
+
+.arrows-container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+  
+.arrows-container a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.bi-arrow-left {
+	margin-right: 1rem;
+}
+
+.bi-arrow-right {
+	margin-left: 1rem;
+}

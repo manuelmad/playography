@@ -43,7 +43,7 @@ export default function MyStages(props) {
                         </p>
                         <p>Por increíble que parezca, de esta nueva consola no recuerdo la experiencia de cuando me la dieron. Puedo calcular que ocurrió cuando tenía entre 8 y 9 años de edad (1989 - 1990) y para no andar con muchos rodeos, directamente diré que fue una...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level2">Leer más...</Link>
                         </p>
                     </div>
                 </article>
