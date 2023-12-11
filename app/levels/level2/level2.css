@@ -8,6 +8,20 @@
 	border-radius: 0.5rem;
 }
 
+.famicom-games__container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	width: 100%;
+	justify-content: center;
+}
+
+.famicom-games__container img {
+	width: 13rem;
+    height: auto;
+	border-radius: 0.5rem;
+}
+
 .arrows-container {
 	display: flex;
 	justify-content: space-between;

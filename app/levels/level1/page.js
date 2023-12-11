@@ -296,6 +296,18 @@ export default function Level1() {
                         width={271}
                         height={368}    
                     />
+                    <Image
+                        src="/imgs/level1/sneak-and-peek.jpg"
+                        alt="sneak n'peek game cover"
+                        width={564}
+                        height={767}    
+                    />
+                    <Image
+                        src="/imgs/level1/superman.jpg"
+                        alt="superman game cover"
+                        width={540}
+                        height={741}    
+                    />
 				</p>
 				<p>Fueron muchas las horas de juego junto a este tan amado aparato... ¡Ey! ¡Sabía que escribiendo este artículo aflorarían más recuerdos! ¡Volvamos al pasado!</p>
 			</article>

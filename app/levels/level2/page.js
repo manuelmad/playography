@@ -65,12 +65,96 @@ export default function Level2() {
                     <p>Si bien no logré recordar la consola específica que tuve, ¡vaya que sí tengo recuerdos de los maravillosos juegos que en ella jugué!</p>
                     <p>Recuerdo haber jugado con compañeros de colegio, vecinos y mi hermano menor (¡ya existe!). No me dedicaré a nombrar los juegos famosos que todo el mundo jugó, porque obviamente yo también lo hice.</p>
                     <p>Así que aquí te dejo una selección de videojuegos que quizás no conocías hasta ahora y a los cuales les dediqué muchas horas de mi niñez:</p>
-                    <p className='centered-text'>
+                    <p className="famicom-games__container">
                         <Image
-                            src="/imgs/level2/famicom.bmp"
-                            alt="famicom img"
-                            width={620}
-                            height={384}    
+                            src="/imgs/level2/balloon-fight.jpg"
+                            alt="balloon fight cover game"
+                            width={564}
+                            height={793}    
+                        />
+                        <Image
+                            src="/imgs/level2/conquest.jpg"
+                            alt="conquest of the crystal palace cover game"
+                            width={197}
+                            height={255}    
+                        />
+                        <Image
+                            src="/imgs/level2/contra.jpg"
+                            alt="contra cover game"
+                            width={400}
+                            height={550}    
+                        />
+                        <Image
+                            src="/imgs/level2/double-dribble.jpg"
+                            alt="double dribble cover game"
+                            width={537}
+                            height={717}    
+                        />
+                        <Image
+                            src="/imgs/level2/excite-bike.jpg"
+                            alt="excite bike cover game"
+                            width={564}
+                            height={795}    
+                        />
+                        <Image
+                            src="/imgs/level2/goal-two.jpg"
+                            alt="goal two cover game"
+                            width={250}
+                            height={354}    
+                        />
+                        <Image
+                            src="/imgs/level2/gremlins-2.jpg"
+                            alt="gremlins 2 cover game"
+                            width={400}
+                            height={550}    
+                        />
+                        <Image
+                            src="/imgs/level2/ice-climber.jpg"
+                            alt="ice climber cover game"
+                            width={497}
+                            height={680}    
+                        />
+                        <Image
+                            src="/imgs/level2/jackal.webp"
+                            alt="jackal cover game"
+                            width={600}
+                            height={849}    
+                        />
+                        <Image
+                            src="/imgs/level2/ninja-gaiden-3.jpg"
+                            alt="ninja gaiden 3 cover game"
+                            width={564}
+                            height={802}    
+                        />
+                        <Image
+                            src="/imgs/level2/ninja-turtles-3.jpg"
+                            alt="ninja turtles 3 cover game"
+                            width={564}
+                            height={771}    
+                        />
+                        <Image
+                            src="/imgs/level2/simpsons-space-mutants.jpg"
+                            alt="simpsons space mutants cover game"
+                            width={564}
+                            height={807}    
+                        />
+                        <Image
+                            src="/imgs/level2/tinytoon-adventures.jpg"
+                            alt="tinytoon adventures cover game"
+                            width={250}
+                            height={351}    
+                        />
+                        <Image
+                            src="/imgs/level2/tinytoon-adventures-2.jpg"
+                            alt="tinytoon adventures 2 cover game"
+                            width={698}
+                            height={960}    
+                        />
+                                                <Image
+                            src="/imgs/level2/RogerClemens_MVPBaseball.jpg"
+                            alt="roger clemens mvp baseball 2 cover game"
+                            width={366}
+                            height={500}    
                         />
                     </p>
                     <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de... Punch-Out!!</p>
