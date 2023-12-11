@@ -57,10 +57,10 @@ export default function Level1() {
 				<div>
                     <Image
                         className="woman-shopping"
-                        src="/imgs/level1/woman-shopping.jpg"
+                        src="/imgs/level1/woman-shopping-removebg-preview.png"
                         alt="Woman shopping"
-                        width={564}
-                        height={564}    
+                        width={500}
+                        height={500}    
                     />
 					<p>Aún tengo en mi mente el momento en que mis padres llegaron del viaje y entraron por la puerta principal de aquella casa, con sus manos llevando muchas bolsas, una de las cuales contenía la sorpresa para Manuelito, como me decían (y aún me dicen) todos en la familia.</p>
 				</div>
@@ -116,7 +116,6 @@ export default function Level1() {
 				<p>Leyendo características, viendo imágenes y asociando fechas de lanzamiento, estoy casi completamente seguro de que fue la versión de tamaño y costo reducidos del Atari 2600, apodada como Atari 2600 Jr. Sí, con esa inicié mi aventura gamer, durante la <span className="bold-italic">segunda generación de consolas</span>.</p>
 				<p className="centered-text">
                     <Image
-                        className="detective-pic"
                         src="/imgs/level1/atari-2600-short-rainbow.jpg"
                         alt="Atari 2600 Short Rainbow image"
                         width={564}
@@ -126,7 +125,6 @@ export default function Level1() {
 				<p>Ésta salió al mercado en 1986, y creo que sería, en términos modernos, como la versión “Slim” de la 2600. Como puede verse en la imagen de arriba, hubo 3 modelos disponibles de ella: “Short rainbow”, “Long rainbow” y “Black” (irlandesa), y exprimiendo mi memoria hasta su límite, me decanto por la que está al frente de todas, la Short rainbow:</p>
 				<p className="centered-text">
                     <Image
-                        className="detective-pic"
                         src="/imgs/level1/atari-2600-short-rainbow-and-joysticks.png"
                         alt="Atari 2600 Short Rainbow and Joysticks image"
                         width={1020}
@@ -135,7 +133,6 @@ export default function Level1() {
 				</p>
 				<p className="centered-text">
                     <Image
-                        className="detective-pic"
                         src="/imgs/level1/atari-2600-jr.-(short-rainbow).jpg"
                         alt="Atari 2600 Short Rainbow Jr. image"
                         width={960}
@@ -328,14 +325,15 @@ export default function Level1() {
 				<div>
                     <Image
                         className="boxer-woman"
-                        src="/imgs/level1/boxer-woman.jpg"
+                        src="/imgs/level1/boxer-woman-removebg-preview.png"
                         alt="Woman Boxing"
-                        width={564}
-                        height={564}    
+                        width={500}
+                        height={500}    
                     />
 					<p>Todo era risas en la habitación mientras mi madre me aupaba como si se tratara de una pelea por el campeonato mundial de peso completo.</p>
 				</div>
 				<p>Pero nada dura para siempre, así que ya era hora de darle descanso al fiel y destartalado compañero de juegos y hacer lugar para mi siguiente experiencia gaming.</p>
+                <p className='plus'>+ + + + + + + + + + + + </p>
 				<p>Como nota adicional, un par de años más tarde, a la edad de 8 aproximadamente, mi mejor amigo era un niño que vivía diagonal a casa de mis papás, él tendría 6 años.</p>
 				<p>Recuerdo que en una oportunidad, de las taaantas que visité su casa, sus 2 hermanas y hermano mayores estaban en una de las habitaciones jugando con un aparto conectado al televisor y me invitaron a participar.</p>
 				<p>Solo me pidieron que tratara de adivinar la palabra secreta que estaba en la pantalla, representada con sus letras inicial y final y, entre éstas, tantas líneas como letras faltantes tenía la palabra. Ellos me daban una sola pista relacionada con la palabra.</p>
@@ -348,7 +346,7 @@ export default function Level1() {
 				<p>Él sí que lo recuerda perfectamente, claro, era su consola, la consola familiar. Así que ahora puedo decir que durante la segunda generación de consolas también usé la Magnavox Odissey<sup>2</sup>, fabricada por Magnavox (filial de Philips), y 1 de sus juegos.</p>
 				<p className="centered-text">
                     <Image
-                        className="boxer-woman"
+                        className="magnavoxodyssey2"
                         src="/imgs/level1/magnavoxodyssey2.jpg"
                         alt="Magnavox Odyssey2 picture"
                         width={300}
@@ -410,7 +408,7 @@ export default function Level1() {
                     />
 				</p>
 			</article>
-			<article>
+			<article className='last-article'>
 				<div className="arrows-container">
                     <Link href="/">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">

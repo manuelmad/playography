@@ -150,13 +150,44 @@ export default function Level2() {
                             width={698}
                             height={960}    
                         />
-                                                <Image
+                        <Image
                             src="/imgs/level2/RogerClemens_MVPBaseball.jpg"
                             alt="roger clemens mvp baseball 2 cover game"
                             width={366}
                             height={500}    
                         />
+                        <Image
+                            src="/imgs/level2/tag-team-match.jpg"
+                            alt="tag team match m.u.s.c.l.e. cover game"
+                            width={310}
+                            height={444}    
+                        />
+                        <Image
+                            src="/imgs/level2/tennis.jpg"
+                            alt="tennis cover game"
+                            width={563}
+                            height={818}    
+                        />
+                        <Image
+                            src="/imgs/level2/track-&-field.jpg"
+                            alt="track & field cover game"
+                            width={564}
+                            height={801}    
+                        />
+                        <Image
+                            src="/imgs/level2/Urban-Champion-NES.jpg"
+                            alt="urban champion cover game"
+                            width={340}
+                            height={480}    
+                        />
+                        <Image
+                            src="/imgs/level2/Yie-Ar-Kung-Fu-NES.webp"
+                            alt="yie ar kung-fu cover game"
+                            width={360}
+                            height={500}    
+                        />
                     </p>
+                    <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día.</p>
                     <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de... Punch-Out!!</p>
                     <p className='centered-text'>
                         <Image
@@ -179,10 +210,19 @@ export default function Level2() {
                         />
                     </p>
                     <p>Pero las cosas cambiaron, ¡y mucho!, cuando tuve mi consola. Obviamente pedí ese juego como regalo y poco a poco pude aprender cómo derrotar a todos los boxeadores hasta llegar a esa taaaan difícil pelea final. Realmente no sé por cuántos años jugué hasta ser capaz de derrotar a Mike Tyson. Al resto de contrincantes los vencía con relativa facilidad después de tanta práctica, pero ese bendito Tyson se me atragantó por mucho tiempo.</p>
-                    <p>Cuando finalmente lo logré... De verdad no podía creer que aquello fuera posible, siempre había creído que era invencible. Ver a Mario (el referee) decretando mi victoria fue la alegría más grande que recuerde con videojuego alguno.</p>
-                    <p>¡Qué bonito es tener una consola en tu propia casa y usarla cada vez que te apetezca! Así fueron mis 2 primeras experiencias gaming, pero en ese momento, no sabía que vendrían tiempos menos favorables durante las cuarta, quinta y sexta generaciones de consolas...</p>
+                    <p>
+                        <Image
+                            className="tyson-tko"
+                            src="/imgs/level2/mike-tyson-tko.jpg"
+                            alt="mike tyson tko"
+                            width={500}
+                            height={437}    
+                        />
+                        Cuando finalmente lo logré... De verdad no podía creer que aquello fuera posible, siempre había creído que era invencible. Ver a Mario (el referee) decretando mi victoria fue la alegría más grande que recuerde con videojuego alguno.
+                    </p>
+                    <p>¡Qué bonito es tener una consola en tu propia casa y usarla cada vez que te apetezca! Así fueron mis 2 primeras experiencias gaming, muy añorables y llenas de satisfacciones. Sin embargo, no sabía que vendrían tiempos menos favorables durante las cuarta, quinta y sexta generaciones de consolas...</p>
                 </article>
-                <article>
+                <article className='last-article'>
                     <div className="arrows-container">
                         <Link href="/levels/level1">
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">
