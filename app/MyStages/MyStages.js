@@ -60,7 +60,7 @@ export default function MyStages(props) {
                         </p>
                         <p>A finales de los '80 e inicios de los '90, llega la <span className="bold-italic">cuarta generación de consolas</span> a Norte América. Cuando empiezo el bachillerato en 1994 con 13 años de edad, tengo por primera vez acceso a una consola de...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level3">Leer más...</Link>
                         </p>
                     </div>
                 </article>
