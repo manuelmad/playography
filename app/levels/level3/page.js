@@ -49,7 +49,7 @@ export default function Level3() {
                     />
                 </p>
                 <p>Recuerdo que el 99% de las veces que iba (creo que el 100%, pero dejo allí un 1% de margen de error a mi mala memoria), jugaba alguna de las entregas de Mortal Kombat, saga que inicié con Mortal Kombat 2.</p>
-                <p>Jugué mucho a esta IP en SNES: Mortal Kombat 2, Mortal Kombat 3, Mortal Kombat Utlimate 3. Me sabía todos los fatalities de memoria, jugaba contra mis compañeros de estudio o vecinos y rara vez perdía.</p>
+                <p>Jugué mucho a esta IP en SNES: Mortal Kombat 2, Mortal Kombat 3, Mortal Kombat Utlimate 3. Llegué a aprenderme todos los fatalities de memoria, jugaba contra mis compañeros de estudio o vecinos y rara vez perdía.</p>
                 <p className='centered-text'>
                     <Image
                         src="/imgs/level3/mk2.png"
@@ -150,21 +150,86 @@ export default function Level3() {
                         height={762}
                         title='Año 5, No. 05'  
                     />
-                </p>
-                <p>En ellas estaban escritas todas las combinaciones de botones para los poderes, fatalities, babalities, frienships, animalities, pit fatalities y brutalities.</p>
-                <p className='centered-text'>
                     <Image
-                        src="/imgs/level3/SNES-Mod1-Console-Set.png"
-                        alt="sega genesis img"
-                        width={800}
-                        height={415}    
+                        src="/imgs/level3/club-nintendo-5-06-cover.png"
+                        alt="club nintendo magazine 5-06 cover img"
+                        width={538}
+                        height={761}
+                        title='Año 5, No. 06'  
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-5-10-cover.png"
+                        alt="club nintendo magazine 5-10 cover img"
+                        width={542}
+                        height={754}
+                        title='Año 5, No. 10'  
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-5-11-cover.png"
+                        alt="club nintendo magazine 5-11 cover img"
+                        width={539}
+                        height={757}
+                        title='Año 5, No. 11'  
+                    />
+                </p>
+                <p>En ellas estaban escritas todas las combinaciones de botones para los poderes, fatalities, babalities, frienships, animalities, pit fatalities y brutalities. Lo que aplicara en el videojuego del momento:</p>
+                <p className='magazines-pages__container'>
+                    <Image
+                        src="/imgs/level3/club-nintendo-3-10-mk2-subzero.png"
+                        alt="mk 2 subzero page img"
+                        width={497}
+                        height={688}
+                        title='Año 3, No. 10, Subzero'
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-3-10-mk2-scorpion.png"
+                        alt="mk 2 scorpion page img"
+                        width={490}
+                        height={688}
+                        title='Año 3, No. 10, Scorpion'
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-4-02-ki-finalmoves-1.png"
+                        alt="ki final moves page 1 img"
+                        width={520}
+                        height={710}
+                        title='Año 4, No. 02, final moves 1'
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-4-02-ki-finalmoves-2.png"
+                        alt="ki 3 final moves page 2 img"
+                        width={521}
+                        height={711}
+                        title='Año 4, No. 02, final moves 2'
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-4-11-mk3-finalmoves-1.png"
+                        alt="mk 3 final moves page 1 img"
+                        width={488}
+                        height={685}
+                        title='Año 4, No. 11, final moves 1'
+                    />
+                    <Image
+                        src="/imgs/level3/club-nintendo-4-11-mk3-finalmoves-2.png"
+                        alt="mk 3 final moves page 2 img"
+                        width={491}
+                        height={687}
+                        title='Año 4, No. 11, final moves 2'
                     />
                 </p>
             </article>
-            <article>
+            <article className='past'>
                 <p>Volviendo al pasado, recuerdo que tenía mis propias hojas donde transcribía toda esa información para llevarla a dondequiera que iba y no dañar las revistas. Creo que buscaré en casa de mis padres, en mi antiguo closet, a ver si alguna de esas ediciones se ha salvado del paso del tiempo...</p>
                 <p>En ocasiones, durante vacaciones escolares, me iba a pasar unos días en casa de un tío materno. Mis 2 primos y yo amanecíamos jugando con su SNES. Fue durante esas visitas cuando pude disfrutar mejor del catálogo de esta máquina.</p>
-                <p>Recuerdo con cariño una ocasión en que ese tío nos dejó a uno de mis primos y a mí en un centro comercial para que, además de alquilar algunos videojuegos, comiéramos y bebiéramos algo para pasar la tarde. Pues decidimos gastarnos todo el dinero en juegos alquilados y no tomamos ni una gota de agua jajaja. Mi tío se molestó bastante cuando vio esa torre de cartuchos en nuestras manos y supo que no comimos nada. Aún no entiendo el porqué de la molestia, supongo que es la reacción normal en un adulto que no gusta de este hobby. Yo, a día de hoy, sigo sin ver el problema en lo que hicimos 🤷‍♂️ jejeje.</p>
+                <p>
+                    <Image
+                        className="angry-uncle"
+                        src="/imgs/level3/angry-uncle.png"
+                        alt="angry uncle img"
+                        width={479}
+                        height={521}    
+                    />
+                    Recuerdo con cariño una ocasión en que ese tío nos dejó a uno de mis primos y a mí en un centro comercial para que, además de alquilar algunos videojuegos, comiéramos y bebiéramos algo para pasar la tarde. Pues decidimos gastarnos todo el dinero en juegos alquilados y no tomamos ni una gota de agua jajaja. Mi tío se molestó bastante cuando vio esa torre de cartuchos en nuestras manos y supo que no comimos nada. Aún no entiendo el porqué de la molestia, supongo que es la reacción normal en un adulto que no gusta de este hobby. Yo, a día de hoy, sigo sin ver el problema en lo que hicimos 🤷‍♂️ jejeje.</p>
                 <p>Algunos de los juegos que recuerdo haber jugado en aquellas interminables jornadas fueron ...............</p>
                 <p className="supernes-games__container">
                     <Image
