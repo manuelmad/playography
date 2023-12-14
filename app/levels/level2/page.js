@@ -209,7 +209,16 @@ export default function Level2() {
                             height={448}    
                         />
                     </p>
-                    <p>Pero las cosas cambiaron, ¡y mucho!, cuando tuve mi consola. Obviamente pedí ese juego como regalo y poco a poco pude aprender cómo derrotar a todos los boxeadores hasta llegar a esa taaaan difícil pelea final. Realmente no sé por cuántos años jugué hasta ser capaz de derrotar a Mike Tyson. Al resto de contrincantes los vencía con relativa facilidad después de tanta práctica, pero ese bendito Tyson se me atragantó por mucho tiempo.</p>
+                    <p>Pero las cosas cambiaron, ¡y mucho!, cuando tuve mi consola. Obviamente pedí ese juego como regalo y poco a poco pude aprender cómo derrotar a todos los boxeadores hasta llegar a esa taaaan difícil pelea final.</p>
+                    <p>
+                        <Image
+                            className="tyson-win"
+                            src="/imgs/level2/Myke.webp"
+                            alt="mike tyson wins"
+                            width={256}
+                            height={256}    
+                        />
+                        Realmente no sé por cuántos años jugué hasta ser capaz de derrotar a Mike Tyson. Al resto de contrincantes los vencía con relativa facilidad después de tanta práctica, pero ese bendito Tyson se me atragantó por mucho tiempo.</p>
                     <p>
                         <Image
                             className="tyson-tko"

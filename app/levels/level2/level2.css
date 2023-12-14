@@ -12,6 +12,13 @@
 	border-radius: 0.5rem;
 }
 
+.tyson-win {
+	width: 15rem;
+    height: auto;
+	float: left;
+	border-radius: 0.5rem;
+}
+
 .tyson-tko {
 	width: 15rem;
     height: auto;
