@@ -150,58 +150,10 @@ export default function Level1() {
                         height={262}    
                     />
                     <Image
-                        src="/imgs/level1/enduro-green.jpg"
-                        alt="enduro game cover"
-                        width={197}
-                        height={256}    
-                    />
-                    <Image
-                        src="/imgs/level1/frostbite-celeste.jpg"
-                        alt="frostbite game cover"
-                        width={564}
-                        height={779}    
-                    />
-                    <Image
-                        src="/imgs/level1/frogger.jpg"
-                        alt="frogger game cover"
-                        width={192}
-                        height={263}    
-                    />
-                    <Image
-                        src="/imgs/level1/frogger.jpg"
-                        alt="frogger game cover"
-                        width={192}
-                        height={263}    
-                    />
-                    <Image
-                        src="/imgs/level1/keystone-kapers.jpg"
-                        alt="keystone kapers game cover"
-                        width={192}
-                        height={263}    
-                    />
-                    <Image
-                        src="/imgs/level1/pitfall!.jpg"
-                        alt="pitfall! game cover"
-                        width={192}
-                        height={262}    
-                    />
-                    <Image
-                        src="/imgs/level1/river-raid.jpg"
-                        alt="river raid game cover"
-                        width={564}
-                        height={810}    
-                    />
-                    <Image
-                        src="/imgs/level1/river-raid.jpg"
-                        alt="river raid game cover"
-                        width={564}
-                        height={810}    
-                    />
-                    <Image
-                        src="/imgs/level1/frogs-and-flies.jpg"
-                        alt="frogs and flies game cover"
-                        width={500}
-                        height={682}    
+                        src="/imgs/level1/bank-heist.webp"
+                        alt="bank heist game cover"
+                        width={743}
+                        height={1023}    
                     />
                     <Image
                         src="/imgs/level1/barnstorming.jpg"
@@ -210,16 +162,10 @@ export default function Level1() {
                         height={344}    
                     />
                     <Image
-                        src="/imgs/level1/bowling.jpg"
-                        alt="bowling game cover"
+                        src="/imgs/level1/berzerk.jpg"
+                        alt="berzerk game cover"
                         width={564}
-                        height={786}    
-                    />
-                    <Image
-                        src="/imgs/level1/outlaw.jpg"
-                        alt="outlaw game cover"
-                        width={933}
-                        height={1280}    
+                        height={774}    
                     />
                     <Image
                         src="/imgs/level1/Bobby_is_Going_Home.png"
@@ -228,16 +174,10 @@ export default function Level1() {
                         height={371}    
                     />
                     <Image
-                        src="/imgs/level1/bank-heist.webp"
-                        alt="bank heist game cover"
-                        width={743}
-                        height={1023}    
-                    />
-                    <Image
-                        src="/imgs/level1/berzerk.jpg"
-                        alt="berzerk game cover"
+                        src="/imgs/level1/bowling.jpg"
+                        alt="bowling game cover"
                         width={564}
-                        height={774}    
+                        height={786}    
                     />
                     <Image
                         src="/imgs/level1/boxing.jpg"
@@ -246,10 +186,22 @@ export default function Level1() {
                         height={322}    
                     />
                     <Image
+                        src="/imgs/level1/chopper-command.png"
+                        alt="chopper command game cover"
+                        width={600}
+                        height={817}    
+                    />
+                    <Image
                         src="/imgs/level1/crackpots.jpg"
                         alt="crackpots game cover"
                         width={236}
                         height={322}    
+                    />
+                    <Image
+                        src="/imgs/level1/enduro-green.jpg"
+                        alt="enduro game cover"
+                        width={197}
+                        height={256}    
                     />
                     <Image
                         src="/imgs/level1/fire-fighter.jpg"
@@ -264,11 +216,78 @@ export default function Level1() {
                         height={658}    
                     />
                     <Image
+                        src="/imgs/level1/frogger.jpg"
+                        alt="frogger game cover"
+                        width={192}
+                        height={263}    
+                    />
+                    <Image
+                        src="/imgs/level1/frogs-and-flies.jpg"
+                        alt="frogs and flies game cover"
+                        width={500}
+                        height={682}    
+                    />
+                    <Image
+                        src="/imgs/level1/frostbite-celeste.jpg"
+                        alt="frostbite game cover"
+                        width={564}
+                        height={779}    
+                    />
+                    <Image
                         src="/imgs/level1/Gopher.jpg"
                         alt="gopher game cover"
                         width={271}
                         height={369}    
                     />
+                    <Image
+                        src="/imgs/level1/ice-hockey.jpg"
+                        alt="ice hockey game cover"
+                        width={365}
+                        height={500}    
+                    />
+                    <Image
+                        src="/imgs/level1/Karate.png"
+                        alt="karate game cover"
+                        width={256}
+                        height={354}    
+                    />
+                    <Image
+                        src="/imgs/level1/keystone-kapers.jpg"
+                        alt="keystone kapers game cover"
+                        width={192}
+                        height={263}    
+                    />
+                    <Image
+                        src="/imgs/level1/mazeCraze2600.jpg"
+                        alt="maze craze game cover"
+                        width={597}
+                        height={825}    
+                    />
+                    <Image
+                        src="/imgs/level1/mouse-trap.jpg"
+                        alt="mouse trap game cover"
+                        width={564}
+                        height={792}    
+                    />
+                    <Image
+                        src="/imgs/level1/outlaw.jpg"
+                        alt="outlaw game cover"
+                        width={933}
+                        height={1280}    
+                    />
+                    <Image
+                        src="/imgs/level1/pitfall!.jpg"
+                        alt="pitfall! game cover"
+                        width={192}
+                        height={262}    
+                    />
+                    <Image
+                        src="/imgs/level1/river-raid.jpg"
+                        alt="river raid game cover"
+                        width={564}
+                        height={810}    
+                    />
+
                     <Image
                         src="/imgs/level1/Seaquest.jpg"
                         alt="Seaquest game cover"
@@ -276,10 +295,22 @@ export default function Level1() {
                         height={373}    
                     />
                     <Image
+                        src="/imgs/level1/sneak-and-peek.jpg"
+                        alt="sneak n'peek game cover"
+                        width={564}
+                        height={767}    
+                    />
+                    <Image
                         src="/imgs/level1/spiderman-atari2600.jpg"
                         alt="spiderman game cover"
                         width={191}
                         height={265}    
+                    />
+                    <Image
+                        src="/imgs/level1/superman.jpg"
+                        alt="superman game cover"
+                        width={540}
+                        height={741}    
                     />
                     <Image
                         src="/imgs/level1/tacscan-atari-2600-1.jpg"
@@ -292,18 +323,6 @@ export default function Level1() {
                         alt="worm war I game cover"
                         width={271}
                         height={368}    
-                    />
-                    <Image
-                        src="/imgs/level1/sneak-and-peek.jpg"
-                        alt="sneak n'peek game cover"
-                        width={564}
-                        height={767}    
-                    />
-                    <Image
-                        src="/imgs/level1/superman.jpg"
-                        alt="superman game cover"
-                        width={540}
-                        height={741}    
                     />
 				</p>
 				<p>Fueron muchas las horas de juego junto a este tan amado aparato... ¡Ey! ¡Sabía que escribiendo este artículo aflorarían más recuerdos! ¡Volvamos al pasado!</p>

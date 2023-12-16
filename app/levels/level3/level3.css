@@ -1,4 +1,4 @@
-.magazines-covers__container, .magazines-pages__container, .supernes-games__container {
+.magazines-covers__container, .magazines-pages__container {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1rem;
@@ -6,10 +6,18 @@
 	justify-content: center;
 }
 
-.magazines-covers__container img, .magazines-pages__container img, .supernes-games__container img {
+.magazines-covers__container img, .magazines-pages__container img {
 	width: 13rem;
     height: auto;
 	border-radius: 0.5rem;
+}
+
+.paper {
+	width: 8rem;
+    height: auto;
+	float: left;
+	border-radius: 0.5rem;
+	margin-right: 0.7rem;
 }
 
 .angry-uncle {

@@ -64,7 +64,7 @@ export default function Level2() {
                 <article className='past'>
                     <p>Si bien no logré recordar la consola específica que tuve, ¡vaya que sí tengo recuerdos de los maravillosos juegos que en ella jugué!</p>
                     <p>Recuerdo haber jugado con compañeros de colegio, vecinos y mi hermano menor (¡ya existe!). No me dedicaré a nombrar los juegos famosos que todo el mundo jugó, porque obviamente yo también lo hice.</p>
-                    <p>Así que aquí te dejo una selección de videojuegos que quizás no conocías hasta ahora y a los cuales les dediqué muchas horas de mi niñez:</p>
+                    <p>Así que aquí te dejo una selección de videojuegos a los cuales les dediqué muchas horas de mi niñez, quizás no conocías algunos de ellos hasta ahora:</p>
                     <p className="famicom-games__container">
                         <Image
                             src="/imgs/level2/balloon-fight.jpg"
@@ -73,10 +73,22 @@ export default function Level2() {
                             height={793}    
                         />
                         <Image
-                            src="/imgs/level2/conquest.jpg"
+                            src="/imgs/level2/captain-america-avengers.jpg"
+                            alt="captain america and the avengers cover game"
+                            width={514}
+                            height={716}    
+                        />
+                        <Image
+                            src="/imgs/level2/circus-charlie.jpg"
+                            alt="circus charlie cover game"
+                            width={487}
+                            height={690}    
+                        />
+                        <Image
+                            src="/imgs/level2/conquest.png"
                             alt="conquest of the crystal palace cover game"
-                            width={197}
-                            height={255}    
+                            width={500}
+                            height={646}    
                         />
                         <Image
                             src="/imgs/level2/contra.jpg"
@@ -85,10 +97,22 @@ export default function Level2() {
                             height={550}    
                         />
                         <Image
+                            src="/imgs/level2/double-dragon-ii.jpg"
+                            alt="double dragon II cover game"
+                            width={400}
+                            height={656}    
+                        />
+                        <Image
                             src="/imgs/level2/double-dribble.jpg"
                             alt="double dribble cover game"
                             width={537}
                             height={717}    
+                        />
+                        <Image
+                            src="/imgs/level2/elevator-action.jpg"
+                            alt="elevator action cover game"
+                            width={564}
+                            height={772}    
                         />
                         <Image
                             src="/imgs/level2/excite-bike.jpg"
@@ -188,7 +212,18 @@ export default function Level2() {
                         />
                     </p>
                     <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día.</p>
-                    <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de... Punch-Out!!</p>
+                    <p>Como nota curiosa, recuerdo perfectamente haber jugado Street Fighter en mi Famicom,  pero durante esta investigación aprendí que no fue lanzado ningún juego 1 vs. 1 de dicha saga para esta consola 🤔... Entonces, ¡¿qué fue lo que jugué?!</p>
+                    <p>Pues, ahondando un poco más, descubrí que sí que existió una entrega de Street Fighter II: The World Warrior para la NES... Pero fue una versión NO oficial... ¡Pirata!, para ser más claros. Les dejaré el enlace al gameplay de este juego en la sección de referencias.</p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level2/street-fighter-ii-nes.png"
+                            alt="street fighter II nes img"
+                            width={645}
+                            height={359}    
+                        />
+                    </p>
+                    <p>Bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robo 🤬. Espero lo hayas disfrutado bastante, ¡malandrín!</p>
+                    <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level2/punch-out.gif"
@@ -197,6 +232,7 @@ export default function Level2() {
                             height={500}    
                         />
                     </p>
+                    <h3>Punch-Out!!</h3>
                     <p>Recuerdo que, antes de tener mi propia Famicom (o como se llamara la que yo tenía), acompañaba a mis padres a hacer las compras en un supermercado, ubicado en un centro comercial cercano a casa. En este mall había, por supuesto, otros locales, entre los cuales se encontraba un centro de alquiler de consolas por hora, o como los niños llamábamos a ese tipo de sitios: “maquinitas”.</p>
                     <p>Mientras mis padres pasaban el tiempo en el supermercado comprando lo necesario para el hogar, yo me distraía en las “maquinitas”, y les juro que el único juego que recuerdo haber jugado en ese establecimiento fue Punch-Out!!</p>
                     <p>Me hipnotizaban esos contrincantes con sprites mucho más grandes que el del héroe, cada personaje tenía un encanto único y una forma distinta de vencerlo. Siempre había algún cliente usando este juego, y el resto de niños que esperábamos nuestro turno, rodeábamos al afortunado del momento y lo alentábamos a seguir avanzando en los circuitos.</p>
@@ -218,7 +254,7 @@ export default function Level2() {
                             width={256}
                             height={256}    
                         />
-                        Realmente no sé por cuántos años jugué hasta ser capaz de derrotar a Mike Tyson. Al resto de contrincantes los vencía con relativa facilidad después de tanta práctica, pero ese bendito Tyson se me atragantó por mucho tiempo.</p>
+                        Realmente no sé por cuantos años jugué hasta ser capaz de derrotar a Mike Tyson. Al resto de contrincantes los vencía con relativa facilidad después de tanta práctica, pero ese bendito Tyson se me atragantó por mucho tiempo.</p>
                     <p>
                         <Image
                             className="tyson-tko"

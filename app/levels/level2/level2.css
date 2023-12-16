@@ -12,6 +12,10 @@
 	border-radius: 0.5rem;
 }
 
+h3 {
+	text-align: center;
+}
+
 .tyson-win {
 	width: 15rem;
     height: auto;

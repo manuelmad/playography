@@ -75,9 +75,10 @@ export default function Level3() {
                     />
                 </p>
                 <p>Recuerdo que comencé a comprar las ediciones de la revista Club Nintendo solo para leer artículos relacionados a esta IP y eso me enganchó a seguirla comprando cuando podía. Era encantador leer página por página, mirar dibujo por dibujo, sin importar que nunca jugaría algunos de los juegos allí mostrados.</p>
+                <p>¿Saben qué? Los recuerdos de esas revistas me hicieron querer volver a verlas, volvamos al presente a ver cómo me va en esta nueva búsqueda.</p>
             </article>
             <article>
-                <p>Los recuerdos de esas revistas me hicieron querer volver a verlas, así que realicé una búsqueda en internet y me fui muy bien. ¡Qué emocionante fue ver de nuevo esas portadas y páginas internas! Vinieron a mí demasiados recuerdos de cuando las leía, ahora sé que también las compré para conocer los movimientos de Killer Instintc, había desarrollado un gran gusto por los juegos de pelea.</p>
+                <p>Investigué en internet y... ¡Qué emocionante fue ver de nuevo esas portadas y páginas internas! Vinieron a mí demasiados recuerdos de cuando las leía, ahora sé que también las compré para conocer los movimientos de Killer Instinct, había desarrollado un gran gusto por los juegos de pelea.</p>
                 <p>Aquí les dejo algunas de las portadas de las revistas que recuerdo haber tenido:</p>
                 <p className='magazines-covers__container'>
                     <Image
@@ -219,7 +220,15 @@ export default function Level3() {
                 </p>
             </article>
             <article className='past'>
-                <p>Volviendo al pasado, recuerdo que tenía mis propias hojas donde transcribía toda esa información para llevarla a dondequiera que iba y no dañar las revistas. Creo que buscaré en casa de mis padres, en mi antiguo closet, a ver si alguna de esas ediciones se ha salvado del paso del tiempo...</p>
+                <p>
+                    <Image
+                        className="paper"
+                        src="/imgs/level3/paper.png"
+                        alt="paper img"
+                        width={421}
+                        height={592}    
+                    />
+                    Volviendo al pasado, recuerdo que tenía mis propias hojas donde transcribía toda esa información para llevarla a dondequiera que iba y no dañar las revistas. Creo que buscaré en casa de mis padres, en mi antiguo closet, a ver si alguna de esas ediciones se ha salvado del paso del tiempo...</p>
                 <p>En ocasiones, durante vacaciones escolares, me iba a pasar unos días en casa de un tío materno. Mis 2 primos y yo amanecíamos jugando con su SNES. Fue durante esas visitas cuando pude disfrutar mejor del catálogo de esta máquina.</p>
                 <p>
                     <Image
@@ -230,42 +239,49 @@ export default function Level3() {
                         height={521}    
                     />
                     Recuerdo con cariño una ocasión en que ese tío nos dejó a uno de mis primos y a mí en un centro comercial para que, además de alquilar algunos videojuegos, comiéramos y bebiéramos algo para pasar la tarde. Pues decidimos gastarnos todo el dinero en juegos alquilados y no tomamos ni una gota de agua jajaja. Mi tío se molestó bastante cuando vio esa torre de cartuchos en nuestras manos y supo que no comimos nada. Aún no entiendo el porqué de la molestia, supongo que es la reacción normal en un adulto que no gusta de este hobby. Yo, a día de hoy, sigo sin ver el problema en lo que hicimos 🤷‍♂️ jejeje.</p>
-                <p>Algunos de los juegos que recuerdo haber jugado en aquellas interminables jornadas fueron ...............</p>
-                <p className="supernes-games__container">
-                    <Image
-                        src="/imgs/level2/tennis.jpg"
-                        alt="tennis cover game"
-                        width={563}
-                        height={818}    
-                    />
-                    <Image
-                        src="/imgs/level2/track-&-field.jpg"
-                        alt="track & field cover game"
-                        width={564}
-                        height={801}    
-                    />
-                    <Image
-                        src="/imgs/level2/Urban-Champion-NES.jpg"
-                        alt="urban champion cover game"
-                        width={340}
-                        height={480}    
-                    />
-                    <Image
-                        src="/imgs/level2/Yie-Ar-Kung-Fu-NES.webp"
-                        alt="yie ar kung-fu cover game"
-                        width={360}
-                        height={500}    
-                    />
-                </p>
-                <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos a su alrededor para jugar por turnos, siempre al Mortal Kombat del momento y después también Killer Instinct.</p>
+                <p>Algunos de los juegos que recuerdo haber jugado en aquellas interminables jornadas fueron:</p>
                 <p className='centered-text'>
                     <Image
-                        src="/imgs/level3/SNES-Mod1-Console-Set.png"
-                        alt="sega genesis img"
-                        width={800}
-                        height={415}    
+                        src="/imgs/level3/hit-the-ice.webp"
+                        alt="hit the ice cover img"
+                        width={475}
+                        height={347}    
                     />
                 </p>
+                <p className='centered-text'>
+                    <Image
+                        src="/imgs/level3/international-superstar-soccer.png"
+                        alt="international superstar soccer cover img"
+                        width={475}
+                        height={347}    
+                    />
+                </p>
+                <p className='centered-text'>
+                    <Image
+                        src="/imgs/level3/nbajamcover.webp"
+                        alt="nba jam cover img"
+                        width={1214}
+                        height={886}    
+                    />
+                </p>
+                <p className='centered-text'>
+                    <Image
+                        src="/imgs/level3/primal-rage.jpg"
+                        alt="primal rage cover img"
+                        width={640}
+                        height={452}    
+                    />
+                </p>
+                <p className='centered-text'>
+                    <Image
+                        src="/imgs/level3/rock-and-roll-racing.jpg"
+                        alt="rock and roll racing cover img"
+                        width={500}
+                        height={365}    
+                    />
+                </p>
+                <p>La gran mayoría de los juegos que probé (por no decir todos), fueron aquellos que se prestaban a la modalidad de multijugador, esto claro debido al hecho de depender siempre de consolas compartidas o alquiladas.</p>
+                <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos a su alrededor para jugar por turnos, siempre al Mortal Kombat del momento.</p>
                 <p>Los adultos nos obligaban a salir de la casa para compartir con el resto de la familia, y nosotros a regañadientes accedíamos. ¡Qué buenos tiempos!</p>
             </article>
             <article className='last-article'>
