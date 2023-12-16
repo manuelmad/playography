@@ -77,7 +77,7 @@ export default function MyStages(props) {
                         </p>
                         <p>Ya a mediados de los '90, comienza lo que en mi opinión fue uno de los puntos de inflexión más fuertes en la industria. Inicia la <span className="bold-italic">quinta generación de consolas</span> trayendo consigo los gráficos en 3D que tanto nos asombraron y emocionaron...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level4">Leer más...</Link>
                         </p>
                     </div>
                 </article>
