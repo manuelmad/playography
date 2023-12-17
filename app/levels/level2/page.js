@@ -145,6 +145,12 @@ export default function Level2() {
                             height={849}    
                         />
                         <Image
+                            src="/imgs/level2/legend-of-kage.jpg"
+                            alt="the legend of kage cover game"
+                            width={564}
+                            height={770}    
+                        />
+                        <Image
                             src="/imgs/level2/ninja-gaiden-3.jpg"
                             alt="ninja gaiden 3 cover game"
                             width={564}
@@ -155,6 +161,12 @@ export default function Level2() {
                             alt="ninja turtles 3 cover game"
                             width={564}
                             height={771}    
+                        />
+                        <Image
+                            src="/imgs/level2/rbi.jpg"
+                            alt="r.b.i. baseball cover game"
+                            width={564}
+                            height={761}    
                         />
                         <Image
                             src="/imgs/level2/simpsons-space-mutants.jpg"

@@ -7,7 +7,14 @@
 }
 
 .psone-games__container img {
-	width: 13rem;
+	width: 15rem;
     height: auto;
+	border-radius: 0.5rem;
+}
+
+.ps1fat {
+	width: 20rem;
+    height: auto;
+	float: right;
 	border-radius: 0.5rem;
 }

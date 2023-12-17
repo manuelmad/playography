@@ -112,3 +112,15 @@ p {
 .bi-arrow-right {
 	margin-left: 1rem;
 }
+
+@media (min-width: 700px) {
+	section {
+		max-width: 68rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	section {
+		max-width: 80rem;
+	}
+}
