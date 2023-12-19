@@ -135,6 +135,18 @@ export default function Level4() {
                     <p>Se me hace incontable la cantidad de títulos que jugamos, buenos y malos, sin piedad ni contemplación para con la pobre consolita, jajaja. Aquí algunos de los que más recuerdo y disfrutamos:</p>
                     <p className='psone-games__container'>
                         <Image
+                            src="/imgs/level4/alone.jpg"
+                            alt="alone in the dark cover img"
+                            width={564}
+                            height={576}
+                        />
+                        <Image
+                            src="/imgs/level4/bugs-lost-in-time.jpg"
+                            alt="bugs bunny: lost in time cover img"
+                            width={480}
+                            height={470}
+                        />
+                        <Image
                             src="/imgs/level4/crash-bandicoot.jpg"
                             alt="crash bandicoot cover img"
                             width={563}

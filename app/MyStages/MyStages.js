@@ -94,7 +94,7 @@ export default function MyStages(props) {
                         </p>
                         <p>La <span className="bold-italic">sexta generación de consolas</span>, ya mencionada en mi etapa anterior, arribó a finales de los '90 e inicio de los 2000. Como comenté, ésta pasó casi por debajo de la mesa para mí...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level5">Leer más...</Link>
                         </p>
                     </div>
                 </article>
@@ -111,7 +111,7 @@ export default function MyStages(props) {
                         </p>
                         <p>La <span className="bold-italic">séptima generación de consolas</span> ya estaba en marcha desde 2005-2006. Yo venía con la inercia de mi floja etapa anterior y, luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level6">Leer más...</Link>
                         </p>
                     </div>
                 </article>
