@@ -6,8 +6,8 @@ export default function Level3() {
     return(
         <main>
             <section>
+                <h2>LEVEL 3: Mi periodo en “las maquinitas”.</h2>
                 <article>
-                    <h2>LEVEL 3: Mi periodo en “las maquinitas”.</h2>
                     <p>A finales de los '80 e inicios de los '90, llega la <span className="bold-italic">cuarta generación de consolas</span> a Norte América, mientras yo aún jugaba con mi Famicom. Cuando empiezo el bachillerato en 1994 con 13 años de edad, tengo por primera vez acceso a una consola de Sega a través de un amigo de clases.</p>
                     <p>Por cierto, por muchos años había perdido el contacto con ese compañero, y hace poco lo retomé por mera casualidad. Hace unos días aproveché para preguntarle el modelo de Sega que tenía y que así esta nota fuera totalmente fiel a la realidad. Así me aseguré de que fue una Sega Genesis (nombre de la Mega Drive en América).</p>
                     <p className='centered-text'>

@@ -6,8 +6,8 @@ export default function Level2() {
     return(
         <main>
             <section>
+                <h2>LEVEL 2: Crece el afecto.</h2>
                 <article className='past'>
-                    <h2>LEVEL 2: Crece el afecto.</h2>
                     <p>Por increíble que parezca, de esta nueva consola no recuerdo la experiencia de cuando me la dieron. Puedo calcular que ocurrió cuando tenía entre 8 y 9 años de edad (1989 - 1990) y para no andar con muchos rodeos, directamente diré que fue una... ¡Famicom!, o como todos los niños de la época la llamábamos: “la family”.</p>
                     <p>Con ella viví la <span className="bold-italic">tercera generación de consolas</span>. La Family Computer salió al mercado en 1983 en Japón, así que ya tenía al menos 6 años en las estanterías de las tiendas cuando la pude tener en mi casa, incluso ya existía cuando yo aún jugaba con mi Atari.</p>
                     <p>Hoy en día, con tanta información en redes y la web en general, ya sabemos de sobra cómo luce una Famicom, ¿cierto?</p>

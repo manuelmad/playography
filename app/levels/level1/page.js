@@ -7,8 +7,8 @@ export default function Level1() {
   return (
     <main>
         <section>
+            <h2>LEVEL 1: El despertar de una afición.</h2>
 			<article>
-				<h2>LEVEL 1: El despertar de una afición.</h2>
 				<p>Cuando antes escribí “desde que tengo uso de razón”, ¡lo decía de forma literal!</p>
 				<p>Estaba muy joven cuando tuve mi primera consola y los recuerdos del uso que le di son pocos y no muy claros...</p>
 				<div className="intro-container">
