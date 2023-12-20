@@ -3,17 +3,31 @@
 	margin-bottom: 3rem;
 }
 
+/* .about-me {
+	display: flex;
+	align-items: center;
+} */
+
 .intro {
 	position: relative;
-	height: auto;
+	height: 45rem;
 }
 
 .intro img {
-	width: 100%;
+	/* width: 100%; */
+	/* max-width: 33.7rem; */
 	height: 100%;
+	width: auto;
+	/* height: auto; */
 	position: absolute;
 	top: 0;
-	left: 0;
+	left: calc(50% - 14.9rem);
 	z-index: -1;
 	opacity: 0.5;
 }
+
+/* @media (min-width: 700px) {
+	.intro img {
+		max-width: 33.7rem;
+	}
+} */
