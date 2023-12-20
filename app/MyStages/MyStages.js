@@ -128,7 +128,7 @@ export default function MyStages(props) {
                         </p>
                         <p>Entre 2019 y 2020 comienza la pandemia debida al COVID-19. Durante esos momentos de aislamiento, había que recurrir a muchas formas de entretenimiento para poder mantener la cordura a niveles más o menos decentes. Fue en este periodo que descubrí la existencia de algo en mi opinión maravilloso...</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level7">Leer más...</Link>
                         </p>
                     </div>
                 </article>
@@ -145,7 +145,7 @@ export default function MyStages(props) {
                         </p>
                         <p>Después de pasar varios meses como adicto jugando en emuladores a cuanto juego se me venía a la mente, decidí organizarme un poco. Me determiné a jugar las sagas de videojuegos que me gustaron en el pasado, todas esas que comencé desde su primer producto y que no pude continuar, o que comencé con algún juego intermedio sin saber que hubo juegos antes y después de ese.</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level8">Leer más...</Link>
                         </p>
                     </div>
                 </article>
@@ -163,7 +163,7 @@ export default function MyStages(props) {
                         <p>¡Llegamos al presente!</p>
                         <p>Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme, jajaja. No sé si tendré el tiempo suficiente para lograr el cometido que me propuse, lo que sí sé es que me voy a divertir intentándolo.</p>
                         <p>
-                            <Link href="#">Leer más...</Link>
+                            <Link href="/levels/level9">Leer más...</Link>
                         </p>
                     </div>
                 </article>

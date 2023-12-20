@@ -32,7 +32,7 @@ export default function References() {
                     </p>
                 </article>
                 <article>
-                    <h3>Videojuego desarrollado con HTML, CSS y JavaScript:</h3>
+                    <h3>Videojuego desarrollado por mí con HTML, CSS y JavaScript:</h3>
                     <p>
                         <Link href="https://planetageek-videogame.netlify.app/">Planeta Geek Videogame by Manuel Araujo</Link>
                     </p>
@@ -42,7 +42,13 @@ export default function References() {
                     <p>
                         <Link href="https://www.youtube.com/watch?v=3dGBMGI43GA">NintendoComplete</Link>
                     </p>
-                </article>               
+                </article>
+                <article>
+                    <h3>Mods de Yu Gi Oh! Forbidden Memories:</h3>
+                    <p>
+                        <Link href="https://vcgi.foroes.org/f21-yu-gi-oh-forbidden-memories-mod">VCGI Juegos</Link>
+                    </p>
+                </article>
             </section>
         </main>
     );
