@@ -107,11 +107,42 @@ export default function Level6() {
                     </p>
                     <p>Recuerdo que compré God of War Saga por recomendación del vendedor de la tienda, y vaya que tenía razón ese muchacho. Gracias, mi pana, quienquiera que seas y dondequiera que estés, jejeje.</p>
                     <p>¡Mis ojos no podían creer lo que estaba viendo!, cada cinemática me dejaba con la boca más abierta que la anterior. La jugabilidad, la violencia, la historia, los gigantescos personajes... De inmediato se convirtió en una de mis sagas preferidas de por vida.</p>
-                    {/* <p>Colocar imágenes y videos
-                        <img src="">
-                    </p> */}
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level6/gow1.jpg"
+                            alt="god of war gameplay img"
+                            width={1280}
+                            height={720}    
+                        />
+                    </p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level6/gow2.jpg"
+                            alt="god of war 2 gameplay img"
+                            width={512}
+                            height={400}    
+                        />
+                    </p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level6/gow3.webp"
+                            alt="god of war 3 gameplay img"
+                            width={1200}
+                            height={674}    
+                        />
+                    </p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level6/gow-ascension.jpg"
+                            alt="god of war ascension gameplay img"
+                            width={1600}
+                            height={900}    
+                        />
+                    </p>
                      <p>Sin embargo, ahora recuerdo que los 2 juegos que habían salido originalmente para PlayStation Portable (Chains of Olympus y Ghost of Sparta) no estaban incluidos en el disco, sino que había un código de descarga escrito en el papel interno del juego físico. Cuando intenté canjearlo, estaba vencido, así que volví a la tienda y al explicarle la situación al vendedor, me permitió escoger un juego usado como reemplazo de esos 2, y así fue como obtuve el Heavy Rain. Esto resultó de alguna manera conveniente, ya que fue un juego que disfruté muchísimo.</p>
                      <p>A parte de los juegos físicos que compré, solía descargar y jugar algunos demos gratuitos de la PlayStation Store.</p>
+                </article>
+                <article>
                     <p>La <span className="bold-italic">octava generación de consolas</span> llegó entre 2012 y 2013, es decir que toda esa experiencia con mi PS3 transcurrió cuando en el mundo ya existían nuevas consolas y yo ni me enteraba. Poco a poco fui perdiendo ese pequeño impulso que había tenido gracias a mi esposa y volví a caer en la inercia del trabajo y responsabilidades, hasta que, pasados varios años, ocurre un hecho que cambió la vida a muchos en el planeta.</p>
                 </article>
                 <article className='last-article'>
