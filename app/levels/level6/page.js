@@ -63,7 +63,7 @@ export default function Level6() {
                         />
                     </p>
                     <p>Hace poco quise rejugarlo, pero la cantidad de nuevas reglas y efectos de cartas me hicieron sentir abrumado y desistí.</p>
-                    <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 “Slim” nueva de caja, con el juego de Uncharted.</p>
+                    <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 “Slim” nueva de caja, con el juego de Uncharted en físico.</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level6/uncharted.webp"
@@ -72,7 +72,7 @@ export default function Level6() {
                             height={1536}    
                         />
                     </p>
-                    <p>Aunque seguía bastante ocupado, pude disfrutar de las aventuras de Nathan Drake. Empecé a animarme de nuevo y en ocasiones aprovechaba las salidas a centros comerciales para mirar posibles juegos, los que compré y jugué fueron pocos:</p>
+                    <p>Aunque seguía bastante ocupado, pude disfrutar de las aventuras de Nathan Drake. Empecé a animarme de nuevo y en ocasiones aprovechaba las salidas a centros comerciales para mirar posibles juegos en formato físico. Los que compré y jugué fueron pocos:</p>
                     <p className='ps3-games__container'>
                         <Image
                             src="/imgs/level6/god-of-war-ascension.jpg"

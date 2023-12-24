@@ -55,6 +55,10 @@ h2 {
 	padding: 0 1rem;
 }
 
+h3 {
+	text-align: center;
+}
+
 div {
   width: 100%;
 }

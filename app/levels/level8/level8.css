@@ -1,0 +1,13 @@
+.ps3-digital-games__container {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 1rem;
+	width: 100%;
+	justify-content: center;
+}
+
+.ps3-digital-games__container img {
+	width: 13rem;
+    height: auto;
+	border-radius: 0.5rem;
+}
