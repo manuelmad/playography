@@ -1,3 +1,29 @@
+.long-list, .money-wings {
+	width: 15rem;
+    height: auto;
+	float: right;
+	border-radius: 0.5rem;
+}
+
+.broken-laptop, .magic {
+	width: 15rem;
+    height: auto;
+	float: left;
+	border-radius: 0.5rem;
+	margin-right: 1rem;
+}
+
+.devices {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.devices img {
+	width: 50%;
+	height: auto;
+}
+
 .ps3-digital-games__container {
 	display: flex;
 	flex-wrap: wrap;

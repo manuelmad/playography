@@ -49,6 +49,24 @@ export default function References() {
                         <Link href="https://vcgi.foroes.org/f21-yu-gi-oh-forbidden-memories-mod">VCGI Juegos</Link>
                     </p>
                 </article>
+                <article>
+                    <h3>Tiendas de juegos digitales:</h3>
+                    <p>
+                        <Link href="https://ps3maracaibo.com/">ps3maracaibo</Link>
+                    </p>
+                    <p>
+                        <Link href="https://venezuelajuegosdigitales.com/">VenezuelaJuegosDigitales</Link>
+                    </p>
+                    <p>
+                        <Link href="https://www.portalgames.com.ar/">Portal Games</Link>
+                    </p>
+                    <p>
+                        <Link href="https://lunaplaystore.com/">Luna Playstore</Link>
+                    </p>
+                    <p>
+                        <Link href="https://www.gamelandiajuegos.com.ar/">Gamelandia</Link>
+                    </p>
+                </article>
             </section>
         </main>
     );
