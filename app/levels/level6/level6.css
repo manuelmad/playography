@@ -12,7 +12,7 @@
 	border-radius: 0.5rem;
 }
 
-.ps3-games__container {
+/* .ps3-games__container {
 	display: flex;
 	flex-wrap: wrap;
 	gap: 1rem;
@@ -24,4 +24,4 @@
 	width: 13rem;
     height: auto;
 	border-radius: 0.5rem;
-}
+} */

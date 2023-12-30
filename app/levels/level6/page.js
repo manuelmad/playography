@@ -66,14 +66,22 @@ export default function Level6() {
                     <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 “Slim” nueva de caja, con el juego de Uncharted en físico.</p>
                     <p className='centered-text'>
                         <Image
-                            src="/imgs/level6/uncharted.webp"
+                            src="/imgs/level6/uncharted.png"
                             alt="uncharted cover img"
-                            width={1331}
-                            height={1536}    
+                            width={448}
+                            height={557}    
                         />
                     </p>
                     <p>Aunque seguía bastante ocupado, pude disfrutar de las aventuras de Nathan Drake. Empecé a animarme de nuevo y en ocasiones aprovechaba las salidas a centros comerciales para mirar posibles juegos en formato físico. Los que compré y jugué fueron pocos:</p>
-                    <p className='ps3-games__container'>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level6/ps3gamesx5.png"
+                            alt="5 ps3 games cover img"
+                            width={553}
+                            height={451}    
+                        />
+                    </p>
+                    {/* <p className='ps3-games__container'>
                         <Image
                             src="/imgs/level6/god-of-war-ascension.jpg"
                             alt="god of war ascension cover img"
@@ -104,7 +112,7 @@ export default function Level6() {
                             width={869}
                             height={1024}
                         />
-                    </p>
+                    </p> */}
                     <p>Recuerdo que compré God of War Saga por recomendación del vendedor de la tienda, y vaya que tenía razón ese muchacho. Gracias, mi pana, quienquiera que seas y dondequiera que estés, jejeje.</p>
                     <p>¡Mis ojos no podían creer lo que estaba viendo!, cada cinemática me dejaba con la boca más abierta que la anterior. La jugabilidad, la violencia, la historia, los gigantescos personajes... De inmediato se convirtió en una de mis sagas preferidas de por vida.</p>
                     <p className='centered-text'>
