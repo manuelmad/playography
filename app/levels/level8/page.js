@@ -20,6 +20,8 @@ export default function Level8() {
                         />
                         Luego agregué a mi lista aquellas sagas que, viendo sus gameplays o análisis en las redes, me parecieron buenas o importantes para la industria.
                     </p>
+                    <p>También incluí algunos juegos que no pertenecen a sagas, así como juegos indies que me llamaron la atención.</p>
+                    <p>Hace poco decidí también jugar algunos juegos retro específicos, solo por el placer de sentir la nostalgia y transportarme al momento en que los jugue de niño.</p>
                     <p>Obviamente, como ustedes comprenderán porque seguro son iguales a mí, dicha lista crecía cada vez más, jejeje. Cualquier excusa era válida para agregar nuevas sagas al “proyecto”.</p>
                     <p>Una vez que las listas estaban más o menos terminadas, era obvio que, como ya mencioné anteriormente, mi laptop y teléfono no serían suficientes para cumplirlas a cabalidad.</p>
                     <p>
