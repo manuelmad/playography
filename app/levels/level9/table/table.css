@@ -1,0 +1,7 @@
+tr td:first-child {
+    text-align: start;
+}
+
+tr td {
+    text-align: center;
+}
