@@ -1,10 +1,21 @@
-.revenge {
+.revenge, .x {
 	width: 15rem;
     height: auto;
 	float: right;
 	border-radius: 0.5rem;
 }
 
+.write, .evolution {
+	width: 15rem;
+    height: auto;
+	float: left;
+	border-radius: 0.5rem;
+}
+
 .list-container {
     text-align: center;
+}
+
+ul li {
+	list-style: none;
 }
