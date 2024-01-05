@@ -27,6 +27,9 @@ html {
 	--tone-3: #294E7F;
 	--tone-4: #1C3557;
 
+	--black: #000000;
+	--white: #ffffff;
+
 	--small-font: 1.2rem;
 	--medium-font: 1.6rem;
 	--lg-font: 2rem;
@@ -45,9 +48,10 @@ section {
 }
 
 article {
-  	width: 100%;
+  	/* width: 100%; */
 	padding: 3rem 1rem;
 	width: 30rem;
+	margin: 0 auto;
 }
 
 h2 {
@@ -57,7 +61,7 @@ h2 {
 }
 
 h3 {
-	text-align: center;
+	/* text-align: center; */
 	padding-top: 3rem;
 }
 
@@ -122,13 +126,16 @@ p {
 }
 
 @media (min-width: 700px) {
-	section {
-		max-width: 68rem;
+	main {
+		font-size: var(--lg-font);
+	}
+	article {
+		width: 68rem;
 	}
 }
 
 @media (min-width: 1024px) {
-	section {
-		max-width: 80rem;
+	article {
+		width: 90rem;
 	}
 }

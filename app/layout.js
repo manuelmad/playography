@@ -1,8 +1,14 @@
-import { Roboto_Condensed } from 'next/font/google';
+// import { Roboto_Condensed } from 'next/font/google';
 import { Press_Start_2P } from 'next/font/google';
+import { Bai_Jamjuree } from 'next/font/google';
 import './globals.css';
 
-const roboto_condensed = Roboto_Condensed({
+// const roboto_condensed = Roboto_Condensed({
+//   subsets: ['latin'],
+//   weight: '400',
+// });
+
+const bai_jamjuree = Bai_Jamjuree({
   subsets: ['latin'],
   weight: '400',
 });
@@ -27,7 +33,7 @@ export default function RootLayout({ children }) {
       <head>
         <meta httpEquiv="X-UA-Compatible" content="IE=edge"/>{/*Agrego la etiqueta head aquí para poder agregar la etiqueta meta de http-equiv, la cual no está soportada por Next JS*/}
       </head>
-      <body className={roboto_condensed.className}>{children}</body>
+      <body className={bai_jamjuree.className}>{children}</body>
     </html>
   )
 }

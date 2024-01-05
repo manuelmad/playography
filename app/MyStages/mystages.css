@@ -3,24 +3,77 @@
     margin-bottom: 0;
 }
 
+.gamer-stages-h2__container {
+	padding-bottom: 0;
+}
 
 .img-container {
 	width: 28rem;
 	height: 28rem;
-	border-radius: 0.5rem;
+	border-radius: 1rem;
 	overflow: hidden;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-    background-color: var(--black-blue);
+}
+/* 
+.stages-link {
+	text-decoration: none;
+	background-color: var(--tone-4);
+	color: var(--white);
+	padding: 0.3rem;
+	border-radius: 0.5rem;
+} */
+
+.press-start_container, .game-room__container {
+	background-color: var(--black);
+}
+
+.health-bar__container {
+	background-color: var(--white);
+}
+
+.lucky-gamer__container {
+	background-color:#020202;
+}
+
+.pause-container {
+	background-color: #0f0f0f;
+}
+
+.controllers {
+	background-color: #787878;
+}
+
+.gamer-on__container, .never-quit {
+	border: 0.2rem solid var(--black);
+}
+
+.gamer-forever {
+	background-color: #262d3a;
 }
 
 .img-container img {
-	width: 100%;
+	width: 90%;
     height: auto;
-	transition: 0.3s ease all;
+	transition: 0.9s ease all;
 }
 
 .img-container img:hover {
-    width: 110%;
+    width: 120%;
 }
+
+@media (min-width: 700px) {
+	.img-container {
+		width: 35rem;
+		height: 35rem;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+/* @media (min-width: 1024px) {
+	article {
+		width: 80rem;
+	}
+} */
