@@ -47,6 +47,7 @@ section {
 article {
   	width: 100%;
 	padding: 3rem 1rem;
+	width: 30rem;
 }
 
 h2 {
@@ -116,7 +117,7 @@ p {
 	margin-right: 1rem;
 }
 
-.bi-arrow-right {
+.bi-arrow-right, .bi-house {
 	margin-left: 1rem;
 }
 

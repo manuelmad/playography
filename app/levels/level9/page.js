@@ -109,8 +109,16 @@ export default function Level9() {
                     <p>Entre los juegos que he probado en la híbrida de Nintendo están:</p>
                     <p className='centered-text'>
                         <Image
+                            src="/imgs/level9/celeste.jpg"
+                            alt="celeste img"
+                            width={544}
+                            height={304}    
+                        />
+                    </p>
+                    <p className='centered-text'>
+                        <Image
                             src="/imgs/level9/cup-head.jpg"
-                            alt="cup head img"
+                            alt="cuphead img"
                             width={564}
                             height={358}    
                         />
@@ -155,14 +163,38 @@ export default function Level9() {
                             height={619}    
                         />
                     </p>
-                    {/* <p>Ver resto de juegos</p> */}
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level9/sky.jpg"
+                            alt="sky img"
+                            width={2000}
+                            height={1000}    
+                        />
+                    </p>
                     <p>Hice una excepción con Pokémon Quest, adelantando ese juego en la lista, porque es gratuito y me sirvió para probar todo en la consola, fue mi primer juego en la Switch 🤩.</p>
-                    <p>Y hago una mención especial a un juego que me hizo sentir como hacía rato no me había sentido. Sus gráficos, jugabilidad, controles, historia, escenarios, exploración y desbloqueo de ítems y mundos... ¡Qué pedazo de juego es Hollow Knight! No estoy descubriendo el agua tibia diciendo esto acerca del que es considerado como el mejor juego indie y mejor Metroidvania de la historia, pero no puedo dejar de expresar que al jugarlo me demostró que no es exagerado el estatus que se le ha impuesto, ¡merecidísimo!</p>
+                    <p>El juego de Sky también es gratuito y solo lo descargué y probé por un rato. Me llamó la atención porque leí que está desarrollado por los mismos creadores de Journey (PS3). En algún momento lo terminaré, pero no está en mis prioridades justo ahora.</p>
+                    <p>El otro en esta lista que aún no he terminado es Cuphead. Lo llevo al <span className='yellow'>XX%</span>, pero es bastante difícil y necesito cierto nivel de paciencia que justo ahora no tengo 🥴. Éste sí lo tengo entre mis pendientes y más pronto que tarde le daré la estocada final.</p>
+                    <p>Haré una mención especial a uno de estos juegos, que me hizo sentir como hacía rato no me había sentido. Sus gráficos, jugabilidad, controles, historia, escenarios, exploración y desbloqueo de ítems y mundos... ¡Qué pedazo de juego es Hollow Knight! No estoy descubriendo el agua tibia diciendo esto acerca del que es considerado como el mejor juego indie y mejor Metroidvania de la historia, pero no puedo dejar de expresar que al jugarlo me demostró que no es exagerado el estatus que se le ha impuesto, ¡merecidísimo!</p>
                     <p>Éste es uno de los juegos que me ha hecho salir de las reglas que antes expuse. Le invertí más de 60 horas para lograr el <span className="yellow">xxx%</span>, eso es altísimo para mis estándares y más teniendo en cuenta que mi prioridad es terminar la gran cantidad de juegos que forman parte de mis listas. ¡Muy recomendado!</p>
-                    <p>Todos los juegos que he adquirido en la Switch los tengo en formato digital, a excepción de uno que compré en físico mientras escribía esta juegografía. Este juego es el Luigi's Mansion 3, aprovechando que ya jugué las dos primeras entregas y que tuve un dinerillo extra disponible para el momento.</p>
-                    {/* <p>Colocar imágenes
-                        <img src="">
-                    </p> */}
+                    <p>Todos los juegos que he adquirido en la Switch los tengo en formato digital, a excepción de uno que compré en físico mientras escribía esta juegografía. Este juego es el Luigi's Mansion 3, aprovechando que ya jugué las dos primeras entregas de GameCube y 3DS, y que tuve un dinerillo extra disponible para el momento.</p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level9/luigis-mansion-3.jpg"
+                            alt="luigi's mansion 3 img"
+                            width={1231}
+                            height={1970}    
+                        />
+                    </p>
+                    <p>Lo que he jugado hasta ahora ha sido bastante entretenido. Siento que hay muchas más cosas ocultas que en las anteriores entregas. Se puede interactuar con casi cualquier cosa del escenario y eso aumenta mucho el tiempo de exploración. Este juego es el causante de que esté pasando los días con sueño 😴, debido a las veladas nocturnas que le estoy dedicando.</p>
+                    <p>Para finalizar, acompáñame a la siguiente sección para la despedida.</p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level9/mario-bye.png"
+                            alt="mario img"
+                            width={249}
+                            height={388}    
+                        />
+                    </p>
                 </article>
                 <article className='last-article'>
                     <div className="arrows-container">
@@ -172,8 +204,8 @@ export default function Level9() {
                             </svg>
                             LEVEL 8
                         </Link>
-                        <Link href="/references">
-                            REFERENCIAS
+                        <Link href="/finalThoughts">
+                            PENSAMIENTOS FINALES
                             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right" viewBox="0 0 16 16">
                                 <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
                             </svg>

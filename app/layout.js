@@ -1,7 +1,13 @@
 import { Roboto_Condensed } from 'next/font/google';
+import { Press_Start_2P } from 'next/font/google';
 import './globals.css';
 
 const roboto_condensed = Roboto_Condensed({
+  subsets: ['latin'],
+  weight: '400',
+});
+
+export const press_start_2P = Press_Start_2P({
   subsets: ['latin'],
   weight: '400',
 });

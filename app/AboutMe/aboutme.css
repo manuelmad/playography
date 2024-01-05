@@ -10,15 +10,15 @@
 
 .intro {
 	position: relative;
-	height: 45rem;
+	height: 60rem;
 }
 
 .intro img {
-	/* width: 100%; */
+	width: 100%;
 	/* max-width: 33.7rem; */
-	height: 100%;
-	width: auto;
-	/* height: auto; */
+	/* height: 100%; */
+	/* width: auto; */
+	height: auto;
 	position: absolute;
 	top: 0;
 	left: calc(50% - 14.9rem);
