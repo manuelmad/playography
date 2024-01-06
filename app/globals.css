@@ -21,6 +21,11 @@ html {
 	--turquoise-blue: #5E4EF5;
 	--weak-yellow: #F5DD4E;
 	--purple-blue: #6E68A0;
+	--dark-green: #398f2e;
+	--fucsia: #E366B8;
+	--celeste: #66C4E3;
+	--palid-red: #E37366;
+	--burn-yellow: #E3D166;
 
 	--tone-1: #3667A8;
 	/* --tone-2: #4E96F5; */
@@ -44,12 +49,12 @@ main {
 section {
 	/* width: 30rem; */
 	width: 100%;
-	margin: 2rem auto 0;
+	margin: 0 auto 0;
 }
 
 article {
   	/* width: 100%; */
-	padding: 3rem 1rem;
+	padding: 6rem 1rem;
 	width: 30rem;
 	margin: 0 auto;
 }
@@ -62,7 +67,7 @@ h2 {
 
 h3 {
 	/* text-align: center; */
-	padding-top: 3rem;
+	/* padding-top: 3rem; */
 }
 
 div {
@@ -131,11 +136,13 @@ p {
 	}
 	article {
 		width: 68rem;
+		padding: 8rem 1rem;
 	}
 }
 
 @media (min-width: 1024px) {
 	article {
-		width: 90rem;
+		width: 80rem;
+		padding: 10rem 1rem;
 	}
 }

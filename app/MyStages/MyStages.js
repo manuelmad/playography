@@ -11,33 +11,33 @@ export default function MyStages(props) {
                         <h2 className='h2-mystages'>MIS ETAPAS GAMER</h2>
                     </div>
                 </article>
-                <article>
+                <article className='level1-container'>
                     <div>
                         <h3>LEVEL 1: El despertar de una afición.</h3>
                         <p className="img-container press-start_container">
                             <Image
-                                src="/imgs/press-start.jpg"
+                                src="/imgs/press-start.png"
                                 alt="press start"
-                                width={563}
+                                width={551}
                                 height={462}
                             />
                         </p>
-                        <p>Cuando antes escribí “desde que tengo uso de razón”, ¡lo decía de forma literal!</p>
+                        <p>Cuando antes escribí "desde que tengo uso de razón", ¡lo decía de forma literal!</p>
                         <p>Estaba muy joven cuando tuve mi primera consola y los recuerdos del uso que le di son pocos y no muy claros...</p>
                         <p>
                             <Link className='stages-link' href="/levels/level1">Leer más...</Link>
                         </p>				
                     </div>
                 </article>
-                <article>
+                <article className='level2-container'>
                     <div>
                         <h3>LEVEL 2: Crece el afecto.</h3>
                         <p className="img-container health-bar__container">
                             <Image
                                 src="/imgs/health-bar.png"
                                 alt="Health bar"
-                                width={627}
-                                height={587}
+                                width={516}
+                                height={483}
                             />
                         </p>
                         <p>Por increíble que parezca, de esta nueva consola no recuerdo la experiencia de cuando me la dieron. Puedo calcular que ocurrió cuando tenía entre 8 y 9 años de edad...</p>
@@ -46,7 +46,7 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level3-container'>
                     <div>
                         <h3>LEVEL 3: Mi periodo en "las maquinitas".</h3>
                         <p className="img-container game-room__container">
@@ -63,15 +63,15 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level4-container'>
                     <div>
                         <h3>LEVEL 4: Un poco más de maquinitas y un gran golpe de suerte.</h3>
                         <p className="img-container lucky-gamer__container">
                             <Image
-                                src="/imgs/lucky-gamer.jpg"
+                                src="/imgs/lucky-luigi.jpg"
                                 alt="Lucky Gamer"
-                                width={545}
-                                height={390}
+                                width={800}
+                                height={830}
                             />
                         </p>
                         <p>Ya a mediados de los '90, comienza lo que en mi opinión fue uno de los puntos de inflexión más fuertes en la industria. Inicia la <span className="bold-italic">quinta generación de consolas</span>...</p>
@@ -80,7 +80,7 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level5-container'>
                     <div>
                         <h3>LEVEL 5: Juego pausado.</h3>
                         <p className="img-container pause-container">
@@ -97,15 +97,15 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level6-container'>
                     <div>
                         <h3>LEVEL 6: Un tímido reinicio.</h3>
                         <p className="img-container never-quit">
                             <Image
-                                src="/imgs/never-quit.jpg"
+                                src="/imgs/never-quit.png"
                                 alt="Gamers never quit"
-                                width={564}
-                                height={564}
+                                width={500}
+                                height={500}
                             />
                         </p>
                         <p>La <span className="bold-italic">séptima generación de consolas</span> ya estaba en marcha. Yo venía con la inercia de mi floja etapa anterior y, luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer...</p>
@@ -114,15 +114,15 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level7-container'>
                     <div>
                         <h3>LEVEL 7: Algo bueno dentro de lo malo.</h3>
                         <p className="img-container controllers">
                             <Image
-                                src="/imgs/controllers.jpg"
+                                src="/imgs/manycharacters.jpg"
                                 alt="Emulators"
-                                width={313}
-                                height={161}
+                                width={564}
+                                height={670}
                             />
                         </p>
                         <p>Entre 2019 y 2020 comienza la pandemia debida al COVID-19. Fue en este periodo que descubrí la existencia de algo en mi opinión maravilloso...</p>
@@ -131,15 +131,15 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level8-container'>
                     <div>
                         <h3>LEVEL 8: Comienza la redención.</h3>
                         <p className="img-container gamer-on__container">
                             <Image
-                                src="/imgs/gamer-on.jpg"
+                                src="/imgs/gamer-on.png"
                                 alt="Gamer mode on"
-                                width={564}
-                                height={564}
+                                width={500}
+                                height={500}
                             />
                         </p>
                         <p>Después de pasar varios meses como adicto jugando a cuanto juego se me venía a la mente, decidí organizarme un poco. Me determiné a jugar las sagas de videojuegos que me gustaron en el pasado...</p>
@@ -148,7 +148,7 @@ export default function MyStages(props) {
                         </p>
                     </div>
                 </article>
-                <article>
+                <article className='level9-container'>
                     <div>
                         <h3>LEVEL 9: Poniéndome al día.</h3>
                         <p className="img-container gamer-forever">
@@ -161,6 +161,24 @@ export default function MyStages(props) {
                         </p>
                         <p>¡Llegamos al presente!</p>
                         <p>Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme...</p>
+                        <p>
+                            <Link href="/levels/level9">Leer más...</Link>
+                        </p>
+                    </div>
+                </article>
+                <article className='finalthoughts-container'>
+                    <div>
+                        <h3>PENSAMIENTOS FINALES.</h3>
+                        <p className="img-container thinking-dk">
+                            <Image
+                                src="/imgs/thinking-dk.png"
+                                alt="thinking dk"
+                                width={2495}
+                                height={2702}
+                            />
+                        </p>
+                        <p>¡Gracias por acompañarme...!</p>
+                        <p>Fue un largo camino desde mi infancia, cuando me regalaron aquella Atari a mis 5 años, hasta el día de hoy...</p>
                         <p>
                             <Link href="/levels/level9">Leer más...</Link>
                         </p>
