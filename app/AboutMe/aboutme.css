@@ -1,23 +1,52 @@
 .h2-aboutme {
 	text-align: center;
 	margin-bottom: 3rem;
+	border-bottom: 0.3rem solid var(--main-blue);
+	padding-bottom: 1rem;
 }
 
 .about-me {
-	background-color: var(--celeste);
+	background-color: var(--black-blue);
+	color: var(--very-light-gray);
+	/* background-image: radial-gradient(circle, #f2f2f2, #d8d8f2, #b8c0f3, #8eaaf4, #4e96f5); */
+}
+
+.about-me h2 {
+	color: var(--white);
 }
 
 .intro {
 	position: relative;
-	height: 66rem;
+	height: 78rem;
 	/* background-color: var(--white); */
 	border-radius: 0.5rem;
 }
 
 .intro p {
-	font-weight: bold;
+	/* font-weight: bold; */
 	padding: 0.5rem;
-	color: var(--white);
+	/* color: var(--white); */
+	/* color: var(--black); */
+}
+
+.p1 {
+	border-left: 0.1rem solid var(--palid-red);
+}
+
+.p2 {
+	border-left: 0.1rem solid var(--dark-green);
+}
+
+.p3 {
+	border-left: 0.1rem solid var(--weak-yellow);
+}
+
+.p4 {
+	border-left: 0.1rem solid var(--turquoise-blue);
+}
+
+.p5 {
+	border-left: 0.1rem solid var(--celeste);
 }
 
 .intro img {
@@ -30,12 +59,12 @@
 	top: calc(50% - 22.145rem);
 	left: calc(50% - 14rem);
 	z-index: 1;
-	opacity: 0.3;
+	opacity: 0.2;
 }
 
 @media (min-width: 700px) {
 	.intro {
-		height: 50rem;
+		height: 60rem;
 	}
 	.intro img {
 		width: 28rem;
@@ -44,7 +73,7 @@
 
 @media (min-width: 1024px) {
 	.intro {
-		height: 43rem;
+		height: 55rem;
 	}
 	/* .intro img {
 		width: 28rem;

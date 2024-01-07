@@ -2,10 +2,17 @@ import Image from 'next/image';
 import Link from 'next/link';
 import './mystages.css';
 
-export default function MyStages(props) {
+export default function MyStages() {
     return(
         <>
             <section className="my-stages">
+                <Image
+                    src="/imgs/gamer-history.png"
+                    alt="gamer book img"
+                    width={666}
+                    height={376}
+                    className='book'
+                />
                 <article className='gamer-stages-h2__container'>
                     <div>
                         <h2 className='h2-mystages'>MIS ETAPAS GAMER</h2>
@@ -168,7 +175,7 @@ export default function MyStages(props) {
                 </article>
                 <article className='finalthoughts-container'>
                     <div>
-                        <h3>PENSAMIENTOS FINALES.</h3>
+                        <h3>FINAL LEVEL: Pensamientos Finales.</h3>
                         <p className="img-container thinking-dk">
                             <Image
                                 src="/imgs/thinking-dk.png"
