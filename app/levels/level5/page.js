@@ -2,6 +2,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import './level5.css';
 
+import Router from '@/app/components/Router/Router';
+
 export default function Level5() {
     return(
         <main>
@@ -66,22 +68,12 @@ export default function Level5() {
                     <p>Por otra casualidad más, hace poco obtuve el contacto de ese amigo de mi hermano. Ya no sé si todas estas cosas son casualidades 🤔, o si estaba destinado a escribir este artículo, jejeje. De cualquier manera, aproveché de preguntarle acerca de aquella anécdota y efectivamente me corroboró que tenía el Super Smash, 2 juegos de Resident (0 y 1 Remake), pero no recuerda cuál de los Mario Party's tuvo. Así que ésta ha sido mi investigación menos fructífera: no sé cuál de los 2 Resident Evil jugué ni cuál entrega de Mario Party de GameCube 😩...</p>
                     <p>En Resumen, fue un periodo bastante flojo para mi experiencia gamer, y así continuaría por varios años, hasta que empezaron a mejorar algunas circunstancias...</p>
                 </article>
-                <article className='last-article'>
-                    <div className="arrows-container">
-                        <Link href="/levels/level4">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
-                            </svg>
-                            LEVEL 4
-                        </Link>
-                        <Link href="/levels/level6">
-                            LEVEL 6
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
-                            </svg>
-                        </Link>
-                    </div>
-                </article>
+                <Router 
+                    text1="LEVEL 4"
+                    link1="/levels/level4"
+                    text2="LEVEL 6"
+                    link2="/levels/level6"
+                />
             </section>
         </main>
     );

@@ -112,6 +112,7 @@ p {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
+	font-size: var(--small-font);
 }
   
 .arrows-container a {
@@ -137,6 +138,9 @@ p {
 	article {
 		width: 68rem;
 		padding: 8rem 1rem;
+	}
+	.arrows-container {
+		font-size: var(--medium-font);
 	}
 }
 

@@ -2,6 +2,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import './level6.css';
 
+import Router from '@/app/components/Router/Router';
+
 export default function Level6() {
     return(
         <main>
@@ -153,22 +155,12 @@ export default function Level6() {
                 <article>
                     <p>La <span className="bold-italic">octava generación de consolas</span> llegó entre 2012 y 2013, es decir que toda esa experiencia con mi PS3 transcurrió cuando en el mundo ya existían nuevas consolas y yo ni me enteraba. Poco a poco fui perdiendo ese pequeño impulso que había tenido gracias a mi esposa y volví a caer en la inercia del trabajo y responsabilidades, hasta que, pasados varios años, ocurre un hecho que cambió la vida a muchos en el planeta.</p>
                 </article>
-                <article className='last-article'>
-                    <div className="arrows-container">
-                        <Link href="/levels/level5">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
-                            </svg>
-                            LEVEL 5
-                        </Link>
-                        <Link href="/levels/level7">
-                            LEVEL 7
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
-                            </svg>
-                        </Link>
-                    </div>
-                </article>
+                <Router 
+                    text1="LEVEL 5"
+                    link1="/levels/level5"
+                    text2="LEVEL 7"
+                    link2="/levels/level7"
+                />
             </section>
         </main>
     );

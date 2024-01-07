@@ -2,6 +2,8 @@ import Image from 'next/image';
 import Link from 'next/link';
 import './level3.css';
 
+import Router from '@/app/components/Router/Router';
+
 export default function Level3() {
     return(
         <main>
@@ -285,22 +287,12 @@ export default function Level3() {
                     <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos a su alrededor para jugar por turnos, siempre al Mortal Kombat del momento.</p>
                     <p>Los adultos nos obligaban a salir de la casa para compartir con el resto de la familia, y nosotros a regañadientes accedíamos. ¡Qué buenos tiempos!</p>
                 </article>
-                <article className='last-article'>
-                    <div className="arrows-container">
-                        <Link href="/levels/level2">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
-                            </svg>
-                            LEVEL 2
-                        </Link>
-                        <Link href="/levels/level4">
-                            LEVEL 4
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-right" viewBox="0 0 16 16">
-                                <path fillRule="evenodd" d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8"/>
-                            </svg>
-                        </Link>
-                    </div>
-                </article>
+                <Router 
+                    text1="LEVEL 2"
+                    link1="/levels/level2"
+                    text2="LEVEL 4"
+                    link2="/levels/level4"
+                />
             </section>
         </main>
     );
