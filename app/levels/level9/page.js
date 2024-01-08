@@ -7,6 +7,7 @@ import './level9.css';
 import Router from '@/app/components/Router/Router';
 
 import { useState } from 'react';
+import Footer from '@/app/components/Footer/Footer';
 export let currentSagaId;
 
 export default function Level9() {
@@ -19,6 +20,7 @@ export default function Level9() {
         console.log(currentSagaId);
     }
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 9: Poniéndome al día.</h2>
@@ -206,5 +208,7 @@ export default function Level9() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

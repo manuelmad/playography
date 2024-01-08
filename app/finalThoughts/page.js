@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './finalThoughts.css';
 import { press_start_2P } from '../layout';
 import Router from '../components/Router/Router';
+import Footer from '../components/Footer/Footer';
 
 export default function finalThoughts() {
     return(
+        <>
         <main>
             <section>
                 <h2>PENSAMIENTOS FINALES</h2>
@@ -48,5 +50,7 @@ export default function finalThoughts() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

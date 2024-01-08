@@ -187,7 +187,7 @@ export default function MyStages() {
                         <p>¡Gracias por acompañarme...!</p>
                         <p>Fue un largo camino desde mi infancia, cuando me regalaron aquella Atari a mis 5 años, hasta el día de hoy...</p>
                         <p>
-                            <Link href="/levels/level9">Leer más...</Link>
+                            <Link href="/finalThoughts">Leer más...</Link>
                         </p>
                     </div>
                 </article>

@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level3.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level3() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 3: Mi periodo en “las maquinitas”.</h2>
@@ -295,5 +297,7 @@ export default function Level3() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

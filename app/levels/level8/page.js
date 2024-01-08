@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level8.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level8() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 8: Comienza la redención.</h2>
@@ -239,5 +241,7 @@ export default function Level8() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

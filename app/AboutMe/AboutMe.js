@@ -2,7 +2,7 @@ import Image from 'next/image';
 import './aboutme.css';
 
 
-export default function AboutMe(props) {
+export default function AboutMe() {
     return(
         <>
             <section className="about-me">

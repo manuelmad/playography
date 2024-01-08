@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level6.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level6() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 6: Un tímido reinicio.</h2>
@@ -163,5 +165,7 @@ export default function Level6() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

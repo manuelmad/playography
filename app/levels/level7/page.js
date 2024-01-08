@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level7.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level7() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 7: Algo bueno dentro de lo malo.</h2>
@@ -204,5 +206,7 @@ export default function Level7() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

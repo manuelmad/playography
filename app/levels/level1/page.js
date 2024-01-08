@@ -3,10 +3,12 @@ import Link from 'next/link';
 import './level1.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 
 export default function Level1() {
   return (
+    <>
     <main>
         <section>
             <h2>LEVEL 1: El despertar de una afición.</h2>
@@ -437,5 +439,7 @@ export default function Level1() {
             />
 		</section>
     </main>
+    <Footer/>
+    </>
   )
 }

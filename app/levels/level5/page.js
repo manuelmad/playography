@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level5.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level5() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 5: Juego pausado.</h2>
@@ -76,5 +78,7 @@ export default function Level5() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level4.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level4() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 4: Un poco más de maquinitas y un gran golpe de suerte.</h2>
@@ -358,5 +360,7 @@ export default function Level4() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }

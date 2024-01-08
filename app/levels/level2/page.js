@@ -3,9 +3,11 @@ import Link from 'next/link';
 import './level2.css';
 
 import Router from '@/app/components/Router/Router';
+import Footer from '@/app/components/Footer/Footer';
 
 export default function Level2() {
     return(
+        <>
         <main>
             <section>
                 <h2>LEVEL 2: Crece el afecto.</h2>
@@ -289,5 +291,7 @@ export default function Level2() {
                 />
             </section>
         </main>
+        <Footer/>
+        </>
     );
 }
