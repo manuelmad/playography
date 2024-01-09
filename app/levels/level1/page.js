@@ -10,10 +10,10 @@ export default function Level1() {
   return (
     <>
     <main>
-        <section>
-            <h2>LEVEL 1: El despertar de una afición.</h2>
-			<article>
-				<p>Cuando antes escribí “desde que tengo uso de razón”, ¡lo decía de forma literal!</p>
+        <section className='level1-section'>
+            <h2 className='level1-h2'>LEVEL 1: El despertar de una afición.</h2>
+			<article className='first-article'>
+				<p>Cuando antes escribí "desde que tengo uso de razón", ¡lo decía de forma literal!</p>
 				<p>Estaba muy joven cuando tuve mi primera consola y los recuerdos del uso que le di son pocos y no muy claros...</p>
 				<div className="intro-container">
                     <Image
@@ -35,18 +35,17 @@ export default function Level1() {
                         width={563}
                         height={648}    
                     />
-					<p>Hace poco le pregunté a mi papá si recordaba aquel evento y me miró con cara de “¿qué es una consola?”, así que descubrí por descarte que aquel regalo fue idea exclusivamente de mi madre. Lástima que ya no nos acompaña para poder preguntarle los detalles... De cualquier manera, ¡vamos al evento!</p>
+					<p className='old-man__paragraph'>Hace poco le pregunté a mi papá si recordaba aquel evento y me miró con cara de "¿qué es una consola?", así que descubrí por descarte que aquel regalo fue idea exclusivamente de mi madre. Lástima que ya no nos acompaña para poder preguntarle los detalles... De cualquier manera, ¡vamos al evento!</p>
 				</div>
 			</article>
 			<article className="article1 past">
-				<p className="sprites-container">
-                    <Image
-                        src="/imgs/level1/robot-removebg-preview.png"
-                        alt="1 bit robot"
-                        width={71}
-                        height={72}    
-                    />
-				</p>
+                <Image
+                    className="plane"
+                    src="/imgs/level1/river-raid-plane.png"
+                    alt="river raid plane"
+                    width={1024}
+                    height={1024}    
+                />
 				<div>
                     <Image
                         className="flags"
@@ -107,6 +106,13 @@ export default function Level1() {
 				<p>Volvamos por un instante al presente, debo resolver ese misterio.</p>
 			</article>
 			<article className="article2">
+                <Image
+                    className="police"
+                    src="/imgs/level1/KeystoneKapersPolice.png"
+                    alt="pixel police img"
+                    width={228}
+                    height={247}    
+                />
 				<p>
                     <Image
                         className="detective-pic"
@@ -126,7 +132,7 @@ export default function Level1() {
                         height={564}    
                     />
 				</p>
-				<p>Ésta salió al mercado en 1986, y creo que sería, en términos modernos, como la versión “Slim” de la 2600. Como puede verse en la imagen de arriba, hubo 3 modelos disponibles de ella: “Short rainbow”, “Long rainbow” y “Black” (irlandesa), y exprimiendo mi memoria hasta su límite, me decanto por la que está al frente de todas, la Short rainbow:</p>
+				<p>Ésta salió al mercado en 1986, y creo que sería, en términos modernos, como la versión "Slim" de la 2600. Como puede verse en la imagen de arriba, hubo 3 modelos disponibles de ella: "Short rainbow", "Long rainbow" y "Black" (irlandesa), y exprimiendo mi memoria hasta su límite, me decanto por la que está al frente de todas, la Short rainbow:</p>
 				<p className="centered-text">
                     <Image
                         src="/imgs/level1/atari-2600-short-rainbow-and-joysticks.png"
@@ -332,7 +338,14 @@ export default function Level1() {
 				<p>Fueron muchas las horas de juego junto a este tan amado aparato... ¡Ey! ¡Sabía que escribiendo este artículo aflorarían más recuerdos! ¡Volvamos al pasado!</p>
 			</article>
 			<article className="article3 past">
-				<p>Me veo jugando por años hasta que incluso los joysticks se rompieron, las palancas se salieron de su lugar, también los botones. Podía ver los componentes metálicos internos del mando. Con tal de continuar “matando fiebre” (así decimos en Venezuela cuando jugamos algo por mucho tiempo) llegué a jugar apretando fuerte esos contactos internos con mis dedos y así seguirle dando vida a los personajes en pantalla...</p>
+                <Image
+                    className="boxer"
+                    src="/imgs/level1/pixel-boxer.png"
+                    alt="pixel boxer img"
+                    width={59}
+                    height={107}    
+                />
+				<p>Me veo jugando por años hasta que incluso los joysticks se rompieron, las palancas se salieron de su lugar, también los botones. Podía ver los componentes metálicos internos del mando. Con tal de continuar "matando fiebre" (así decimos en Venezuela cuando jugamos algo por mucho tiempo) llegué a jugar apretando fuerte esos contactos internos con mis dedos y así seguirle dando vida a los personajes en pantalla...</p>
 				<p>Recuerdo mayormente haber jugado en solitario, mi hermana tendría 3 años en ese momento y mi hermano aún no existía.</p>
 				<p>
                     <Image
@@ -356,7 +369,15 @@ export default function Level1() {
 					<p>Todo era risas en la habitación mientras mi madre me aupaba como si se tratara de una pelea por el campeonato mundial de peso completo.</p>
 				</div>
 				<p>Pero nada dura para siempre, así que ya era hora de darle descanso al fiel y destartalado compañero de juegos y hacer lugar para mi siguiente experiencia gaming.</p>
-                <p className='plus'>+ + + + + + + + + + + + </p>
+                <p className='centered-text bonus-container'>
+                    <Image
+                        className="bonus"
+                        src="/imgs/level1/bonus.png"
+                        alt="bonus img"
+                        width={541}
+                        height={250}    
+                    />
+                </p>
 				<p>Como nota adicional, un par de años más tarde, a la edad de 8 aproximadamente, mi mejor amigo era un niño que vivía diagonal a casa de mis papás, él tendría 6 años.</p>
 				<p>Recuerdo que en una oportunidad, de las taaantas que visité su casa, sus 2 hermanas y hermano mayores estaban en una de las habitaciones jugando con un aparto conectado al televisor y me invitaron a participar.</p>
 				<p>Solo me pidieron que tratara de adivinar la palabra secreta que estaba en la pantalla, representada con sus letras inicial y final y, entre éstas, tantas líneas como letras faltantes tenía la palabra. Ellos me daban una sola pista relacionada con la palabra.</p>
@@ -365,6 +386,13 @@ export default function Level1() {
 				<p>Al igual que con mi consola propia, sentí la necesidad de averiguar cuál fue esta otra que usé en mi infancia, así que inicié un nuevo trabajo detectivesco.</p>
 			</article>
 			<article className="article4">
+                <Image
+                    className="frogs"
+                    src="/imgs/level1/frogs.png"
+                    alt="pixel frogs img"
+                    width={87}
+                    height={69}    
+                />
 				<p>Por casualidad, hace pocos años recuperé el contacto con aquel vecino, él se mudo de vuelta a la misma casa diagonal a la de mi papá y obtuve su número telefónico. Entonces, ahora pude aprovechar la oportunidad para preguntarle a qué jugamos aquella vez.</p>
 				<p>Él sí que lo recuerda perfectamente, claro, era su consola, la consola familiar. Así que ahora puedo decir que durante la segunda generación de consolas también usé la Magnavox Odissey<sup>2</sup>, fabricada por Magnavox (filial de Philips), y 1 de sus juegos.</p>
 				<p className="centered-text">
@@ -395,7 +423,7 @@ export default function Level1() {
                         height={526}    
                     />
 				</p>
-				<p>Por casualidad, cuando mostraba dicho manual pasando sus páginas, vi vagamente una imagen que me pareció familiar, retrocedí y adelanté varias veces el video hasta que conseguí detenerlo en un cuadro donde estuviera legible el nombre de ese segundo videojuego.</p>
+				<p>Por mera coincidencia, cuando mostraba dicho manual pasando sus páginas, vi vagamente una imagen que me pareció familiar, retrocedí y adelanté varias veces el video hasta que conseguí detenerlo en un cuadro donde estuviera legible el nombre de ese segundo videojuego.</p>
 				<p className="centered-text">
                     <Image
                         src="/imgs/level1/buzzword-manual.png"
@@ -420,7 +448,7 @@ export default function Level1() {
                     />
 				</p>
 				<p>Te dejo el enlace a su gameplay en la sección de referencias.</p>
-				<p>Por lo visto, cada letra correcta que se elija aparecerá en la parte de arriba y cada incorrecta en la de abajo, teniendo 8 oportunidades para fallar. Los “admins” del juego eran los familiares de mi amigo, yo solo me dedicaba a decir letras y palabras, así que no sé exactamente cómo funcionaba la interacción entre el teclado y el videojuego.</p>
+				<p>Por lo visto, cada letra correcta que se elija aparecerá en la parte de arriba y cada incorrecta en la de abajo, teniendo 8 oportunidades para fallar. Los "admins" del juego eran los familiares de mi amigo, yo solo me dedicaba a decir letras y palabras, así que no sé exactamente cómo funcionaba la interacción entre el teclado y el videojuego.</p>
 				<p>Esta consola, por cierto, es la sucesora de la legendaria Magnavox Odissey, considerada como la primera videoconsola de sobremesa de la historia en la industria, lanzada en 1972.</p>
 				<p className="centered-text">
                     <Image
@@ -431,13 +459,13 @@ export default function Level1() {
                     />
 				</p>
 			</article>
-            <Router 
+		</section>
+        <Router 
                 text1="INICIO"
                 link1="/"
                 text2="LEVEL 2"
                 link2="/levels/level2"
             />
-		</section>
     </main>
     <Footer/>
     </>

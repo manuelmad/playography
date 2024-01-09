@@ -63,7 +63,7 @@ footer section {
 }
 
 .social-media-logos a:hover {
-    background-color: var(--celeste);
+    background-color: var(--tone-4);
     color: var(--white);
 }
 
@@ -158,7 +158,7 @@ footer section {
 }
 
 .creator a:hover {
-    color: var(--white);
+    color: var(--green-yellow);
 }
 
 /* ANIMACIONES */
