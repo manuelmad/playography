@@ -97,9 +97,13 @@
 		width: 68rem;
 	}
 
-	.first-article {
+	.level1-section article:nth-child(2) {
 		min-height: 100rem;
 	}
+
+	/* .first-article {
+		min-height: 100rem;
+	} */
 
 	.old-man__paragraph {
 		padding-top: 8rem;

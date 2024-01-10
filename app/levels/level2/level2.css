@@ -1,3 +1,28 @@
+.level2-h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--turquoise-blue);
+	color: var(--white);
+	border-radius: 0.5rem;
+}
+
+.level2-section .first-article {
+	border-top: 0.2rem solid var(--turquoise-blue);
+}
+
+.article2, .article3 {
+	position: relative;
+}
+
+.mario, .megaman {
+	position: absolute;
+	width: 5rem;
+	height: auto;
+	top: -2.5rem;
+	left: calc(50% - 2.5rem);
+}
+
 .famicom-games__container {
 	display: flex;
 	flex-wrap: wrap;
@@ -12,7 +37,7 @@
 	border-radius: 0.5rem;
 }
 
-h3 {
+.punchout-name {
 	text-align: center;
 }
 
@@ -28,4 +53,48 @@ h3 {
     height: auto;
 	float: right;
 	border-radius: 0.5rem;
+}
+
+@media (min-width: 700px) {
+
+	.level2-h2 {
+		width: 68rem;
+	}
+
+	.level1-section article:nth-child(2) {
+		min-height: 100rem;
+	}
+
+	.tyson-tko__paragraph {
+		padding-top: 8rem;
+	}
+
+	.mario, .megaman {
+		width: 10rem;
+		height: auto;
+		top: -5rem;
+		left: calc(50% - 5rem);
+	}
+
+	.tyson-win, .tyson-tko {
+		width: 30rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	.level2-h2 {
+		width: 80rem;
+	}
+
+	.tyson-win__paragraph {
+		padding-top: 3rem;
+	}
+
+	.tyson-tko__paragraph {
+		padding-top: 15rem;
+	}
+
+	/* .bonus-container {
+		margin-top: 15rem;
+	} */
 }
