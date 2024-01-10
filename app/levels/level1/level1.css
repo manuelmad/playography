@@ -21,10 +21,10 @@
 
 .boxer {
 	position: absolute;
-	width: 5rem;
-	height: auto;
-	top: -4.5rem;
-	left: calc(50% - 2.5rem);
+	width: auto;
+	height: 5rem;
+	top: -2.5rem;
+	left: calc(50% - 1.38rem);
 }
 
 .frogs {
@@ -34,10 +34,6 @@
 	top: -2rem;
 	left: calc(50% - 2.5rem);
 }
-
-/* .level1-section article {
-	width: 100%;
-} */
 
 .level1-h2 {
 	width: 100%;
@@ -81,6 +77,10 @@
 	border-radius: 0.5rem;
 }
 
+.centered-text .bonus {
+	width: 14rem;
+}
+
 .animate {
 	animation-name: example;
 	animation-duration: 4s;
@@ -120,10 +120,10 @@
 	}
 
 	.boxer {
-		width: 10rem;
-		height: auto;
-		top: -9rem;
-		left: calc(50% - 5rem);
+		width: auto;
+		height: 10rem;
+		top: -5rem;
+		left: calc(50% - 2.56rem);
 	}
 
 	.frogs {
@@ -148,6 +148,6 @@
 	}
 
 	.bonus-container {
-		margin-top: 8rem;
+		margin-top: 15rem;
 	}
 }
