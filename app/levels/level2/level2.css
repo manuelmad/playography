@@ -61,9 +61,9 @@
 		width: 68rem;
 	}
 
-	.level1-section article:nth-child(2) {
+	/* .level1-section article:nth-child(2) {
 		min-height: 100rem;
-	}
+	} */
 
 	.tyson-tko__paragraph {
 		padding-top: 8rem;
@@ -93,8 +93,4 @@
 	.tyson-tko__paragraph {
 		padding-top: 15rem;
 	}
-
-	/* .bonus-container {
-		margin-top: 15rem;
-	} */
 }
