@@ -1,3 +1,16 @@
+.level6-h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--palid-red);
+	color: var(--white);
+	border-radius: 0.5rem;
+}
+
+.level6-section .past article:first-child {
+	border-top: 0.2rem solid var(--palid-red);
+}
+
 .teacher {
 	width: 15rem;
     height: auto;
@@ -10,6 +23,14 @@
     height: auto;
 	float: left;
 	border-radius: 0.5rem;
+}
+
+.kratos {
+	position: absolute;
+	width: 5rem;
+	height: auto;
+	top: -2.39rem;
+	left: calc(50% - 2.5rem);
 }
 
 /* .ps3-games__container {
@@ -25,3 +46,31 @@
     height: auto;
 	border-radius: 0.5rem;
 } */
+
+@media (min-width: 700px) {
+
+	.level6-h2 {
+		width: 68rem;
+	}
+
+	.teacher {
+		width: 30rem;
+	}
+	
+	.derrick {
+		width: 30rem;
+	}
+
+	.kratos {
+		width: 10rem;
+		height: auto;
+		top: -4.77rem;
+		left: calc(50% - 5rem);
+	}
+}
+
+@media (min-width: 1024px) {
+	.level6-h2 {
+		width: 80rem;
+	}
+}
