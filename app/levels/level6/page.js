@@ -19,7 +19,7 @@ export default function Level6() {
                                 src="/imgs/level6/teacher.png"
                                 alt="teacher img"
                                 width={360}
-                                height={360}    
+                                height={360}
                             />
                             Bien, finalmente me gradúo de Ingeniero y empiezo a trabajar inicialmente como profesor de bachillerato, enseñando Física en un colegio (la de ecuaciones y fórmulas, no la de deportes), para lo cual tuve que empezar a estudiar de nuevo, esta vez la carrera de Licenciatura en Educación: Mención Matemática y Física. </p>
                         <p>
@@ -28,7 +28,7 @@ export default function Level6() {
                                 src="/imgs/level6/derrick.png"
                                 alt="derrick img"
                                 width={226}
-                                height={330}    
+                                height={330}
                             />
                             Luego de dos años como profesor, en 2010, consigo un empleo como Ingeniero de Petróleo y paralelamente me graduó de la otra carrera... Ahora que lo pienso, eso fue extraño 🤔, jajaja: estudiar “A” para trabajar de “B” y luego estudiar “B” para trabajar de “A”... En fin, lo importante es que con mi nuevo empleo las finanzas comienzan a mejorar.</p>
                         <p>Pero lo cierto es que, cualquiera sea el trabajo que tuviera, empiezo a contar con muy poco tiempo libre, prácticamente nulo, diría yo.</p>
@@ -38,7 +38,7 @@ export default function Level6() {
                                 src="/imgs/level6/candy-crush.jpg"
                                 alt="candy crush img"
                                 width={539}
-                                height={887}    
+                                height={887}
                             />
                         </p>
                         <p className='centered-text'>
@@ -46,7 +46,7 @@ export default function Level6() {
                                 src="/imgs/level6/hill-climb-racing.jpg"
                                 alt="hill climb racing img"
                                 width={996}
-                                height={561}    
+                                height={561}
                             />
                         </p>
                         <p className='centered-text'>
@@ -54,7 +54,7 @@ export default function Level6() {
                                 src="/imgs/level6/sonic-dash.jpg"
                                 alt="sonic dash img"
                                 width={564}
-                                height={846}    
+                                height={846}
                             />
                         </p>
                         <p>Sí, lo sé, toqué fondo jugando Candy Crush. Pero, por favor, no me juzguen, solo estaba confundido y extraviado, jejeje... De cualquier manera, todos fueron agradables y mantuvieron mi espíritu gamer vivo.</p>
@@ -64,7 +64,7 @@ export default function Level6() {
                                 src="/imgs/level6/Yu-Gi-Oh_Duel_Links.webp"
                                 alt="yu gi oh duel links img"
                                 width={640}
-                                height={710}    
+                                height={710}
                             />
                         </p>
                         <p>Hace poco quise rejugarlo, pero la cantidad de nuevas reglas y efectos de cartas me hicieron sentir abrumado y desistí.</p>
@@ -74,7 +74,7 @@ export default function Level6() {
                                 src="/imgs/level6/PS3-slim-console.png"
                                 alt="ps3 console img"
                                 width={2560}
-                                height={1239}    
+                                height={1239}
                             />
                         </p>
                         <p className='centered-text'>
@@ -82,7 +82,7 @@ export default function Level6() {
                                 src="/imgs/level6/uncharted.png"
                                 alt="uncharted cover img"
                                 width={448}
-                                height={557}    
+                                height={557}
                             />
                         </p>
                         <p>Aunque seguía bastante ocupado, pude disfrutar de las aventuras de Nathan Drake. Empecé a animarme de nuevo y en ocasiones aprovechaba las salidas a centros comerciales para mirar posibles juegos en formato físico. Los que compré y jugué fueron pocos:</p>
@@ -91,7 +91,7 @@ export default function Level6() {
                                 src="/imgs/level6/ps3gamesx5.png"
                                 alt="5 ps3 games cover img"
                                 width={553}
-                                height={451}    
+                                height={451}
                             />
                         </p>
                         <p>Recuerdo que compré God of War Saga por recomendación del vendedor de la tienda, y vaya que tenía razón ese muchacho. Gracias, mi pana, quienquiera que seas y dondequiera que estés, jejeje.</p>
@@ -101,7 +101,7 @@ export default function Level6() {
                                 src="/imgs/level6/gow1.jpg"
                                 alt="god of war gameplay img"
                                 width={1280}
-                                height={720}    
+                                height={720}
                             />
                         </p>
                         <p className='centered-text'>
@@ -109,7 +109,7 @@ export default function Level6() {
                                 src="/imgs/level6/gow2.jpg"
                                 alt="god of war 2 gameplay img"
                                 width={512}
-                                height={400}    
+                                height={400}
                             />
                         </p>
                         <p className='centered-text'>
@@ -117,7 +117,7 @@ export default function Level6() {
                                 src="/imgs/level6/gow3.webp"
                                 alt="god of war 3 gameplay img"
                                 width={1200}
-                                height={674}    
+                                height={674}
                             />
                         </p>
                         <p className='centered-text'>
@@ -125,7 +125,7 @@ export default function Level6() {
                                 src="/imgs/level6/gow-ascension.jpg"
                                 alt="god of war ascension gameplay img"
                                 width={1600}
-                                height={900}    
+                                height={900}
                             />
                         </p>
                         <p>Sin embargo, ahora recuerdo que los 2 juegos que habían salido originalmente para PlayStation Portable (Chains of Olympus y Ghost of Sparta) no estaban incluidos en el disco, sino que había un código de descarga escrito en el papel interno del juego físico. Cuando intenté canjearlo, estaba vencido, así que volví a la tienda y al explicarle la situación al vendedor, me permitió escoger un juego usado como reemplazo de esos 2, y así fue como obtuve el Heavy Rain. Esto resultó de alguna manera conveniente, ya que fue un juego que disfruté muchísimo.</p>

@@ -1,0 +1,52 @@
+.level7-h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--dark-gray);
+	color: var(--white);
+	border-radius: 0.5rem;
+}
+
+.level7-section .past article:first-child {
+	border-top: 0.2rem solid var(--dark-gray);
+}
+
+.happy-gamer {
+	width: 15rem;
+    height: auto;
+	float: right;
+	border-radius: 0.5rem;
+}
+
+.emulators {
+	position: absolute;
+	width: 5rem;
+	height: auto;
+	top: -2.5rem;
+	left: calc(50% - 2.5rem);
+}
+
+@media (min-width: 700px) {
+
+	.level7-h2 {
+		width: 68rem;
+	}
+
+	.happy-gamer  {
+		width: 30rem;
+	}
+
+    .emulators {
+        position: absolute;
+        width: 8rem;
+        height: auto;
+        top: -4rem;
+        left: calc(50% - 4rem);
+    }
+}
+
+@media (min-width: 1024px) {
+	.level7-h2 {
+		width: 80rem;
+	}
+}
