@@ -11,9 +11,9 @@
 	border-top: 0.2rem solid var(--turquoise-blue);
 }
 
-.article2, .article3 {
+/* .article2, .article3 {
 	position: relative;
-}
+} */
 
 .mario, .megaman {
 	position: absolute;
@@ -60,10 +60,6 @@
 	.level2-h2 {
 		width: 68rem;
 	}
-
-	/* .level1-section article:nth-child(2) {
-		min-height: 100rem;
-	} */
 
 	.tyson-tko__paragraph {
 		padding-top: 8rem;

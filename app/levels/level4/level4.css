@@ -1,3 +1,28 @@
+.level4-h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--dark-green);
+	color: var(--white);
+	border-radius: 0.5rem;
+}
+
+.level4-section .past article:first-child {
+	border-top: 0.2rem solid var(--dark-green);
+}
+
+/* .article2 {
+	position: relative;
+} */
+
+.yugioh {
+	position: absolute;
+	width: 5rem;
+	height: auto;
+	top: -2.34rem;
+	left: calc(50% - 2.5rem);
+}
+
 .psone-games__container {
 	display: flex;
 	flex-wrap: wrap;
@@ -17,4 +42,28 @@
     height: auto;
 	float: right;
 	border-radius: 0.5rem;
+}
+
+@media (min-width: 700px) {
+
+	.level4-h2 {
+		width: 68rem;
+	}
+
+	.yugioh {
+		width: 10rem;
+		height: auto;
+		top: -4.69rem;
+		left: calc(50% - 5rem);
+	}
+
+	.ps1fat{
+		width: 30rem;
+	}
+}
+
+@media (min-width: 1024px) {
+	.level4-h2 {
+		width: 80rem;
+	}
 }

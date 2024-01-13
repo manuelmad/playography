@@ -88,6 +88,10 @@ p {
 	padding-top: 2rem;
 }
 
+.article1, .article2, .article3, .article4 {
+	position: relative;
+}
+
 .past {
 	background-color: var(--very-light-gray);
 }
