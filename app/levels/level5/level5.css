@@ -1,0 +1,40 @@
+.level5-h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--purple-blue);
+	color: var(--white);
+	border-radius: 0.5rem;
+}
+
+.level5-section .past article:first-child {
+	border-top: 0.2rem solid var(--purple-blue);
+}
+
+.nfsu2 {
+	position: absolute;
+	width: auto;
+	height: 5rem;
+	top: -2.5rem;
+	left: calc(50% - 3.96rem);
+}
+
+@media (min-width: 700px) {
+
+	.level5-h2 {
+		width: 68rem;
+	}
+
+    .nfsu2 {
+        width: auto;
+        height: 10rem;
+        top: -5rem;
+        left: calc(50% - 7.91rem);
+    }
+}
+
+@media (min-width: 1024px) {
+	.level5-h2 {
+		width: 80rem;
+	}
+}
