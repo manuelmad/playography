@@ -80,6 +80,10 @@ p {
 	font-style: italic;
 }
 
+.bold {
+	font-weight: bold;
+}
+
 .yellow {
 	background-color: yellow;
 }
@@ -131,6 +135,7 @@ p {
 	align-items: center;
 	color: var(--very-light-gray);
 	text-decoration: none;
+	font-weight: bold;
 }
 
 .bi-arrow-left {
