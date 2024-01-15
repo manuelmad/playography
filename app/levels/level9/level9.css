@@ -44,19 +44,58 @@
 }
 
 .list-container ul {
-	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 2rem 0;
+	padding: 2rem;
 	width: 28rem;
-	color: var(--very-light-gray);
-	/* border: 0.3rem solid var(--celeste); */
 	border-radius: 0.5rem;
-	background-image: linear-gradient(to right top, #66c4e3, #5999b6, #4a7189, #384c5d, #232a33);
+	/* border: 0.4rem solid var(--black); */
+	/* background-color: var(--black); */
+	overflow: hidden;
 }
 
 ul li {
+	/* list-style: inside; */
 	list-style: none;
+	/* list-style-type: '🎮'; */
+	/* font-weight: bold; */
+}
+
+.first-list {
+	position: relative;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	color: var(--white);
+	text-align: center;
+}
+
+.first-list img {
+	position: absolute;
+	width: 28rem;
+	height: 100%;
+	top: 0;
+	left: calc(50% - 14rem);
+	z-index: -1;
+	/* opacity: 0.8; */
+	border-radius: 0.5rem;
+}
+
+.second-list {
+	position: relative;
+	/* padding-top: 4rem;
+	padding-bottom: 4rem; */
+	/* color: var(--white); */
+}
+
+.second-list img {
+	position: absolute;
+	width: 28rem;
+	height: 100%;
+	top: 0;
+	left: calc(50% - 14rem);
+	z-index: -1;
+	opacity: 0.7;
+	border-radius: 0.5rem;
 }
 
 @media (min-width: 700px) {
@@ -78,7 +117,16 @@ ul li {
 	}
 
 	.list-container ul {
-		width: 30rem;
+		width: 40rem;
+	}
+
+	.second-list {
+		height: 20rem;
+	}
+
+	.first-list img, .second-list img {
+		width: 40rem;
+		left: calc(50% - 20rem);
 	}
 
 	.revenge, .x {

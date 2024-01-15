@@ -37,7 +37,14 @@ export default function Level9() {
                         Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme, jajaja. No sé si tendré el tiempo suficiente para lograr el cometido que me propuse, lo que sí sé es que me voy a divertir intentándolo.</p>
                     <p>He aquí, en orden alfabético, la lista de cada saga que quiero completar. Claro, hay sagas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
                     <p>Puedes ver el detalle de cualquiera de ellas haciendo clic sobre la que te interese.</p>
-                    <div className='list-container'>
+                    <div className='list-container first-list'>
+                        <Image
+                            className="bg"
+                            src="/imgs/level9/bg.jpg"
+                            alt="background img"
+                            width={564}
+                            height={1002}    
+                        />
                         <ul>
                             <li>Crash.</li>
                             <li>Dark Souls.</li>
@@ -99,7 +106,14 @@ export default function Level9() {
                     <p>No suelo jugar 2 videojuegos seguidos dentro de la misma saga, para mantener la variedad. Por lo general, solo termino la historia principal y no me concentro mucho en desbloqueables muy difíciles o tareas secundarias. Tampoco reinicio la entrega cuando existe la opción de hacerlo con un nuevo personaje desbloqueado o con una nueva dificultad. Solo si el juego me gustó demasiado, puedo hacer la excepción en alguno de esos apartados.</p>
                     <p>¡Ah! Y con los juegos retro que emulo con RetroArch, muchas veces recurro a los "save states" para pasar tramos muy difíciles, no quiero estancarme por varios días o semanas en un solo título. Por cierto, eso me hizo recordar que los juegos retro son muuuucho más difíciles que los actuales, ¡ya terminen de aceptar esa realidad!</p>
                     <p>Hablando de retro, estos son los juegos que rejugué solo por el mero placer de la nostalgia, todos de la NES:</p>
-                    <div className='list-container'>
+                    <div className='list-container second-list'>
+                        <Image
+                            className="nes"
+                            src="/imgs/level9/nes-bg.png"
+                            alt="nes img"
+                            width={616}
+                            height={385}    
+                        />
                         <ul>
                             <li>Conquest of the Crystal Palace.</li>
                             <li>Gremlins 2: The New Batch.</li>
@@ -177,7 +191,7 @@ export default function Level9() {
                     </p>
                     <p>Hice una excepción con Pokémon Quest, adelantando ese juego en la lista, porque es gratuito y me sirvió para probar todo en la consola, fue mi primer juego en la Switch 🤩.</p>
                     <p>El juego de Sky también es gratuito y solo lo descargué y probé por un rato. Me llamó la atención porque leí que está desarrollado por los mismos creadores de Journey (PS3). En algún momento lo terminaré, pero no está en mis prioridades justo ahora.</p>
-                    <p>El otro en esta lista que aún no he terminado es Cuphead. Lo llevo al <span className='yellow'>XX%</span>, pero es bastante difícil y necesito cierto nivel de paciencia que justo ahora no tengo 🥴. Éste sí lo tengo entre mis pendientes y más pronto que tarde le daré la estocada final.</p>
+                    <p>El otro en esta lista que aún no he terminado es Cuphead. Lo llevo al 82% en la historia principal, pero es bastante difícil y necesito cierto nivel de paciencia que justo ahora no tengo 🥴. Éste sí lo tengo entre mis pendientes y más pronto que tarde le daré la estocada final.</p>
                     <p>Haré una mención especial a uno de estos juegos, que me hizo sentir como hacía rato no me había sentido. Sus gráficos, jugabilidad, controles, historia, escenarios, exploración y desbloqueo de ítems y mundos... ¡Qué pedazo de juego es Hollow Knight! No estoy descubriendo el agua tibia diciendo esto acerca del que es considerado como el mejor juego indie y mejor Metroidvania de la historia, pero no puedo dejar de expresar que al jugarlo me demostró que no es exagerado el estatus que se le ha impuesto, ¡merecidísimo!</p>
                     <p className='centered-text'>
                         <Image
@@ -219,7 +233,7 @@ export default function Level9() {
                             height={314}    
                         />
                     </p>
-                    <p>Éste es uno de los juegos que me ha hecho salir de las reglas que antes expuse. Le invertí más de 60 horas para lograr el <span className="yellow">xxx%</span>, eso es altísimo para mis estándares y más teniendo en cuenta que mi prioridad es terminar la gran cantidad de juegos que forman parte de mis listas. ¡Muy recomendado!</p>
+                    <p>Éste es uno de los juegos que me ha hecho salir de las reglas que antes expuse. Le invertí más de 62 horas para lograr el 100% (según leí, se puede llevar hasta 112%). Eso es toda una hazaña para mis estándares y más teniendo en cuenta que mi prioridad es terminar la gran cantidad de juegos que forman parte de mis listas. ¡Muy recomendado! Luego decidiré si quiero aumentar ese porcentaje.</p>
                     <p>Todos los juegos que he adquirido en la Switch los tengo en formato digital, a excepción de uno que compré en físico mientras escribía esta juegografía. Este juego es el Luigi's Mansion 3, aprovechando que ya jugué las dos primeras entregas de GameCube y 3DS, y que tuve un dinerillo extra disponible para el momento.</p>
                     <p className='centered-text'>
                         <Image
@@ -230,7 +244,7 @@ export default function Level9() {
                         />
                     </p>
                     <p>Lo que he jugado hasta ahora de esta última entrega de las aventuras terroríficas de Luigi ha sido bastante entretenido. Siento que hay muchas más cosas ocultas que en las anteriores entregas. Se puede interactuar con casi cualquier cosa del escenario y eso aumenta mucho el tiempo de exploración. Este juego es el causante de que esté pasando los días con sueño 😴, debido a las veladas nocturnas que le estoy dedicando.</p>
-                    <p>Para finalizar, acompáñame a la siguiente sección para la despedida.</p>
+                    <p>Ahora, hazme el honor de acompañarme a la siguiente sección para la despedida.</p>
                     <p className='centered-text'>
                         <Image
                             className='bye-img'
