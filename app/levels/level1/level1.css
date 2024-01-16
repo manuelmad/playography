@@ -140,6 +140,10 @@
 	.remember-img, .detective-pic, .boxing-atari, .flags {
 		width: 30rem;
 	}
+
+	.atari-games__container img {
+		width: 20rem;
+	}
 }
 
 @media (min-width: 1024px) {
@@ -149,5 +153,9 @@
 
 	.bonus-container {
 		margin-top: 15rem;
+	}
+
+	.atarijr-paragraph {
+		margin-top: 2rem;
 	}
 }

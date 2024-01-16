@@ -23,7 +23,7 @@ export default function Level1() {
                         width={512}
                         height={512}
                     />
-					<p>O quizás solo debería esforzarme más para extraerlos de mi subconsciente o dondequiera que estén... Bueno, a lo mejor muchos de esos recuerdos irán saliendo a flote mientras escribo todo esto. Ya veremos.</p>
+					<p>Quizás solo debería esforzarme más para extraerlos de mi subconsciente o dondequiera que estén... Bueno, a lo mejor muchos de esos recuerdos irán saliendo a flote mientras escribo todo esto. Ya veremos.</p>
 					<p>Sí que recuerdo perfectamente la experiencia de cuando me regalaron esa primera consola, aunque no mi edad exacta.</p>
 					<p>Nací en 1981, y sacando cuentas (no muy confiables), estimo que pudo haber sido a mis 5 años de edad.</p>
 				</div>
@@ -69,7 +69,7 @@ export default function Level1() {
                         <p>Aún tengo en mi mente el momento en que mis padres llegaron del viaje y entraron por la puerta principal de aquella casa, con sus manos llevando muchas bolsas, una de las cuales contenía la sorpresa para Manuelito, como me decían (y aún me dicen) todos en la familia.</p>
                     </div>
                     <p>Luego sacaron aquel aparato, era negro y de forma rectangular, un poco achatado en el frente, con una franja gris y ancha en el centro. Los mandos eran cuadrados, con una palanca en el centro y un solo botón rojo en una de sus esquinas.</p>
-                    <p>Si eres más o menos de mi generación, o si te gusta investigar acerca de videojuegos, entonces ya en este punto sabrás que la máquina a la cual me refiero era una Atari.</p>
+                    <p>Si eres más o menos de mi generación, o si te gusta leer o investigar acerca de videojuegos, entonces ya en este punto sabrás que la máquina a la cual me refiero era una Atari.</p>
                     <p>Pero, las consolas de Atari que a menudo veo en los videos y publicaciones no son iguales a la que llevo en mi memoria...</p>
                     <div>
                         <p>Las 2600 tienen los mismos mandos que la que tuve, pero su cuerpo es muy distinto.</p>
@@ -125,18 +125,21 @@ export default function Level1() {
                     />
 					Las antiguas consolas de Atari fueron producidas en variedad de modelos y versiones. Para saber exactamente cuál fue la que tuve, me disfracé de investigador, no podía quedarme con esa duda.
 				</p>
-				<p>Leyendo características, viendo imágenes y asociando fechas de lanzamiento, estoy casi completamente seguro de que fue la versión de tamaño y costo reducidos del Atari 2600, apodada como Atari 2600 Jr. Sí, con esa inicié mi aventura gamer, durante la <span className="bold-italic">segunda generación de consolas</span>.</p>
+				<p>Leyendo características, viendo imágenes y asociando fechas de lanzamiento, estoy casi completamente seguro de que fue la versión de tamaño y costo reducidos del Atari 2600, apodada como Atari 2600 Jr.</p>
+                <p className='atarijr-paragraph'>Sí, con esa inicié mi aventura gamer, durante la <span className="bold-italic">segunda generación de consolas</span>.</p>
 				<p className="centered-text">
                     <Image
+                        className='box-shadow'
                         src="/imgs/level1/atari-2600-short-rainbow.jpg"
                         alt="Atari 2600 Short Rainbow image"
                         width={564}
                         height={564}
                     />
 				</p>
-				<p>Ésta salió al mercado en 1986, y creo que sería, en términos modernos, como la versión "Slim" de la 2600. Como puede verse en la imagen de arriba, hubo 3 modelos disponibles de ella: "Short rainbow", "Long rainbow" y "Black" (irlandesa), y exprimiendo mi memoria hasta su límite, me decanto por la que está al frente de todas, la Short rainbow:</p>
+				<p>Ésta salió al mercado en 1986 y creo que sería, en términos modernos, como la versión "Slim" de la 2600. Como puede verse en la imagen de arriba, hubo 3 modelos disponibles de ella: "Short rainbow", "Long rainbow" y "Black" (irlandesa). Exprimiendo mi memoria hasta su límite, me decanto por la que está al frente de todas, la Short rainbow:</p>
 				<p className="centered-text">
                     <Image
+                        className='box-shadow'
                         src="/imgs/level1/atari-2600-short-rainbow-and-joysticks.png"
                         alt="Atari 2600 Short Rainbow and Joysticks image"
                         width={1020}
@@ -145,6 +148,7 @@ export default function Level1() {
 				</p>
 				<p className="centered-text">
                     <Image
+                        className='box-shadow'
                         src="/imgs/level1/atari-2600-jr.-(short-rainbow).jpg"
                         alt="Atari 2600 Short Rainbow Jr. image"
                         width={960}
@@ -348,7 +352,7 @@ export default function Level1() {
                         width={59}
                         height={107}
                     />
-                    <p>Me veo jugando por años hasta que incluso los joysticks se rompieron, las palancas se salieron de su lugar, también los botones. Podía ver los componentes metálicos internos del mando. Con tal de continuar "matando fiebre" (así decimos en Venezuela cuando jugamos algo por mucho tiempo) llegué a jugar apretando fuerte esos contactos internos con mis dedos y así seguirle dando vida a los personajes en pantalla...</p>
+                    <p>Me veo jugando por años hasta que incluso los joysticks se rompieron, las palancas se salieron de su lugar, también los botones. Podía ver los componentes metálicos internos del mando. Con tal de continuar "matando fiebre" (así decimos en Venezuela cuando jugamos algo por mucho tiempo), llegué a jugar apretando fuerte esos contactos internos con mis dedos y así seguirle dando vida a los personajes en pantalla...</p>
                     <p>Recuerdo mayormente haber jugado en solitario, mi hermana tendría 3 años en ese momento y mi hermano aún no existía.</p>
                     <p>
                         <Image
@@ -385,7 +389,7 @@ export default function Level1() {
                     <p>Recuerdo que en una oportunidad, de las taaantas que visité su casa, sus 2 hermanas y hermano mayores estaban en una de las habitaciones jugando con un aparto conectado al televisor y me invitaron a participar.</p>
                     <p>Solo me pidieron que tratara de adivinar la palabra secreta que estaba en la pantalla, representada con sus letras inicial y final y, entre éstas, tantas líneas como letras faltantes tenía la palabra. Ellos me daban una sola pista relacionada con la palabra.</p>
                     <p>Esta anécdota es también bastante divertida para mí, porque aquellos adolescentes no podían creer que un niño les adivinara cada una de las palabras secretas que se inventaban.</p>
-                    <p>Cada nueva vez me decían que saliera de la habitación, a la cocina o cualquier lugar lejano, y luego de escribir la palabra secreta me invitaban de regreso y me daban la pista. Todas y cada una de las veces adiviné bien. Recuerdo las risas y la incredulidad de todos jajaja. ¡Qué bonitos recuerdos!</p>
+                    <p>Cada nueva vez me decían que saliera de la habitación, a la cocina o cualquier lugar lejano, y luego de escribir la palabra secreta me invitaban de regreso y me daban la pista. Todas y cada una de las veces adiviné bien. Recuerdo las risas y la incredulidad de todos, jajaja. ¡Qué bonitos recuerdos!</p>
                     <p>Al igual que con mi consola propia, sentí la necesidad de averiguar cuál fue esta otra que usé en mi infancia, así que inicié un nuevo trabajo detectivesco.</p>
                 </article>
             </div>
@@ -399,10 +403,10 @@ export default function Level1() {
                     height={69}    
                 />
 				<p>Por casualidad, hace pocos años recuperé el contacto con aquel vecino, él se mudo de vuelta a la misma casa diagonal a la de mi papá y obtuve su número telefónico. Entonces, ahora pude aprovechar la oportunidad para preguntarle a qué jugamos aquella vez.</p>
-				<p>Él sí que lo recuerda perfectamente, claro, era su consola, la consola familiar. Así que ahora puedo decir que durante la segunda generación de consolas también usé la Magnavox Odissey<sup>2</sup>, fabricada por Magnavox (filial de Philips), y 1 de sus juegos.</p>
+				<p>Él sí que lo recuerda perfectamente, claro, era su consola, la consola familiar. Así que ahora puedo decir que durante la segunda generación de consolas también usé la Magnavox Odissey<sup>2</sup>, fabricada por Magnavox (filial de Philips) en 1978, y 1 de sus juegos.</p>
 				<p className="centered-text">
                     <Image
-                        className="magnavoxodyssey2"
+                        className="magnavoxodyssey2 box-shadow"
                         src="/imgs/level1/magnavoxodyssey2.jpg"
                         alt="Magnavox Odyssey2 picture"
                         width={300}
