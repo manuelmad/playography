@@ -11,10 +11,6 @@
 	border-top: 0.2rem solid var(--tone-1);
 }
 
-/* .article2, .article3, .article4 {
-	position: relative;
-} */
-
 .mk {
 	position: absolute;
 	width: 5rem;
@@ -83,10 +79,10 @@
 
 	.club {
 		position: absolute;
-		width: 12rem;
+		width: 15rem;
 		height: auto;
-		top: -3.2rem;
-		left: calc(50% - 6rem);
+		top: -4rem;
+		left: calc(50% - 7.5rem);
 	}
 
 	.snes {
@@ -104,6 +100,10 @@
 
 	.angry-uncle {
 		width: 30rem;
+	}
+
+	.magazines-covers__container img, .magazines-pages__container img {
+		width: 20rem;
 	}
 }
 

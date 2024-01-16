@@ -13,7 +13,7 @@ export default function Level3() {
                 <h2 className='level3-h2'>LEVEL 3: Mi periodo en "las maquinitas".</h2>
                 <article className='first-article'>
                     <p>A finales de los '80 e inicios de los '90, llega la <span className="bold-italic">cuarta generación de consolas</span> a Norte América, mientras yo aún jugaba con mi Famicom. Cuando empiezo el bachillerato en 1994 con 13 años de edad, tengo por primera vez acceso a una consola de Sega a través de un amigo de clases.</p>
-                    <p>Por cierto, por muchos años había perdido el contacto con ese compañero, y hace poco lo retomé por mera casualidad. Hace unos días aproveché para preguntarle el modelo de Sega que tenía y que así esta nota fuera totalmente fiel a la realidad. Así me aseguré de que fue una Sega Genesis (nombre de la Mega Drive en América).</p>
+                    <p>Por cierto, por muchos años había perdido el contacto con ese compañero, y hace poco lo retomé por mera casualidad. Hace unos días aproveché para preguntarle el modelo de Sega que tenía y que así esta nota fuera totalmente fiel a la realidad. Así me aseguré de que fue una Sega Genesis (conocida como Sega Mega Drive en otros continentes).</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level3/Sega-Genesis-Mod1-Set.png"
@@ -32,7 +32,7 @@ export default function Level3() {
                             width={1920}
                             height={1933}
                         />
-                        <p>Cada visita a casa de este compañero para estudiar, era una excusa para luego echar unas partidas mientras comíamos chucherías (golosinas en venezolano) y tomábamos refrescos (así llamamos en Venezuela a la Pepsi, Coca-Cola, etc.).</p>
+                        <p>Cada visita a casa de este compañero para estudiar era una excusa para luego echar unas partidas mientras comíamos chucherías (golosinas en venezolano) y tomábamos refrescos (así llamamos en Venezuela a la Pepsi, Coca-Cola, etc.).</p>
                         <p>Justo ahora, solo recuerdo haber jugado algún título de Sonic y Altered Beast.</p>
                         <p className='centered-text'>
                             <Image
@@ -267,7 +267,7 @@ export default function Level3() {
                                 width={479}
                                 height={521}    
                             />
-                            Recuerdo con cariño una ocasión en que ese tío nos dejó a uno de mis primos y a mí en un centro comercial para que, además de alquilar algunos videojuegos, comiéramos y bebiéramos algo para pasar la tarde. Pues decidimos gastarnos todo el dinero en juegos alquilados y no tomamos ni una gota de agua jajaja. Mi tío se molestó bastante cuando vio esa torre de cartuchos en nuestras manos y supo que no comimos nada. Aún no entiendo el porqué de la molestia, supongo que es la reacción normal en un adulto que no gusta de este hobby. Yo, a día de hoy, sigo sin ver el problema en lo que hicimos 🤷‍♂️ jejeje.</p>
+                            Recuerdo con cariño una ocasión en que ese tío nos dejó a uno de mis primos y a mí en un centro comercial para que, además de alquilar algunos videojuegos, comiéramos y bebiéramos algo para pasar la tarde. Pues decidimos gastarnos todo el dinero en juegos alquilados y no tomamos ni una gota de agua, jajaja. Mi tío se molestó bastante cuando vio esa torre de cartuchos en nuestras manos y supo que no comimos nada. Aún no entiendo el porqué de la molestia, supongo que es la reacción normal en un adulto que no gusta de este hobby. Yo, a día de hoy, sigo sin ver el problema en lo que hicimos 🤷‍♂️, jejeje.</p>
                         <p>Algunos de los juegos que recuerdo haber jugado en aquellas interminables jornadas fueron:</p>
                         <p className='centered-text'>
                             <Image
@@ -309,6 +309,7 @@ export default function Level3() {
                                 height={365}    
                             />
                         </p>
+                        <p>El juego de hockey sobre hielo me pareció especialmente divertido porque, si lograbas molestar lo suficiente a un jugador rival, la cámara hacía un primer plano a los jugadores involucrados en la riña y tocaba controlar a tu personaje para ganar una pelea a puñetazo limpio, jejeje. Mucho me reí durante esos momentos.</p>
                         <p>La gran mayoría de los juegos que probé (por no decir todos), fueron aquellos que se prestaban a la modalidad de multijugador. Esto, claro, debido al hecho de depender siempre de consolas compartidas o alquiladas.</p>
                         <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos alrededor de la máquina gris y púrpura para jugar por turnos, siempre al Mortal Kombat del momento.</p>
                         <p>Los adultos nos obligaban a salir de la casa para compartir con el resto de la familia, y nosotros a regañadientes accedíamos. ¡Qué buenos tiempos!</p>
