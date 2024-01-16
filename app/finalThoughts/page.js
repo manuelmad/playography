@@ -9,9 +9,9 @@ export default function finalThoughts() {
     return(
         <>
         <main>
-            <section>
-                <h2>PENSAMIENTOS FINALES</h2>
-                <article>
+            <section className='final-level__section'>
+                <h2 className='final-level__h2'>PENSAMIENTOS FINALES</h2>
+                <article className='first-article'>
                     <p>
                         <Image
                             className="time"
@@ -32,14 +32,39 @@ export default function finalThoughts() {
                         />
                         Hacer esta “Autojuegografía” (¿¡WTF!?) me trajo muchos esplendidos recuerdos, ignoraba que muchas de esas escenas tan hermosas estaban aún allí, en algún rincón de mi ocupada mente, ¡qué bueno que pudieron asomarse de nuevo!</p>
                     <p>En ocasiones vivimos el día a día sin detenernos a pensar de dónde venimos, sin recordar a esas personas que, aunque ya no las frecuentamos o que sencillamente ya no habitan este mundo, formaron parte importante de nuestro crecimiento y contribuyeron a nuestra felicidad en algunos periodos de nuestras vidas.</p>
-                    <p>Por cierto, toda esta historia la escribí porque los videojuegos son mi pasatiempo preferido, como ya lo he dicho, pero la compartí con ustedes en forma de página web porque actualmente estoy formándome como Programador Web (sí, una tercera profesión...), así que utilicé algunas de las habilidades que he adquirido para elaborar cada detalle de ella.</p>
+                    <p>
+                        <Image
+                            className="developer"
+                            src="/imgs/finalThoughts/web-developer.jpg"
+                            alt="web developer img"
+                            width={564}
+                            height={397}    
+                        />
+                        Por cierto, toda esta historia la escribí porque los videojuegos son mi pasatiempo preferido, como ya lo he dicho, pero la compartí con ustedes en forma de página web porque actualmente estoy formándome como Programador Web (sí, una tercera profesión...), así que utilicé algunas de las habilidades que he adquirido para elaborar cada detalle de ella.</p>
                     <p>Espero haya sido de su agrado y estoy abierto a sugerencias, consejos o incluso a colaborar en proyectos de cualquier tipo en los que pueda aportar algo. En la sección de referencias les dejo el enlace hacia mi página web, donde podrás ver algunos de los proyectos que he desarrollado y obtener mi información de contacto.</p>
                     <p>Uno de los proyectos que allí encontrarás es, ¡por supuesto!, un pequeño videojuego, jejeje. Solo necesitarás el teclado para jugarlo. Puedes encontrarlo en la sección “PROJECTS” de mi página, pero de todas maneras te dejaré el link directo en la sección de referencias.</p>
-                    <p>Gracias de nuevo por acompañarme en este viaje, ojalá este relato te anime a hacer cosas entretenidas para ti o para alguien más, o al menos que hayas podido transportarte a tu propio pasado y tener recuerdos placenteros de cualquier evento con tus seres queridos.</p>
+                    <p>
+                        <Image
+                            className="gracias"
+                            src="/imgs/finalThoughts/muchas-gracias.jpg"
+                            alt="gracias img"
+                            width={1024}
+                            height={500}    
+                        />
+                        Gracias de nuevo por acompañarme en este viaje, ojalá este relato te anime a hacer cosas entretenidas para ti o para alguien más, o al menos que hayas podido transportarte a tu propio pasado y tener recuerdos placenteros de cualquier evento con tus seres queridos.</p>
                     <p>¡Hasta luego!</p>
                     <p className='the-end__container'>
                         <h2 className={press_start_2P.className}>THE</h2>
                         <h2 className={press_start_2P.className}>END</h2>
+                    </p>
+                    <p className='centered-text'>
+                        <Image
+                            className='all-characters'
+                            src="/imgs/finalThoughts/all-characters.webp"
+                            alt="all characters img"
+                            width={1470}
+                            height={643}    
+                        />
                     </p>
                 </article>
                 <Router 

@@ -1,16 +1,42 @@
-.time {
+.final-level__h2 {
+	width: 100%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	background-color: var(--burn-yellow);
+	color: var(--tone-4);
+	border-radius: 0.5rem;
+    border: 0.2rem solid var(--tone-4);
+}
+
+.final-level__section article:nth-child(2) {
+	border-top: 0.2rem solid var(--burn-yellow);
+}
+
+.time, .developer {
 	width: 15rem;
     height: auto;
 	float: right;
 	border-radius: 0.5rem;
 }
 
+.developer {
+    border-radius: 10%;
+}
+
 .memories {
-	width: 15rem;
+	width: 10rem;
     height: auto;
 	float: left;
 	border-radius: 50%;
     margin-right: 0.5rem;
+}
+
+.gracias {
+    width: 15rem;
+    height: auto;
+	float: left;
+    margin-right: 0.5rem;
+    border-radius: 10%;
 }
 
 .the-end__container {
@@ -20,4 +46,79 @@
 .the-end__container h2 {
     margin: 0;
     font-size: 6rem;
+}
+
+
+@media (min-width: 700px) {
+
+	.final-level__h2 {
+		width: 68rem;
+	}
+
+    .time, .developer, .gracias {
+        width: 30rem;
+    }
+    
+    .memories {
+        width: 20rem;
+    }
+
+    .final-level__section .all-characters {
+        width: 60rem;
+    }
+
+	/* .write-paragraph {
+		margin-top: 4rem;
+	}
+
+	.x-paragraph {
+		margin-top: 10rem;
+	}
+
+	.evolution-paragraph {
+		margin-top: 10rem;
+	}
+
+	.list-container ul {
+		width: 40rem;
+	}
+
+	.second-list {
+		height: 20rem;
+	}
+
+	.first-list img, .second-list img {
+		width: 40rem;
+		left: calc(50% - 20rem);
+	}
+
+	.revenge, .x {
+		width: 20rem;
+	}
+	
+	.write {
+		width: 20rem;
+	}
+
+	.evolution {
+		width: 30rem;
+	} */
+}
+
+@media (min-width: 1024px) {
+	.final-level__h2 {
+		width: 80rem;
+	}
+
+    .final-level__section .all-characters {
+        width: 78rem;
+    }
+
+	/* .revenge {
+		width: 30rem;
+	}
+
+	.evolution-paragraph {
+		margin-top: 15rem;
+	} */
 }

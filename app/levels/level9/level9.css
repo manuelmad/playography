@@ -12,11 +12,11 @@
 	border-top: 0.2rem solid var(--celeste);
 }
 
-.first-article .centered-text img {
+.level9-section .centered-text img {
 	box-shadow: rgba(41, 41, 41, 0.5) 0 0 15px 0;
 }
 
-.first-article .centered-text .bye-img {
+.level9-section .centered-text .bye-img {
 	box-shadow: none;
 	width: 28rem;
 }
@@ -154,24 +154,4 @@ ul li {
 	.evolution-paragraph {
 		margin-top: 15rem;
 	}
-
-	/* .x-paragraph {
-		margin-top: 4rem;
-	} */
-	/* .broken-laptop__paragraph {
-		padding-top: 4rem;
-	}
-
-	.money-wings__paragraph {
-		margin-top: 8rem;
-	}
-
-	.magic__paragraph {
-		padding-top: 4rem;
-		margin-top: 8rem;
-	}
-
-	.first-console__paragraph {
-		margin-top: 8rem;
-	} */
 }
