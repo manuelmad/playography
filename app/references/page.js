@@ -23,7 +23,7 @@ export default function References() {
                         <Link href="https://www.youtube.com/watch?v=Zc5G2shCKwk" target="_blank">Cabernet Sauvignon</Link>
                     </p>
                 </article>
-                <article>
+                <article className='reference-container'>
                     <h3 className='ref-h3'>Gameplay de Buzzword!:</h3>
                     <p>
                         <Link href="https://www.youtube.com/watch?v=e8Jpbvb0uJ0" target="_blank">BUZZWORD!</Link>
@@ -35,7 +35,7 @@ export default function References() {
                         <Link href="https://www.youtube.com/watch?v=3dGBMGI43GA" target="_blank">NintendoComplete</Link>
                     </p>
                 </article>
-                <article>
+                <article className='reference-container'>
                     <h3 className='ref-h3'>Mods de Yu Gi Oh! Forbidden Memories:</h3>
                     <p>
                         <Link href="https://vcgi.foroes.org/f21-yu-gi-oh-forbidden-memories-mod" target="_blank">VCGI Juegos</Link>
@@ -59,7 +59,7 @@ export default function References() {
                         <Link href="https://www.gamelandiajuegos.com.ar/" target="_blank">Gamelandia</Link>
                     </p>
                 </article>
-                <article>
+                <article className='reference-container'>
                     <h3 className='ref-h3'>Página web personal:</h3>
                     <p>
                         <Link href="https://www.manuelmad.vercel.app/" target="_blank">Manuel Araujo</Link>

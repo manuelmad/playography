@@ -17,6 +17,12 @@
 
 .ref-h3 {
     text-align: start;
+    color: var(--tone-3);
+}
+
+.reference-container {
+    background-color: var(--very-light-gray);
+    border-radius: 0.5rem;
 }
 
 @media (min-width: 700px) {
@@ -28,26 +34,10 @@
 	.references-h2 {
 		width: 68rem;
 	}
-
-    /* .time, .developer, .gracias {
-        width: 30rem;
-    }
-    
-    .memories {
-        width: 20rem;
-    }
-
-    .final-level__section .all-characters {
-        width: 60rem;
-    } */
 }
 
 @media (min-width: 1024px) {
 	.references-h2 {
 		width: 80rem;
 	}
-
-    /* .final-level__section .all-characters {
-        width: 78rem;
-    } */
 }
