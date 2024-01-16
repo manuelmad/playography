@@ -37,7 +37,7 @@ export default function Level2() {
                         height={4096}
                     />
                     <p>Como era de esperarse, descubrí que poseí una versión “bucanera” de la consola original y, por lo visto, salieron varias al mercado con ese color:</p>
-                    <p>Las Dendy Junior y Dendy Junior II, ensambladas por la empresa Steepler en Taiwan con componentes chinos y distribuidas principalmente en Rusia y el resto de países de la ex Unión Soviética</p>
+                    <p>Las Dendy Junior y Dendy Junior II, ensambladas por la empresa Steepler en Taiwan con componentes chinos y distribuidas principalmente en Rusia y el resto de países de la ex Unión Soviética:</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level2/dendy-junior.jpg"
@@ -48,13 +48,14 @@ export default function Level2() {
                     </p>
                     <p className='centered-text'>
                         <Image
+                            className='box-shadow'
                             src="/imgs/level2/Dendy_Junior_II.png"
                             alt="dendy junior II img"
                             width={1062}
                             height={899}    
                         />
                     </p>
-                    <p>La Family Game, también fabricada en Taiwan</p>
+                    <p>La Family Game, también fabricada en Taiwan:</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level2/family-game.jpg"
@@ -63,7 +64,7 @@ export default function Level2() {
                             height={1121}    
                         />
                     </p>
-                    <p>La Family Video Game Son Son, igualmente procedente de Taiwan</p>
+                    <p>La Family Video Game Son Son, igualmente procedente de Taiwan:</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level2/son-son-box.jpg"
@@ -84,7 +85,7 @@ export default function Level2() {
                         height={1184}
                     />
                         <p>Si bien no logré recordar la consola específica que tuve, ¡vaya que sí tengo recuerdos de los maravillosos juegos que en ella jugué!</p>
-                        <p>Recuerdo haber jugado con compañeros de colegio, vecinos y mi hermano menor (¡ya existe!). No me dedicaré a nombrar los juegos famosos que todo el mundo jugó, porque obviamente yo también lo hice.</p>
+                        <p>Recuerdo haber jugado con compañeros de colegio, vecinos y mi hermano menor (¡ya existe!). No me dedicaré a nombrar los juegos más famosos que todo el mundo jugó, porque obviamente yo también lo hice.</p>
                         <p>Así que aquí te dejo una selección de videojuegos a los cuales les dediqué muchas horas de mi niñez, quizás no conocías algunos de ellos hasta ahora:</p>
                         <p className="famicom-games__container">
                             <Image
@@ -255,7 +256,7 @@ export default function Level2() {
                                 height={359}    
                             />
                         </p>
-                        <p>Bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas disfrutado bastante, ¡malandrín!</p>
+                        <p>Y ahora recuerdo que bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas disfrutado bastante, ¡malandrín!</p>
                         <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
                         <p className='centered-text'>
                             <Image
@@ -266,10 +267,10 @@ export default function Level2() {
                             />
                         </p>
                         <h3 className='punchout-name'>Punch-Out!!</h3>
-                        <p>Recuerdo que, antes de tener mi propia Famicom (o como se llamara la que yo tenía), acompañaba a mis padres a hacer las compras en un supermercado, ubicado en un centro comercial cercano a casa. En este mall había, por supuesto, otros locales, entre los cuales se encontraba un centro de alquiler de consolas por hora, o como los niños llamábamos a ese tipo de sitios: “maquinitas”.</p>
-                        <p>Mientras mis padres pasaban el tiempo en el supermercado comprando lo necesario para el hogar, yo me distraía en las “maquinitas”, y les juro que el único juego que recuerdo haber jugado en ese establecimiento fue Punch-Out!!</p>
+                        <p>Recuerdo que, antes de tener mi propia Famicom (o como se llamara la que yo tenía), acompañaba a mis padres a hacer las compras en un supermercado, ubicado en un centro comercial cercano a casa. En este mall había, por supuesto, otros locales, entre los cuales se encontraba un centro de alquiler de consolas por hora, o como los niños llamábamos a ese tipo de sitios: "maquinitas".</p>
+                        <p>Mientras mis padres pasaban el tiempo en el supermercado comprando lo necesario para el hogar, yo me distraía en las "maquinitas", y les juro que el único juego que recuerdo haber jugado en ese establecimiento fue Punch-Out!!</p>
                         <p>Me hipnotizaban esos contrincantes con sprites mucho más grandes que el del héroe, cada personaje tenía un encanto único y una forma distinta de vencerlo. Siempre había algún cliente usando este juego, y el resto de niños que esperábamos nuestro turno, rodeábamos al afortunado del momento y lo alentábamos a seguir avanzando en los circuitos.</p>
-                        <p>Mi tiempo de juego dependía de las visitas al centro comercial y a la disponibilidad del juego en ese momento que yo estaba allí, así que recuerdo que solo pude avanzar hasta King Hippo, el cual tenía una forma, digamos, “rebuscada” de ser vencido.</p>
+                        <p>Mi tiempo de juego dependía de las visitas al centro comercial y a la disponibilidad del juego en ese momento que yo estaba allí, así que recuerdo que solo pude avanzar hasta King Hippo, el cual tenía una forma, digamos, "rebuscada" de ser vencido.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level2/king-hippo.jpg"
@@ -296,7 +297,7 @@ export default function Level2() {
                                 width={500}
                                 height={437}    
                             />
-                            Cuando finalmente lo logré... De verdad no podía creer que aquello fuera posible, siempre había creído que era invencible. Ver a Mario (el referee) decretando mi victoria fue la alegría más grande que recuerde con videojuego alguno.
+                            Cuando finalmente lo logré... ¡De verdad no podía creer que aquello fuera posible!, siempre había creído que era invencible. Ver a Mario (el referee) decretando mi victoria fue la alegría más grande que recuerde con videojuego alguno.
                         </p>
                         <p>¡Qué bonito es tener una consola en tu propia casa y usarla cada vez que te apetezca! Así fueron mis 2 primeras experiencias gaming, muy añorables y llenas de satisfacciones. Sin embargo, no sabía que vendrían tiempos menos favorables durante las cuarta, quinta y sexta generaciones de consolas...</p>
                     </article>
