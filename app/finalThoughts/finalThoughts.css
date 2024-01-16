@@ -64,45 +64,8 @@
     }
 
     .final-level__section .all-characters {
-        width: 60rem;
+        width: 66rem;
     }
-
-	/* .write-paragraph {
-		margin-top: 4rem;
-	}
-
-	.x-paragraph {
-		margin-top: 10rem;
-	}
-
-	.evolution-paragraph {
-		margin-top: 10rem;
-	}
-
-	.list-container ul {
-		width: 40rem;
-	}
-
-	.second-list {
-		height: 20rem;
-	}
-
-	.first-list img, .second-list img {
-		width: 40rem;
-		left: calc(50% - 20rem);
-	}
-
-	.revenge, .x {
-		width: 20rem;
-	}
-	
-	.write {
-		width: 20rem;
-	}
-
-	.evolution {
-		width: 30rem;
-	} */
 }
 
 @media (min-width: 1024px) {
@@ -113,12 +76,4 @@
     .final-level__section .all-characters {
         width: 78rem;
     }
-
-	/* .revenge {
-		width: 30rem;
-	}
-
-	.evolution-paragraph {
-		margin-top: 15rem;
-	} */
 }

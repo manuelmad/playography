@@ -9,9 +9,9 @@ export default function References() {
     return(
         <>
         <main>
-            <section>
-                <h2>REFERENCIAS</h2>
-                <article>
+            <section className='references-section'>
+                <h2 className='references-h2'>REFERENCIAS</h2>
+                <article className='first-article'>
                     <h3 className='ref-h3'>Videos recopilatorios de juegos de Atari 2600:</h3>
                     <p>
                         <Link href="https://www.youtube.com/watch?v=l5Exbd1IWQk" target="_blank">Joseph J.Y.A.</Link>
