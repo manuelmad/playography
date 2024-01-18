@@ -41,6 +41,12 @@ export default function References() {
                         <Link href="https://www.youtube.com/watch?v=3dGBMGI43GA" target="_blank">NintendoComplete</Link>
                     </p>
                 </article>
+                <article>
+                    <h3 className='ref-h3'>Temporada "0" de Yu-Gi-Oh!:</h3>
+                    <p>
+                        <Link href="https://www.youtube.com/playlist?list=PLTsPlT1ztlwcRR1IlBMrlUEftf-rHAdAe" target="_blank">kanonYasha -Fansub-</Link>
+                    </p>
+                </article>
                 <article className='reference-container'>
                     <h3 className='ref-h3'>Mods de Yu Gi Oh! Forbidden Memories:</h3>
                     <p>

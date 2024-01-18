@@ -30,7 +30,7 @@ export default function Level6() {
                                 width={226}
                                 height={330}
                             />
-                            Luego de dos años como profesor, en 2010, consigo un empleo como Ingeniero de Petróleo y paralelamente me graduó de la otra carrera... Ahora que lo pienso, eso fue extraño 🤔, jajaja: estudiar “A” para trabajar de “B” y luego estudiar “B” para trabajar de “A”... En fin, lo importante es que con mi nuevo empleo las finanzas comienzan a mejorar.</p>
+                            Luego de dos años como profesor, en 2010, consigo un empleo como Ingeniero de Petróleo y paralelamente me graduó de la otra carrera... Ahora que lo pienso, eso fue extraño 🤔, jajaja: estudiar "A" para trabajar de "B" y luego estudiar "B" para trabajar de "A"... En fin, lo importante es que con mi nuevo empleo las finanzas comienzan a mejorar.</p>
                         <p>Pero lo cierto es que, cualquiera sea el trabajo que tuviera, empiezo a contar con muy poco tiempo libre, prácticamente nulo, diría yo.</p>
                         <p>La <span className="bold-italic">séptima generación de consolas</span> ya estaba en marcha desde 2005-2006. Yo venía con la inercia de mi floja etapa anterior y, ahora en conjunto con mi ajetreada vida laboral, lo único que sabía al respecto era lo que escuchaba en eventuales comentarios de algunas personas a mi alrededor: “existe una consola de Nintendo cuyos controles se basan en movimiento”, “ya hay una nueva PlayStation”, “salió al mercado una portátil de doble pantalla”, etc. Esporádicamente jugaba en mi Smartphone algún jueguito que no me quitara mucho tiempo, pero que me hiciera sentir satisfecho al menos mínimamente: Candy Crush, Hill Climb Racing, Sonic Dash, etc.</p>
                         <p className='centered-text'>
@@ -57,7 +57,7 @@ export default function Level6() {
                                 height={846}
                             />
                         </p>
-                        <p>Sí, lo sé, toqué fondo jugando Candy Crush. Pero, por favor, no me juzguen, solo estaba confundido y extraviado, jejeje... De cualquier manera, todos fueron agradables y mantuvieron mi espíritu gamer vivo.</p>
+                        <p>Sí, lo sé, toqué fondo jugando Candy Crush. Pero, por favor, no me juzgues, solo estaba confundido y extraviado, jejeje... De cualquier manera, todos fueron agradables y mantuvieron mi espíritu gamer vivo.</p>
                         <p>El que más disfruté fue sin dudas Yu-Gi-Oh! Duel Links. ¡Qué buen juego! Jugar el modo historia e ir recolectando dinero y objetos para poder comprar cartas y paquetes en la tienda. Armar decks para llevar a cabo buenos combos, enfrentar a oponentes online a nivel mundial... Muy buen trabajo de Konami.</p>
                         <p className='centered-text'>
                             <Image
@@ -67,7 +67,8 @@ export default function Level6() {
                                 height={710}
                             />
                         </p>
-                        <p>Hace poco quise rejugarlo, pero la cantidad de nuevas reglas y efectos de cartas me hicieron sentir abrumado y desistí.</p>
+                        <p>Por cierto, recientemente comencé a ver los animés de Yu-Gi-Oh!, terminé la llamada Yu-Gi-Oh! (conocida como la tenporada "0", no sabía que existía), la Duel Monsters (la que vi durante mi adolescencia en canales de televisión nacional) y actualmente estoy viendo la saga GX. Ahora me doy cuenta que muchas de las cartas que conocí en el videojuego Duel Links, provienen de la serie GX. Si no sabías que existía una temporada "0" de Yu-Gi-Oh! y quieres verla, te dejaré un enlace en la sección de referencias.</p>
+                        <p>Hace poco quise rejugar el Duel Links, pero la cantidad de nuevas reglas y efectos de cartas me hicieron sentir abrumado y desistí.</p>
                         <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 “Slim” nueva de caja, con el juego de Uncharted en físico.</p>
                         <p className='centered-text'>
                             <Image
