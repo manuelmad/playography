@@ -35,7 +35,7 @@ export default function Level9() {
                             height={469}    
                         />
                         Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme, jajaja. No sé si tendré el tiempo suficiente para lograr el cometido que me propuse, lo que sí sé es que me voy a divertir intentándolo.</p>
-                    <p>He aquí, en orden alfabético, la lista de cada saga que quiero completar. Claro, hay sagas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
+                    <p className='list-paragraph'>He aquí, en orden alfabético, la lista de cada saga que quiero completar. Claro, hay sagas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
                     <p>Puedes ver el detalle de cualquiera de ellas haciendo clic sobre la que te interese.</p>
                     <div className='list-container first-list'>
                         <Image
@@ -74,7 +74,7 @@ export default function Level9() {
                             <li>Yu-Gi-Oh!</li>
                         </ul>
                     </div>
-                    <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de Pokémon. Por cierto, en este caso particular de los Pocket Monsters, sus primeros juegos de Game Boy no me agradaron mucho y preferí jugar los remakes que lanzaron en posteriores consolas.</p>
+                    <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de Pokémon. Por cierto, en este particular de los Pocket Monsters, probé sus primeros juegos de Game Boy, pero no me agradaron mucho y preferí jugar los remakes que lanzaron en posteriores consolas.</p>
                     <p>De aquellas sagas que sí jugué, voy decidiendo según me apetezca si rejugaré o no el(los) juego(s) que ya había probado hace años.</p>
                     <p className='write-paragraph'>
                         <Image
@@ -103,8 +103,24 @@ export default function Level9() {
                             height={413}    
                         />
                         Trato siempre de jugar cada saga en orden cronológico, según el lanzamiento de sus juegos. Diría que es una forma de atestiguar cómo ha evolucionado cada una de ellas y la industria en general. Intento dedicarle 1 ó 2 horas al día al videojuego de turno, aunque no todos los días me es posible usar las consolas. Sin embargo, no pasa un día sin que al menos juegue algunos minutos en mi smartphone, actualmente disfruto jugando Mario Kart Tour o en ocasiones Super Mario Run.</p>
-                    <p>No suelo jugar 2 videojuegos seguidos dentro de la misma saga, para mantener la variedad. Por lo general, solo termino la historia principal y no me concentro mucho en desbloqueables muy difíciles o tareas secundarias. Tampoco reinicio la entrega cuando existe la opción de hacerlo con un nuevo personaje desbloqueado o con una nueva dificultad. Solo si el juego me gustó demasiado, puedo hacer la excepción en alguno de esos apartados.</p>
-                    <p>¡Ah! Y con los juegos retro que emulo con RetroArch, muchas veces recurro a los "save states" para pasar tramos muy difíciles, no quiero estancarme por varios días o semanas en un solo título. Por cierto, eso me hizo recordar que los juegos retro son muuuucho más difíciles que los actuales, ¡ya terminen de aceptar esa realidad!</p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level9/MarioKartTour.jpg"
+                            alt="mario kart tour img"
+                            width={1600}
+                            height={800}    
+                        />
+                    </p>
+                    <p className='centered-text'>
+                        <Image
+                            src="/imgs/level9/SuperMarioRun.jpg"
+                            alt="super mario run img"
+                            width={1600}
+                            height={800}    
+                        />
+                    </p>
+                    <p>No suelo jugar 2 videojuegos seguidos dentro de la misma saga, para mantener la variedad. Por lo general, solo termino la historia principal y no reinicio la entrega cuando existe la opción de hacerlo con un nuevo personaje desbloqueado o con una nueva dificultad. Solo si el juego me gustó demasiado, puedo hacer la excepción en alguno de esos apartados.</p>
+                    <p>¡Ah! Y con los juegos retro que emulo con RetroArch, muchas veces recurro a los "save states" para pasar tramos muy difíciles, no quiero estancarme por varios días o semanas en un solo título. La alta dificultad y rejugabilidad de esos juegos es lo que compensa su corto recorrido.</p>
                     <p>Hablando de retro, estos son los juegos que rejugué solo por el mero placer de la nostalgia, todos de la NES:</p>
                     <div className='list-container second-list'>
                         <Image
@@ -189,10 +205,10 @@ export default function Level9() {
                             height={1000}    
                         />
                     </p>
-                    <p>Hice una excepción con Pokémon Quest, adelantando ese juego en la lista, porque es gratuito y me sirvió para probar todo en la consola, fue mi primer juego en la Switch 🤩.</p>
+                    <p>Hice una excepción con Pokémon Quest, adelantando ese juego en la lista, porque es gratuito y me sirvió para probar el funcionamiento de la consola, fue mi primer juego en la Switch 🤩.</p>
                     <p>El juego de Sky también es gratuito y solo lo descargué y probé por un rato. Me llamó la atención porque leí que está desarrollado por los mismos creadores de Journey (PS3). En algún momento lo terminaré, pero no está en mis prioridades justo ahora.</p>
                     <p>El otro en esta lista que aún no he terminado es Cuphead. Lo llevo al 82% en la historia principal, pero es bastante difícil y necesito cierto nivel de paciencia que justo ahora no tengo 🥴. Éste sí lo tengo entre mis pendientes y más pronto que tarde le daré la estocada final.</p>
-                    <p>Haré una mención especial a uno de estos juegos, que me hizo sentir como hacía rato no me había sentido. Sus gráficos, jugabilidad, controles, historia, escenarios, exploración y desbloqueo de ítems y mundos... ¡Qué pedazo de juego es Hollow Knight! No estoy descubriendo el agua tibia diciendo esto acerca del que es considerado como el mejor juego indie y mejor Metroidvania de la historia, pero no puedo dejar de expresar que al jugarlo me demostró que no es exagerado el estatus que se le ha impuesto, ¡merecidísimo!</p>
+                    <p>Haré una mención especial a uno de estos juegos, que me hizo disfrutar como hacía rato no lo hacía. Sus gráficos, jugabilidad, controles, historia, escenarios, exploración y desbloqueo de ítems y mundos... ¡Qué pedazo de juego es Hollow Knight! No estoy descubriendo el agua tibia diciendo esto acerca del que es considerado como el mejor juego indie y mejor Metroidvania de la historia, pero no puedo dejar de expresar que al jugarlo me demostró que no es exagerado el estatus que se le ha impuesto, ¡merecidísimo!</p>
                     <p className='centered-text'>
                         <Image
                             src="/imgs/level9/hollow-knight.png"
