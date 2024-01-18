@@ -29,6 +29,12 @@ export default function References() {
                         <Link href="https://www.youtube.com/watch?v=e8Jpbvb0uJ0" target="_blank">BUZZWORD!</Link>
                     </p>
                 </article>
+                <article className='reference-container'>
+                    <h3 className='ref-h3'>Video recopilatorio de juegos de NES:</h3>
+                    <p>
+                        <Link href="https://www.youtube.com/watch?v=uA-QyNcGiZ0" target="_blank">Jalop Entertainment</Link>
+                    </p>
+                </article>
                 <article>
                     <h3 className='ref-h3'>Videojuego pirata de Street Fighter II para NES:</h3>
                     <p>

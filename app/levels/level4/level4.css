@@ -56,6 +56,14 @@
 	.ps1fat{
 		width: 30rem;
 	}
+
+	.psone-games__container img {
+		width: 20rem;
+	}
+
+	.th-paragraph {
+		margin-top: 4rem;
+	}
 }
 
 @media (min-width: 1024px) {

@@ -13,7 +13,7 @@ export default function Level4() {
                 <h2 className='level4-h2'>LEVEL 4: Un poco más de maquinitas y un gran golpe de suerte.</h2>
                 <div className='past'>
                     <article className='first-article'>
-                        <p>Ya a mediados de los '90, comienza lo que en mi opinión fue uno de los puntos de inflexión más fuertes en la industria. Inicia la <span className="bold-italic">quinta generación de consolas</span> trayendo consigo los gráficos en 3D que tanto nos asombraron y emocionaron. A mis 16 y 17 años, cursando los últimos 2 años del bachillerato, seguía sin poder tener una videoconsola propia, así que continué visitando los gaming centers, principalmente, para seguir jugando mi saga favorita del momento: Mortal Kombat Trilogy y Mortal Kombat 4 en la PlayStation original.</p>
+                        <p>Ya a mediados de los '90, comienza uno de los puntos de inflexión más fuertes en la industria. Inicia la <span className="bold-italic">quinta generación de consolas</span> trayendo consigo los gráficos en 3D que tanto nos asombraron y emocionaron. A mis 16 y 17 años, cursando los últimos 2 años del bachillerato, seguía sin poder tener una videoconsola propia, así que continué visitando los gaming centers, principalmente, para seguir jugando mi saga favorita del momento: Mortal Kombat Trilogy y Mortal Kombat 4, en la PlayStation original.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level4/mk-trilogy.jpg"
@@ -47,7 +47,7 @@ export default function Level4() {
                                 height={720}    
                             />
                         </p>
-                        <p>Pero, sin duda alguna, el juego que más disfrutábamos en esas jornadas de "estudio" era el GoldenEye 007, en su modo multijugador. Por lo general éramos 4 compañeros y pasábamos horas acribillándonos entre nosotros. Los dos que poseían consolas tenían una clara ventaja sobre nosotros, los 2 que no, pero poco a poco fuimos equilibrando las batallas hasta que se volvió bastante reñido y divertido.</p>
+                        <p>Pero, sin duda alguna, el juego que más disfrutábamos en esas jornadas de "estudio" era el GoldenEye 007, en su modo multijugador. Por lo general, éramos 4 compañeros y pasábamos horas acribillándonos entre nosotros. Los dos que poseían consolas tenían una clara ventaja sobre nosotros, los 2 que no, pero poco a poco fuimos equilibrando las batallas hasta que se volvió bastante reñido y divertido.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level4/GoldenEye_007.jpg"
@@ -108,8 +108,8 @@ export default function Level4() {
                                 height={506}    
                             />
                         </p>
-                        <p>Creo que el juego que más disfrutamos mi hermano y yo fue el Ken Griffey Jr.'s Slugfest, ¡muchas lágrimas derramadas!, tanto de risa como de rabia jajaja. Yo solía ganar las partidas por mi condición de ser más experimentado a los mandos, hasta que mi hermano descubrió que los Seattle Mariners, con Ken Griffey Jr. en su roster, estaban muuuy rotos 😣.</p>
-                        <p>Se acabó mi felicidad y empezó la suya, un partido tras otros me derrotó fácilmente sin importar qué equipo yo eligiera. ¡En serio! Él podía tener sus ojos cerrados y hacer swing en el momento que quisiera, Ken Griffey se encargaría de sacarla del parque todas las veces 😤. Los demás bateadores de los Mariners no estaban tan rotos, pero seguían siendo mejores que cualquiera de otro equipo.</p>
+                        <p>Creo que el juego que más disfrutamos mi hermano y yo fue el Ken Griffey Jr.'s Slugfest, ¡muchas lágrimas derramadas!, tanto de risa como de rabia jajaja. Yo solía ganar las partidas por mi condición de ser más experimentado a los mandos, hasta que mi hermano descubrió por casualidad que los Seattle Mariners, con Ken Griffey Jr. en su roster, estaban muuuy rotos 😣.</p>
+                        <p>Se acabó mi felicidad y empezó la suya, un partido tras otros me derrotó fácilmente sin importar qué equipo yo eligiera. ¡En serio! Él podía tener sus ojos cerrados y hacer swing en el momento que quisiera, Ken Griffey se encargaría de sacarla del parque todas las veces 😤. Los demás bateadores de los Mariners no estaban tan rotos, pero seguían siendo mejores que cualquiera de otro equipo. Nunca olvidaré la odiosa frasecita "¡Say good bye!" que decía Ken cada vez que conectaba la pelota y se sabía que se iba fuera 😡.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level4/Ken_Griffey_Jr.'s_Slugfest_cover.png"
@@ -136,7 +136,7 @@ export default function Level4() {
                                 height={311}    
                             />
                         </p>
-                        <p>Al principio no usaba la consola, pero a medida que crecía la confianza familiar, su hermanita de 11 años me iba involucrando más en sus cosas y, en los años posteriores, fui su principal proveedor de juegos de PSone, por lo que empezamos todos a jugar mucho. Recuerdo que frente a la casa de mis padres había un vendedor de CD's de todo tipo: películas, series, música y videojuegos de PS1. El señor siempre tenía una gran variedad de títulos. Si no tenía el que yo buscaba, anotaba el nombre en su libreta y en pocos días podía pasarlo buscando. ¡Gracias por tanto apoyo!, señor Gary.</p>
+                        <p>Al principio no usaba la consola, pero a medida que crecía la confianza familiar, su hermanita de 11 años me iba involucrando más en sus cosas y, en los años posteriores, fui su principal proveedor de juegos de PSone, por lo que empezamos todos a jugar mucho. Recuerdo que frente a la casa de mis padres había un vendedor de CD's de todo tipo: películas, series, música y videojuegos de PS. El señor siempre tenía una gran variedad de títulos. Si no tenía el que yo buscaba, anotaba el nombre en su libreta y en pocos días podía pasarlo buscando. ¡Gracias por tanto apoyo, señor Gary!</p>
                         <p>Se me hace incontable la cantidad de títulos que jugamos, buenos y malos, sin piedad ni contemplación para con la pobre consolita, jajaja. Aquí algunos de los que más recuerdo y disfrutamos:</p>
                         <p className='psone-games__container'>
                             <Image
@@ -290,12 +290,12 @@ export default function Level4() {
                                 height={569}
                             />
                         </p>
-                        <p>Como pueden ver en ese listado, fui muy influenciado por la niña, jajaja. Pero gracias a ella pude disfrutar de muchos buenos juegos que de otro modo no hubiese probado.</p>
+                        <p>Como puedes ver en ese listado, fui muy influenciado por la niña, jajaja. Pero gracias a ella pude disfrutar de muchos buenos juegos que de otro modo no hubiese probado.</p>
                         <p>Resulta curioso que jugué alguna segunda entrega de una saga sin tener conocimiento de la primera 🤔, como por ejemplo con Parasite Eve y Tomba... Pero bueno, así se dio y fue igualmente disfrutable.</p>
                         <p>También jugué muchas de las entregas de FIFA que eran lanzadas al mercado anualmente.</p>
                         <p>De verdad fueron momentos mágicos jugando tanta variedad y por tantos años.</p>
                         <p>Creo que los juegos que más disfruté, personalmente, fueron Yu-Gi-Oh! Forbidden Memories y Tony Hawk's Pro Skater 2.</p>
-                        <p>¡Qué emocionante era intentar obtener todas las cartas existentes! Para ese entonces no tenía ni idea de que era imposible, jajaja. Hoy en día sé que algunas de las cartas solo estaban disponibles a través de la PocketStation, dispositivo que nunca se comercializó fuera de Japón. Y terminar el juego también supuso un gran reto para todos, nos pasábamos el control de una mano a otra para ver quién lo lograría.</p>
+                        <p>¡Qué emocionante era intentar obtener todas las cartas existentes! Para ese entonces no tenía ni idea de que era imposible, jajaja. Hoy en día sé que algunas de las cartas solo estaban disponibles a través de la PocketStation, dispositivo que nunca se comercializó fuera de Japón. Y terminar el juego también supuso un gran reto para todos, nos pasábamos el control de una mano a otra para ver quién lo lograría, hasta mi suegro se incluyó en esa rotación.</p>
                         <p>Lo duro es esa última seguidilla de enemigos que hay que derrotar sin poder guardar partida entre duelos, que te salgan mejores cartas que a todos tus rivales de manera consecutiva parecía imposible. Pero bueno, farmeando un poco a rivales específicos, comprando algunas cartas con starchips y, por supuesto, con mucha suerte, lo pudimos conseguir.</p>
                         <p className='centered-text'>
                             <Image
@@ -321,7 +321,7 @@ export default function Level4() {
                                 height={1080}    
                             />
                         </p>
-                        <p>Este juego me gustó tanto que, incluso años depués de jugarlo en la consola, lo jugué en una laptop (sin saber siquiera que existían los emuladores, solo instalé un ejecutable que conseguí en internet) para intentar infructuosamante obtener todas las cartas.</p>
+                        <p>Este juego me gustó tanto que, incluso años depués de jugarlo en la consola, lo jugué en una laptop (sin saber siquiera que existían los emuladores, solo instalé un ejecutable que conseguí en internet) para intentar infructuosamante obtener todas las cartas. Hablaré más en detalle de esto en uno de los levels posteriores.</p>
                         <p>Y... Ahora... Qué puedo decir de Tony Hawk... ¡Por Dios santo! ¡Qué maravilla de juego! Jajaja. Encadenar combos, realizar tareas, cumplir misiones, la música, sus controles, mecánicas, escenarios, desbloqueables, gameplay... En fin, ¡fue perfecto!</p>
                         <p className='centered-text'>
                             <Image
@@ -339,7 +339,7 @@ export default function Level4() {
                                 height={309}    
                             />
                         </p>
-                        <p>
+                        <p className='th-paragraph'>
                             <Image
                                 className="ps1fat"
                                 src="/imgs/level4/ps1fat.png"
@@ -358,7 +358,7 @@ export default function Level4() {
                         width={516}
                         height={484}
                     />
-                    <p>Lamentablemente, durante esta generación no pude disfrutar mucho del catálogo de la consola de Nintendo, mi compañía favorita, ni de ninguna otra máquina (creo que ni sabía que existían otras en ese momento, como la Atari Jaguar o la Sega Saturn), pero en la actualidad me he dedicado a enmendar de la manera que he podido esos “pendientes” del pasado. Más adelante les contaré al respecto.</p>
+                    <p>Lamentablemente, durante esta generación no pude disfrutar mucho del catálogo de la consola de Nintendo, mi compañía favorita, ni de ninguna otra máquina (creo que ni sabía que existían otras en ese momento, como la Atari Jaguar o la Sega Saturn), pero en la actualidad me he dedicado a enmendar de la manera que he podido esos “pendientes” del pasado. Más adelante te contaré al respecto.</p>
                     <p>Para este momento ya había iniciado la <span className="bold-italic">sexta generación de consolas</span>, pero por las mismas razones que antes expuse, pasó casi desapercibida para mí. Prácticamente jugué con las de quinta durante la sexta generación.</p>
                 </article>
                 <Router 

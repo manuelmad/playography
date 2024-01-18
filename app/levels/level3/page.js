@@ -88,7 +88,7 @@ export default function Level3() {
                             />
                         </p>
                         <p>Recuerdo que comencé a comprar las ediciones de la revista Club Nintendo solo para leer artículos relacionados a esta saga y eso me enganchó a seguirla comprando cuando podía. Era encantador leer página por página, mirar dibujo por dibujo, sin importar que nunca jugaría algunos de los juegos allí mostrados.</p>
-                        <p>¿Saben qué? Los recuerdos de esas revistas me hicieron querer volver a verlas, volvamos al presente a ver cómo me va en esta nueva búsqueda.</p>
+                        <p>¿Sabes qué? Los recuerdos de esas revistas me hicieron querer volver a verlas, volvamos al presente a ver cómo me va en esta nueva búsqueda.</p>
                     </article>
                 </div>
                 <article className='article3'>

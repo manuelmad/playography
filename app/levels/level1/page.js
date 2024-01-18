@@ -157,7 +157,7 @@ export default function Level1() {
 				</p>
 				<p>Ésta tiene todos los detalles que busco: negra y achatada en el frente, una franja gris en el centro, los mandos exactamente iguales a los míos, y cuando vi esos botones a cada lado de la ranura para los cartuchos... Mi mente viajó al pasado y sentí que veía desde los ojos de mi yo niño, prendiendo y apagando la consola, reseteándola o seleccionando juegos... Es increíble lo que una imagen puede hacer.</p>
 				<p>Ahora, para poder recordar muchos de los juegos que para esos años me cautivaron y que hicieron tan feliz al niño Manuel, tuve que buscar varios videos recopilatorios en YouTube. Te dejaré los links en la sección de referencias.</p>
-				<p>Para resumirles mi experiencia, voy a compartirles los que más bonitas memorias traen a mi mente:</p>
+				<p>Para resumirte mi experiencia, voy a compartirte los que más bonitas memorias traen a mi mente:</p>
 				<p className="atari-games__container">
                     <Image
                         src="/imgs/level1/adventure.jpg"

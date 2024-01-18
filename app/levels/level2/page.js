@@ -245,7 +245,7 @@ export default function Level2() {
                                 height={500}    
                             />
                         </p>
-                        <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día.</p>
+                        <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día. Te dejaré el vínculo a uno de los canales de YouTube que utilicé. También, en algunos de los canales que te dejé para Atari encontrarás videos de NES y otras muchas consolas.</p>
                         <p>Como nota curiosa, recuerdo perfectamente haber jugado Street Fighter en mi Famicom,  pero durante esta investigación aprendí que no fue lanzado ningún juego 1 vs. 1 de dicha saga para esta consola 🤔... Entonces, ¡¿qué fue lo que jugué?!</p>
                         <p>Pues, ahondando un poco más, descubrí que sí que existió una entrega de Street Fighter II: The World Warrior para la NES... Pero fue una versión NO oficial... ¡Pirata!, para ser más claros. Les dejaré el enlace al gameplay de este juego en la sección de referencias.</p>
                         <p className='centered-text'>
@@ -256,8 +256,8 @@ export default function Level2() {
                                 height={359}    
                             />
                         </p>
-                        <p>Y ahora recuerdo que bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas disfrutado bastante, ¡malandrín!</p>
-                        <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos ustedes, solo permítanme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
+                        <p>Y ahora recuerdo que bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas disfrutado mucho, ¡malandrín!</p>
+                        <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos, solo permíteme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level2/punch-out.gif"
