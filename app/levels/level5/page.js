@@ -23,7 +23,7 @@ export default function Level5() {
                                 height={563}    
                             />
                         </p>
-                        <p>Como no teníamos acceso a esa consola muy a menudo, mi hermano instaló en nuestra PC (creo que se le decía juego crackeado) la versión para PC de Need for Speed Underground 2... ¡Éste es otro de los videojuegos que me han volado la cabeza! ¡Qué videojuego tan espectacular! Tantas misiones, su perfecta jugabilidad y controles, el desbloqueo de mapas y autos, el nivel de personalización de los vehículos... Para mí es una obra de arte, el mejor juego de conducción que he jugado jamás.</p>
+                        <p>Como no teníamos acceso a esa consola muy a menudo, mi hermano instaló en nuestra computadora (creo que se le decía juego crackeado) la versión para PC de Need for Speed Underground 2... ¡Éste es otro de los videojuegos que me han volado la cabeza! ¡Qué videojuego tan espectacular! Tantas misiones, su perfecta jugabilidad y controles, el desbloqueo de mapas y autos, el nivel de personalización de los vehículos... Para mí es una obra de arte, el mejor juego de conducción que he jugado jamás.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level5/need_for_speed_underground_2.jpg"
@@ -76,7 +76,7 @@ export default function Level5() {
                         width={600}
                         height={379}
                     />
-                    <p>Por otra casualidad más, hace poco obtuve el contacto de ese amigo de mi hermano. Ya no sé si todas estas cosas son casualidades 🤔, o si estaba destinado a escribir este artículo, jejeje. De cualquier manera, aproveché de preguntarle acerca de aquella anécdota y efectivamente me corroboró que tenía el Super Smash, 2 juegos de Resident (0 y 1 Remake), pero no recuerda cuál de los Mario Party's tuvo. Así que ésta ha sido mi investigación menos fructífera: no sé cuál de los 2 Resident Evil jugué ni cuál entrega de Mario Party de GameCube 😩...</p>
+                    <p>Por otra casualidad más, hace poco obtuve el contacto de ese amigo de mi hermano. Ya no sé si todas estas cosas son casualidades 🤔, o si estaba destinado a escribir este artículo, jejeje. De cualquier manera, aproveché de preguntarle acerca de aquella anécdota y efectivamente me corroboró que tenía el Super Smash, 2 juegos de Resident (0 y 1 Remake), pero no recuerda cuál de los Mario Party's tuvo. Así que ésta ha sido mi investigación menos fructífera: no sé cuál de los 2 Resident Evil jugué ni cuál entrega de Mario Party de GameCube 😩... Pero, no importa, todos esos juegos los estoy jugando ahora y los jugaré en un futuro cercano, como ya te explicaré más adelante.</p>
                     <p>En Resumen, fue un periodo bastante flojo para mi experiencia gamer, y así continuaría por varios años, hasta que empezaron a mejorar algunas circunstancias...</p>
                 </article>
                 <Router 

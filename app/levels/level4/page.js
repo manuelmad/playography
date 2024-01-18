@@ -64,13 +64,13 @@ export default function Level4() {
                                 height={416}    
                             />
                         </p>
-                        <p>En una oportunidad, otro nuevo compañero de estudios me prestó su N64 con varios juegos, y pude probar algunos con mi hermano (quien tendría 10 años para el momento), como por ejemplo Mario Party, Mario Kart 64 y Pokémon Stadium.</p>
+                        <p>En una oportunidad, otro nuevo compañero de estudios me prestó su N64 con varios juegos, y pude probar algunos con mi hermano (quien tendría 10 años para el momento), como por ejemplo Mario Party 2, Mario Kart 64 y Pokémon Stadium.</p>
                         <p className='centered-text'>
                             <Image
-                                src="/imgs/level4/mario-party-1.jpg"
-                                alt="mario party img"
-                                width={638}
-                                height={358}    
+                                src="/imgs/level4/MP2_Mecha-Marathon.webp"
+                                alt="mario party 2 img"
+                                width={641}
+                                height={480}    
                             />
                         </p>
                         <p className='centered-text'>
