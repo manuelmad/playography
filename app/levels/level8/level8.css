@@ -93,6 +93,10 @@
 		top: -5.23rem;
 		left: calc(50% - 5rem);
 	}
+
+	.ps3-digital-games__container img {
+		width: 20rem;
+	}
 }
 
 @media (min-width: 1024px) {

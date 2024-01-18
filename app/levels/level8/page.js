@@ -27,8 +27,8 @@ export default function Level8() {
                         </p>
                         <p>También incluí algunos juegos que no pertenecen a sagas, así como juegos indies que me llamaron la atención.</p>
                         <p>Hace poco decidí también jugar algunos juegos retro específicos, solo por el placer de sentir la nostalgia y transportarme al momento en que los jugue de niño.</p>
-                        <p>Obviamente, como ustedes comprenderán porque seguro son iguales a mí, dicha lista crecía cada vez más, jejeje. Cualquier excusa era válida para agregar nuevas sagas al “proyecto”.</p>
-                        <p>Una vez que las listas estaban más o menos terminadas, era obvio que, como ya mencioné anteriormente, mi laptop y teléfono no serían suficientes para cumplirlas a cabalidad.</p>
+                        <p>Obviamente, como comprenderás porque seguro eres igual a mí, dicha lista solo crecía y crecía, jejeje. Cualquier excusa era válida para agregar nuevas sagas al "proyecto". Me divertí muchísimo con el solo hecho de investigar y crear estas listas.</p>
+                        <p>Una vez que estaban más o menos terminadas, era obvio que, como ya mencioné anteriormente, mi laptop y teléfono no serían suficientes para cumplirlas a cabalidad.</p>
                         <p className='broken-laptop__paragraph'>
                             <Image
                                 className="broken-laptop"
@@ -37,9 +37,9 @@ export default function Level8() {
                                 width={423}
                                 height={589}    
                             />
-                            Lo cual me recuerda, que un componente de mi laptop se quemó sospechosamente días después de emular GameCube con ella... ¿Por qué habrá sido?...
+                            Eso me recuerda que un componente de mi laptop se quemó sospechosamente días después de emular GameCube con ella... ¿Por qué habrá sido?...
                         </p>
-                        <p>Es entonces cuando decido solucionar eso comprando consolas, específicamente, necesitaba de la sexta generación en adelante, tomando en cuenta que ya contaba con una de las de séptima: mi PS3.</p>
+                        <p>Es entonces cuando decido, luego de reparar a la fiel guerrera, comprar consolas. Específicamente, necesitaba de la sexta generación en adelante, tomando en cuenta que ya contaba con una de las de séptima: mi PS3.</p>
                         <p className='money-wings__paragraph'>
                             <Image
                                 className="money-wings"
@@ -58,10 +58,10 @@ export default function Level8() {
                                 width={428}
                                 height={582}    
                             />
-                            Tuve que hacer una nueva investigación, esta vez acerca de las consolas en sí. En esta oportunidad aprendí que todas, absolutamente todas las consolas, pueden ser... “Modificadas” para que hagan cierta “magia”... ¡Vaya que esa información alivió mis planes! Era cuestión ahora de ver cuál o cuáles eran las más convenientes.
+                            Tuve que hacer una nueva investigación, esta vez acerca de las consolas en sí. En esta oportunidad aprendí que todas, absolutamente todas las consolas, pueden ser... "Modificadas" para que hagan cierta "magia"... ¡Vaya que esa información alivió mis planes! Era cuestión ahora de ver cuál o cuáles eran las más convenientes.
                         </p>
                         <p>No quería ni quiero "modificar" mi PS3, así que después de mucho análisis, decidí comprar:</p>
-                        <p className='first-console__paragraph'>En 2021, una Nintendo 3DS XL (<span className="bold-italic">octava generación de consolas</span>): La compré “modificada” a través del Marketplace de Facebook. Con ella puedo jugar todo su catálogo en digital, también la uso para emular los juegos de Nintendo DS y en ocasiones de Game Boy Advance. Todos los juegos están en una tarjeta microSD.</p>
+                        <p className='first-console__paragraph'>En 2021, una Nintendo 3DS XL (<span className="bold-italic">octava generación de consolas</span>): La compré "modificada" a través del Marketplace de Facebook. Con ella puedo jugar todo su catálogo en digital, también la uso para emular los juegos de Nintendo DS y en ocasiones de Game Boy Advance. Todos los juegos están en una tarjeta microSD.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level8/nintendo-3ds-xl-gris-noire.png"
@@ -80,7 +80,7 @@ export default function Level8() {
                                 height={400}    
                             />
                         </p>
-                        <p>En Julio de 2022, una PlayStation 2 (<span className="bold-italic">sexta generación de consolas</span>): También vino “modificada”. Además de jugar los juegos de PS2, aquí puedo emular los de PS1. Los juegos están guardados en 2 memorias USB (pendrives) que voy intercambiando dependiendo de donde tenga el juego que quiera jugar en el momento. Ésta también la compre usando MercadoLibre.</p>
+                        <p>En Julio de 2022, una PlayStation 2 (<span className="bold-italic">sexta generación de consolas</span>): También vino "modificada". Además de jugar los juegos de PS2, aquí puedo emular los de PS1. Los juegos están guardados en 2 memorias USB (pendrives) que voy intercambiando dependiendo de donde tenga el juego que quiera jugar en el momento. Ésta también la compre usando MercadoLibre.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level8/ps2-slim.png"
@@ -99,7 +99,7 @@ export default function Level8() {
                             />
                         </p>
                         <p>Con esta y la Wii U ya tengo cubierto todo lo que quiero jugar de Nintendo. Bueno, tengo la Switch, aún resta adquirir muchos de sus juegos... Ya saben, de nuevo, esto no es un pasatiempo barato.</p>
-                        <p>Antes y durante la adquisición de las consolas, fui comprando en digital y físico juegos originales de PS3. Mi plan original era comprarlos todos en digital, pero el disco duro de mi consola no dio abasto. Por cierto, encontré varias tiendas online que ofrecían estos juegos digitales a una fracción de su costo, así que aproveché esa oportunidad y aquí te muestro los que obtuve:</p>
+                        <p>Antes y durante la adquisición de las consolas, fui comprando en digital y físico juegos originales de PS3. Mi plan era comprarlos todos en digital, pero el disco duro de mi consola no dio abasto. Por cierto, encontré varias tiendas online que ofrecían estos juegos digitales a una fracción de su costo, así que aproveché esa oportunidad y aquí te muestro los que obtuve:</p>
                         <h3>Digitales</h3>
                         <p className='ps3-digital-games__container'>
                             <Image
@@ -145,6 +145,12 @@ export default function Level8() {
                                 height={768}
                             />
                             <Image
+                                src="/imgs/level8/red-dead-redemption-ps3.webp"
+                                alt="Mortal Kombat Vs DC Universe cover img"
+                                width={1007}
+                                height={1165}
+                            />
+                            <Image
                                 src="/imgs/level8/shadow-of-the-colossus.jpg"
                                 alt="shadow of the colossus cover img"
                                 width={534}
@@ -161,6 +167,12 @@ export default function Level8() {
                                 alt="sonic adventure 2 cover img"
                                 width={640}
                                 height={736}
+                            />
+                            <Image
+                                src="/imgs/level8/sonic-generations.jpg"
+                                alt="sonic generations cover img"
+                                width={391}
+                                height={452}
                             />
                             <Image
                                 src="/imgs/level8/sonic-the-hedgehog-4-episode-i.jpg"
