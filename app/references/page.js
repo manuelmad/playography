@@ -26,16 +26,16 @@ export default function References() {
                 <article className='reference-container'>
                     <h3 className='ref-h3'>Gameplay de Buzzword!:</h3>
                     <p>
-                        <Link href="https://www.youtube.com/watch?v=e8Jpbvb0uJ0" target="_blank">BUZZWORD!</Link>
+                        <Link href="https://www.youtube.com/watch?v=e8Jpbvb0uJ0" target="_blank">The VideoGames Museum</Link>
                     </p>
                 </article>
-                <article className='reference-container'>
+                <article>
                     <h3 className='ref-h3'>Video recopilatorio de juegos de NES:</h3>
                     <p>
                         <Link href="https://www.youtube.com/watch?v=uA-QyNcGiZ0" target="_blank">Jalop Entertainment</Link>
                     </p>
                 </article>
-                <article>
+                <article className='reference-container'>
                     <h3 className='ref-h3'>Videojuego pirata de Street Fighter II para NES:</h3>
                     <p>
                         <Link href="https://www.youtube.com/watch?v=3dGBMGI43GA" target="_blank">NintendoComplete</Link>
@@ -74,7 +74,7 @@ export default function References() {
                 <article className='reference-container'>
                     <h3 className='ref-h3'>Página web personal:</h3>
                     <p>
-                        <Link href="https://www.manuelmad.vercel.app/" target="_blank">Manuel Araujo</Link>
+                        <Link href="https://manuelmad.vercel.app/" target="_blank">Manuel Araujo</Link>
                     </p>
                 </article>
                 <article>
