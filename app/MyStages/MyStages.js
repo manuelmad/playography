@@ -18,7 +18,7 @@ export default function MyStages() {
                         <h2 className='h2-mystages'>MIS ETAPAS GAMER</h2>
                     </div>
                 </article>
-                <article className='level1-container'>
+                <article id='level1' className='level1-container'>
                     <div>
                         <h3>LEVEL 1: El despertar de una afición.</h3>
                         <p className="img-container press-start_container">
@@ -36,7 +36,7 @@ export default function MyStages() {
                         </p>				
                     </div>
                 </article>
-                <article className='level2-container'>
+                <article id='level2' className='level2-container'>
                     <div>
                         <h3>LEVEL 2: Crece el afecto.</h3>
                         <p className="img-container health-bar__container">
@@ -53,7 +53,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level3-container'>
+                <article id='level3' className='level3-container'>
                     <div>
                         <h3>LEVEL 3: Mi periodo en "las maquinitas".</h3>
                         <p className="img-container game-room__container">
@@ -70,7 +70,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level4-container'>
+                <article id='level4' className='level4-container'>
                     <div>
                         <h3>LEVEL 4: Un poco más de maquinitas y un gran golpe de suerte.</h3>
                         <p className="img-container lucky-gamer__container">
@@ -87,7 +87,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level5-container'>
+                <article id='level5' className='level5-container'>
                     <div>
                         <h3>LEVEL 5: Juego pausado.</h3>
                         <p className="img-container pause-container">
@@ -104,7 +104,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level6-container'>
+                <article id='level6' className='level6-container'>
                     <div>
                         <h3>LEVEL 6: Un tímido reinicio.</h3>
                         <p className="img-container never-quit">
@@ -121,7 +121,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level7-container'>
+                <article id='level7' className='level7-container'>
                     <div>
                         <h3>LEVEL 7: Algo bueno dentro de lo malo.</h3>
                         <p className="img-container controllers">
@@ -138,7 +138,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level8-container'>
+                <article id='level8' className='level8-container'>
                     <div>
                         <h3>LEVEL 8: Comienza la redención.</h3>
                         <p className="img-container gamer-on__container">
@@ -155,7 +155,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='level9-container'>
+                <article id='level9' className='level9-container'>
                     <div>
                         <h3>LEVEL 9: Poniéndome al día.</h3>
                         <p className="img-container gamer-forever">
@@ -173,7 +173,7 @@ export default function MyStages() {
                         </p>
                     </div>
                 </article>
-                <article className='finalthoughts-container'>
+                <article id='finalThoughts' className='finalthoughts-container'>
                     <div>
                         <h3>FINAL LEVEL: Pensamientos Finales.</h3>
                         <p className="img-container thinking-dk">

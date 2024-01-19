@@ -5,7 +5,7 @@ import './aboutme.css';
 export default function AboutMe() {
     return(
         <>
-            <section className="about-me">
+            <section id='aboutMe' className="about-me">
                 <article className="intro-container">
                     <div className="intro">
                         <Image

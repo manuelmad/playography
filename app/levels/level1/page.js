@@ -3,12 +3,14 @@ import Link from 'next/link';
 import './level1.css';
 
 import Router from '@/app/components/Router/Router';
+import Header from '@/app/components/Header/Header';
 import Footer from '@/app/components/Footer/Footer';
 
 
 export default function Level1() {
   return (
     <>
+    <Header/>
     <main>
         <section className='level1-section'>
             <h2 className='level1-h2'>LEVEL 1: El despertar de una afición.</h2>

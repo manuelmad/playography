@@ -44,16 +44,15 @@ html {
 main {
 	width: 100%;
 	font-size: var(--medium-font);
+	padding-top: 2rem;
 }
 
 section {
-	/* width: 30rem; */
 	width: 100%;
 	margin: 0 auto 0;
 }
 
 article {
-  	/* width: 100%; */
 	padding: 6rem 1rem;
 	width: 30rem;
 	margin: 0 auto;

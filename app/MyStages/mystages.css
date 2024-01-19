@@ -19,8 +19,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	width: 30rem;
-	/* background-color: var(--white); */
-	/* background-color: var(--black-blue); */
 	color: var(--white);
 	padding: 0.5rem;
 	border-radius: 1rem;
@@ -37,7 +35,6 @@
 	justify-content: center;
     margin-bottom: 0;
 	border-bottom: 0.3rem solid var(--dark-green);
-	/* background-color: var(--very-light-gray); */
 	background-color: var(--black-blue);
 	padding-top: 2rem;
 	padding-bottom: 1rem;
@@ -49,15 +46,7 @@
 
 .gamer-stages-h2__container {
 	padding: 0;
-	/* background-color: var(--very-light-gray); */
 }
-
-/* .gamer-stages-h2__container div {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	background-color: var(--very-light-gray);
-} */
 
 .img-container {
 	width: 27rem;
