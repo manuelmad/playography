@@ -17,18 +17,18 @@ export default function Header(props) {
         if(dropdown_menu.style.display == 'none') {
             dropdown_menu.style.display = 'block';
             menu_icon.style.color = '#66C4E3';
-            menu_icon.style.backgroundColor = '#232A33';
+            // menu_icon.style.backgroundColor = '#ffffff';
         } else if(dropdown_menu.style.display == 'block') {
             dropdown_menu.style.display = 'none';
             menu_icon.style.color = '#ffffff';
-            menu_icon.style.backgroundColor = '#2573da';
+            menu_icon.style.backgroundColor = '#1C3557';
         }
     }
 
     const onMenuItemClick = ()=> {
         dropdown_menu.style.display = 'none';
         menu_icon.style.color = '#ffffff';
-        menu_icon.style.backgroundColor = '#2573da';
+        menu_icon.style.backgroundColor = '#1C3557';
     }
 
     return(
@@ -49,31 +49,31 @@ export default function Header(props) {
                                 <Link href={props.link1} id="home">INICIO</Link>
                             </li>
                             <li className="list-item2">
-                                <Link href={props.link2}>LEVEL 1</Link>
+                                <Link href={props.link2}>LV-1</Link>
                             </li>
                             <li className="list-item3">
-                                <Link href={props.link3}>LEVEL 2</Link>
+                                <Link href={props.link3}>LV-2</Link>
                             </li>
                             <li className="list-item4">
-                                <Link href={props.link4}>LEVEL 3</Link>
+                                <Link href={props.link4}>LV-3</Link>
                             </li>
                             <li className="list-item5">
-                                <Link href={props.link5}>LEVEL 4</Link>
+                                <Link href={props.link5}>LV-4</Link>
                             </li>
                             <li className="list-item6">
-                                <Link href={props.link6}>LEVEL 5</Link>
+                                <Link href={props.link6}>LV-5</Link>
                             </li>
                             <li className="list-item7">
-                                <Link href={props.link7}>LEVEL 6</Link>
+                                <Link href={props.link7}>LV-6</Link>
                             </li>
                             <li className="list-item8">
-                                <Link href={props.link8}>LEVEL 7</Link>
+                                <Link href={props.link8}>LV-7</Link>
                             </li>
                             <li className="list-item9">
-                                <Link href={props.link9}>LEVEL 8</Link>
+                                <Link href={props.link9}>LV-8</Link>
                             </li>
                             <li className="list-item10">
-                                <Link href={props.link10}>LEVEL 9</Link>
+                                <Link href={props.link10}>LV-9</Link>
                             </li>
                             <li className="list-item11">
                                 <Link href={props.link11}>FINAL LEVEL</Link>
