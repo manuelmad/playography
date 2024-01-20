@@ -44,7 +44,7 @@ html {
 main {
 	width: 100%;
 	font-size: var(--medium-font);
-	padding-top: 2rem;
+	/* padding-top: 2rem; */
 }
 
 section {

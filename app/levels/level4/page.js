@@ -3,11 +3,26 @@ import Link from 'next/link';
 import './level4.css';
 
 import Router from '@/app/components/Router/Router';
+import Header from '@/app/components/Header/Header';
 import Footer from '@/app/components/Footer/Footer';
 
 export default function Level4() {
     return(
         <>
+        <Header
+            link1="/"
+            link2="/levels/level1"
+            link3="/levels/level2"
+            link4="/levels/level3"
+            link5="/levels/level4"
+            link6="/levels/level5"
+            link7="/levels/level6"
+            link8="/levels/level7"
+            link9="/levels/level8"
+            link10="/levels/level9"
+            link11="/finalThoughts"
+            link12="/references"
+        />
         <main>
             <section className='level4-section'>
                 <h2 className='level4-h2'>LEVEL 4: Un poco más de maquinitas y un gran golpe de suerte.</h2>

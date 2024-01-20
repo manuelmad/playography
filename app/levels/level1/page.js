@@ -10,7 +10,20 @@ import Footer from '@/app/components/Footer/Footer';
 export default function Level1() {
   return (
     <>
-    <Header/>
+    <Header
+        link1="/"
+        link2="/levels/level1"
+        link3="/levels/level2"
+        link4="/levels/level3"
+        link5="/levels/level4"
+        link6="/levels/level5"
+        link7="/levels/level6"
+        link8="/levels/level7"
+        link9="/levels/level8"
+        link10="/levels/level9"
+        link11="/finalThoughts"
+        link12="/references"
+    />
     <main>
         <section className='level1-section'>
             <h2 className='level1-h2'>LEVEL 1: El despertar de una afición.</h2>

@@ -5,7 +5,7 @@ import Link from 'next/link';
 import './header.css';
 import React from 'react';
 
-export default function Header() {
+export default function Header(props) {
     // Code for the menu icon to show/hide the dropdown menu
     React.useEffect(()=> {
          const dropdown_menu = document.getElementById('dropdown_menu');
@@ -25,6 +25,12 @@ export default function Header() {
         }
     }
 
+    const onMenuItemClick = ()=> {
+        dropdown_menu.style.display = 'none';
+        menu_icon.style.color = '#ffffff';
+        menu_icon.style.backgroundColor = '#2573da';
+    }
+
     return(
         <header>
              <section className="main-nav-bar" id="main_nav_bar">
@@ -40,25 +46,40 @@ export default function Header() {
                     <nav className="main-menu">
                         <ul>
                             <li className="list-item1">
-                                <Link href="#aboutMe" id="home">INICIO</Link>
+                                <Link href={props.link1} id="home">INICIO</Link>
                             </li>
                             <li className="list-item2">
-                                <Link href="#level1" id="trendy">LEVEL 1</Link>
+                                <Link href={props.link2}>LEVEL 1</Link>
                             </li>
                             <li className="list-item3">
-                                <Link href="#level2">LEVEL 2</Link>
+                                <Link href={props.link3}>LEVEL 2</Link>
                             </li>
                             <li className="list-item4">
-                                <Link href="#level3">LEVEL 3</Link>
+                                <Link href={props.link4}>LEVEL 3</Link>
                             </li>
                             <li className="list-item5">
-                                <Link href="#level4">LEVEL 4</Link>
+                                <Link href={props.link5}>LEVEL 4</Link>
                             </li>
                             <li className="list-item6">
-                                <Link href="#level5">LEVEL 5</Link>
+                                <Link href={props.link6}>LEVEL 5</Link>
                             </li>
                             <li className="list-item7">
-                                <Link href="#level6">LEVEL 6</Link>
+                                <Link href={props.link7}>LEVEL 6</Link>
+                            </li>
+                            <li className="list-item8">
+                                <Link href={props.link8}>LEVEL 7</Link>
+                            </li>
+                            <li className="list-item9">
+                                <Link href={props.link9}>LEVEL 8</Link>
+                            </li>
+                            <li className="list-item10">
+                                <Link href={props.link10}>LEVEL 9</Link>
+                            </li>
+                            <li className="list-item11">
+                                <Link href={props.link11}>FINAL LEVEL</Link>
+                            </li>
+                            <li className="list-item12">
+                                <Link href={props.link12}>REFERENCIAS</Link>
                             </li>
                         </ul>
                     </nav>
@@ -71,40 +92,40 @@ export default function Header() {
                         <nav id="dropdown_menu" className="dropdown-menu">
                             <ul id="dropdown-list">
                                 <li>
-                                    <Link href="#aboutMe" id="home2">INICIO</Link>
+                                    <Link href={props.link1} id="home2" onClick={onMenuItemClick}>INICIO</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level1">LEVEL 1</Link>
+                                    <Link href={props.link2} onClick={onMenuItemClick}>LEVEL 1</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level2">LEVEL 2</Link>
+                                    <Link href={props.link3} onClick={onMenuItemClick}>LEVEL 2</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level3">LEVEL 3</Link>
+                                    <Link href={props.link4} onClick={onMenuItemClick}>LEVEL 3</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level4">LEVEL 4</Link>
+                                    <Link href={props.link5} onClick={onMenuItemClick}>LEVEL 4</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level5">LEVEL 5</Link>
+                                    <Link href={props.link6} onClick={onMenuItemClick}>LEVEL 5</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level6">LEVEL 6</Link>
+                                    <Link href={props.link7} onClick={onMenuItemClick}>LEVEL 6</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level7">LEVEL 7</Link>
+                                    <Link href={props.link8} onClick={onMenuItemClick}>LEVEL 7</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level8">LEVEL 8</Link>
+                                    <Link href={props.link9} onClick={onMenuItemClick}>LEVEL 8</Link>
                                 </li>
                                 <li>
-                                    <Link href="#level9">LEVEL 9</Link>
+                                    <Link href={props.link10} onClick={onMenuItemClick}>LEVEL 9</Link>
                                 </li>
                                 <li>
-                                    <Link href="#finalThoughts">FINAL LEVEL</Link>
+                                    <Link href={props.link11} onClick={onMenuItemClick}>FINAL LEVEL</Link>
                                 </li>
                                 <li>
-                                    <Link href="/references">REFERENCIAS</Link>
+                                    <Link href={props.link12} onClick={onMenuItemClick}>REFERENCIAS</Link>
                                 </li>
                             </ul>
                         </nav>

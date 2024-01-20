@@ -3,11 +3,26 @@ import Link from 'next/link';
 import './references.css';
 
 import Router from '../components/Router/Router';
+import Header from '../components/Header/Header';
 import Footer from '../components/Footer/Footer';
 
 export default function References() {
     return(
         <>
+        <Header
+            link1="/"
+            link2="/levels/level1"
+            link3="/levels/level2"
+            link4="/levels/level3"
+            link5="/levels/level4"
+            link6="/levels/level5"
+            link7="/levels/level6"
+            link8="/levels/level7"
+            link9="/levels/level8"
+            link10="/levels/level9"
+            link11="/finalThoughts"
+            link12="/references"
+        />
         <main>
             <section className='references-section'>
                 <h2 className='references-h2'>REFERENCIAS</h2>

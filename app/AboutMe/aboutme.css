@@ -8,6 +8,7 @@
 .about-me {
 	background-color: var(--black-blue);
 	color: var(--very-light-gray);
+	padding-top: 2rem;
 	/* background-image: radial-gradient(circle, #f2f2f2, #d8d8f2, #b8c0f3, #8eaaf4, #4e96f5); */
 }
 

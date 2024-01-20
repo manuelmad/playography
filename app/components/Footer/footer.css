@@ -103,7 +103,7 @@ footer section {
     position: absolute;
     border-right: 3px solid var(--celeste);
     /* transition: 400ms ease; */
-    z-index: 100000;
+    z-index: 2;
 }
 
 #footer-list {
