@@ -6,20 +6,11 @@ import './level9.css';
 
 import Router from '@/app/components/Router/Router';
 
-import { useState } from 'react';
 import Header from '@/app/components/Header/Header';
 import Footer from '@/app/components/Footer/Footer';
-export let currentSagaId;
 
 export default function Level9() {
 
-    const [game, setGame] = useState(0);
-
-    const changeGame = (name)=> {
-        currentSagaId = name;
-        setGame(name);
-        console.log(currentSagaId);
-    }
     return(
         <>
         <Header
@@ -61,31 +52,31 @@ export default function Level9() {
                             height={1002}    
                         />
                         <ul>
-                            <li>Crash.</li>
-                            <li>Dark Souls.</li>
-                            <li>Devil May Cry.</li>
-                            <li>Donkey Kong.</li>
-                            <li>Ghost 'n Goblins.</li>
-                            <li>God of War.</li>
-                            <li>Kirby.</li>
-                            <li>Mega Man.</li>
-                            <li>Metal Slug.</li>
-                            <li>Monkey Island.</li>
-                            <li>Monster Hunter.</li>
-                            <li>Mortal Kombat.</li>
-                            <li>Ninja Gaiden.</li>
-                            <li>Pokémon.</li>
-                            <li><Link onClick={()=>changeGame("PO")} href="/levels/level9/table">Punch Out.</Link></li>
-                            <li>Resident Evil.</li>
-                            <li>Silent Hill.</li>
-                            <li>Simpsons.</li>
-                            <li>Sonic.</li>
-                            <li>Street Fighter.</li>
-                            <li>Super Mario Bros.</li>
-                            <li>The Legend of Zelda.</li>
-                            <li>Uncharted.</li>
-                            <li>Wario.</li>
-                            <li>Yoshi.</li>
+                            <li><Link scroll={false} href="/levels/level9/table#crash">Crash</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#darksouls">Dark Souls</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#devilmaycry">Devil May Cry</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#donkeykong">Donkey Kong</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#ghostngoblins">Ghost 'n Goblins</Link></li>
+                            <li>God of War</li>
+                            <li>Kirby</li>
+                            <li>Mega Man</li>
+                            <li>Metal Slug</li>
+                            <li>Monkey Island</li>
+                            <li>Monster Hunter</li>
+                            <li>Mortal Kombat</li>
+                            <li>Ninja Gaiden</li>
+                            <li>Pokémon</li>
+                            <li>Punch Out</li>
+                            <li>Resident Evil</li>
+                            <li><Link scroll={false} href="/levels/level9/table#silenthill">Silent Hill</Link></li>
+                            <li>Simpsons</li>
+                            <li>Sonic</li>
+                            <li>Street Fighter</li>
+                            <li>Super Mario Bros</li>
+                            <li>The Legend of Zelda</li>
+                            <li>Uncharted</li>
+                            <li>Wario</li>
+                            <li>Yoshi</li>
                             <li>Yu-Gi-Oh!</li>
                         </ul>
                     </div>

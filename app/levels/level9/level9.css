@@ -56,6 +56,7 @@
 	/* border: 0.4rem solid var(--black); */
 	/* background-color: var(--black); */
 	overflow: hidden;
+	line-height: 3rem;
 }
 
 ul li {
@@ -82,6 +83,10 @@ ul li {
 	z-index: -1;
 	/* opacity: 0.8; */
 	border-radius: 0.5rem;
+}
+
+.first-list a {
+	color: var(--white);
 }
 
 .second-list {
