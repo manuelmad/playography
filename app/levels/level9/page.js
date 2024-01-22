@@ -51,24 +51,24 @@ export default function Level9() {
                             width={564}
                             height={1002}    
                         />
-                        <ul>
+                        <ul id='sagasList'>
                             <li><Link scroll={false} href="/levels/level9/table#crash">Crash</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#darksouls">Dark Souls</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#devilmaycry">Devil May Cry</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#donkeykong">Donkey Kong</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#ghostngoblins">Ghost 'n Goblins</Link></li>
-                            <li>God of War</li>
-                            <li>Kirby</li>
-                            <li>Mega Man</li>
-                            <li>Metal Slug</li>
-                            <li>Monkey Island</li>
-                            <li>Monster Hunter</li>
-                            <li>Mortal Kombat</li>
-                            <li>Ninja Gaiden</li>
+                            <li><Link scroll={false} href="/levels/level9/table#dark-souls">Dark Souls</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#devil-may-cry">Devil May Cry</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#donkey-kong">Donkey Kong</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#ghost-n-goblins">Ghost 'n Goblins</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#god-of-war">God of War</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#kirby">Kirby</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#mega-man">Mega Man</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#metal-slug">Metal Slug</Link></li>
+                            {/* <li>Monkey Island</li> */}
+                            <li><Link scroll={false} href="/levels/level9/table#monster-hunter">Monster Hunter</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#mortal-kombat">Mortal Kombat</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#ninja-gaiden">Ninja Gaiden</Link></li>
                             <li>Pokémon</li>
                             <li>Punch Out</li>
                             <li>Resident Evil</li>
-                            <li><Link scroll={false} href="/levels/level9/table#silenthill">Silent Hill</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#silent-hill">Silent Hill</Link></li>
                             <li>Simpsons</li>
                             <li>Sonic</li>
                             <li>Street Fighter</li>

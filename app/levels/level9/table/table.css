@@ -37,26 +37,37 @@ tr td, tr th {
     margin-bottom: 12rem;
 }
 
-#ghostngoblins table tbody tr:first-child,
-#ghostngoblins table tbody tr:nth-child(2),
-#ghostngoblins table tbody tr:nth-child(3),
-#ghostngoblins table tbody tr:nth-child(4),
-#ghostngoblins table tbody tr:nth-child(5),
-#ghostngoblins table tbody tr:nth-child(6),
-#ghostngoblins table tbody tr:nth-child(7) {
+/* #ghost-n-goblins table tbody tr:first-child,
+#ghost-n-goblins table tbody tr:nth-child(2),
+#ghost-n-goblins table tbody tr:nth-child(3),
+#ghost-n-goblins table tbody tr:nth-child(4),
+#ghost-n-goblins table tbody tr:nth-child(5),
+#ghost-n-goblins table tbody tr:nth-child(6),
+#ghost-n-goblins table tbody tr:nth-child(7) {
     background-color: #cacaca;
+} */
+
+#ghost-n-goblins table tbody tr:nth-child(7),
+#ghost-n-goblins table tbody tr:nth-child(10),
+#mega-man table tbody tr:nth-child(27),
+#mega-man table tbody tr:nth-child(39),
+#mega-man table tbody tr:nth-child(43),
+#mega-man table tbody tr:nth-child(45),
+#mega-man table tbody tr:nth-child(48),
+#mega-man table tbody tr:nth-child(60) {
+	border-bottom: 0.3rem solid var(--black);
 }
 
-#ghostngoblins table tbody tr:nth-child(8),
-#ghostngoblins table tbody tr:nth-child(9),
-#ghostngoblins table tbody tr:nth-child(10) {
+/* #ghost-n-goblins table tbody tr:nth-child(8),
+#ghost-n-goblins table tbody tr:nth-child(9),
+#ghost-n-goblins table tbody tr:nth-child(10) {
     background-color: #e8c2bd;
 }
 
-#ghostngoblins table tbody tr:nth-child(11),
-#ghostngoblins table tbody tr:nth-child(12) {
+#ghost-n-goblins table tbody tr:nth-child(11),
+#ghost-n-goblins table tbody tr:nth-child(12) {
     background-color: #aec2dd;
-}
+} */
 
 @media (min-width: 700px) {
 

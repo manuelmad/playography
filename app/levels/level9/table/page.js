@@ -19,14 +19,14 @@ export default function table() {
 
         allSagas.forEach(saga=> {
             const div = document.createElement('div');
-            div.setAttribute('id', (saga.id).toLowerCase().split(" ").join(""));
+            div.setAttribute('id', (saga.slug));
 
             const table = document.createElement('table');
 
             const thead = document.createElement('thead');
             const theadTitle = document.createElement('tr');
             const theadTitleRow = document.createElement('th');
-            theadTitleRow.innerText = saga.id;
+            theadTitleRow.innerText = saga.name;
             theadTitleRow.setAttribute('colSpan', 4);
             theadTitle.appendChild(theadTitleRow);
             thead.appendChild(theadTitle);
