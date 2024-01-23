@@ -76,13 +76,14 @@ export default function Level9() {
                             <li><Link scroll={false} href="/levels/level9/table#zelda">The Legend of Zelda</Link></li>
                             <li><Link scroll={false} href="/levels/level9/table#uncharted">Uncharted</Link></li>
                             <li><Link scroll={false} href="/levels/level9/table#wario">Wario</Link></li>
-                            <li>Yoshi</li>
-                            <li>Yu-Gi-Oh!</li>
+                            <li><Link scroll={false} href="/levels/level9/table#yoshi">Yoshi</Link></li>
+                            <li><Link scroll={false} href="/levels/level9/table#yugioh">Yu-Gi-Oh!</Link></li>
                         </ul>
                     </div>
                     <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de la saga principal de Pokémon (porque sí jugué al Pokémon Stadium y un poco al Pokémon GO). Por cierto, en este particular de los Pocket Monsters, probé sus primeros juegos de Game Boy, pero no me agradaron mucho y preferí jugar los remakes que se lanzaron en posteriores consolas.</p>
                     <p>De aquellas sagas que sí jugué, voy decidiendo según me apetezca si rejugaré o no el(los) juego(s) que ya había probado hace años.</p>
                     <p>En algunas sagas podrás notar que incluí juegos que, si bien no pertenecen directamente a ella, están relacionados de alguna forma con la misma.</p>
+                    <p>La saga de Yu-Gi-Oh! es tan, pero tan extensa, que decidí hacer la lista de los primeros juegos, desde 1998 hasta el 2006, y así decidir si vale la pena continuar avanzando con ella.</p>
                     <p className='write-paragraph'>
                         <Image
                             className="write"

@@ -77,12 +77,42 @@ export default function table() {
             div.appendChild(table);
             tables_container.appendChild(div);
         });
+
+        const total_sagas = document.getElementById('total_sagas');
+        total_sagas.innerText = '';
+        total_sagas.innerText = `${allSagas.length}`;
+
+        let totalGames = 0;
+        let playedGames = 0;
+        allSagas.forEach(saga => {
+            const game = saga.games.length;
+            totalGames = totalGames + game;
+
+            saga.games.forEach(game => {
+                if(game.PLAYED == "true") {
+                    playedGames = playedGames+1;
+                }
+            });
+        });
+
+        const total_games = document.getElementById('total_games');
+        total_games.innerText = '';
+        total_games.innerText = `${totalGames}`;
+
+        const total_played = document.getElementById('total_played');
+        total_played.innerText = '';
+        total_played.innerText = `${playedGames}`;
+
+        const total_toplay = document.getElementById('total_toplay');
+        total_toplay.innerText = '';
+        total_toplay.innerText = `${totalGames - playedGames}`;
+
     },[]);
 
     return(
         <main>
             <section className='table-section'>
-            <h2 className='table-h2'>TODAS LAS SAGAS.</h2>
+            <h2 className='table-h2'>TODAS LAS SAGAS</h2>
                 <article id='tables_container' className='first-article'>
                     {/* <table>
                         <thead>
@@ -97,6 +127,12 @@ export default function table() {
 
                         </tbody>
                     </table> */}
+                </article>
+                <article>
+                    <p>Número total de sagas: <span id='total_sagas'></span>.</p>
+                    <p>Número total de videojuegos: <span id='total_games'></span>.</p>
+                    <p>Número de videojuegos jugados: <span id='total_played'></span>.</p>
+                    <p>Número de videojuegos pendientes: <span id='total_toplay'></span>.</p>
                 </article>
             </section>
         </main>

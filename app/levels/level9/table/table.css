@@ -54,7 +54,8 @@ tr td, tr th {
 #mega-man table tbody tr:nth-child(43),
 #mega-man table tbody tr:nth-child(45),
 #mega-man table tbody tr:nth-child(48),
-#mega-man table tbody tr:nth-child(60) {
+#mega-man table tbody tr:nth-child(60),
+#pokemon table tbody tr:nth-child(26) {
 	border-bottom: 0.3rem solid var(--black);
 }
 

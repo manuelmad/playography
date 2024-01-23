@@ -2434,12 +2434,6 @@ const superMario = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Mario World 2: Yoshi's Island",
-            "SYSTEM": "SNES",
-            "YEAR": 1995,
-            "PLAYED": "true"
-        },
-        {
             "GAME": "Super Mario RPG: Legend of the Seven Stars",
             "SYSTEM": "SNES",
             "YEAR": 1996,
@@ -3267,6 +3261,188 @@ const wario = {
     ]
 }
 
+const yoshi = {
+    name: "Yoshi",
+    slug: "yoshi",
+    games: [
+        {
+            "GAME": "Yoshi",
+            "SYSTEM": "NES",
+            "YEAR": 1991,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's Cookie",
+            "SYSTEM": "NES",
+            "YEAR": 1992,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario World 2: Yoshi's Island",
+            "SYSTEM": "SNES",
+            "YEAR": 1995,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's Story",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1997,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's Universal Gravitation",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi Touch & Go",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's Island DS",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2006,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's New Island",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2014,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yoshi's Woolly World",
+            "SYSTEM": "Wii U",
+            "YEAR": 2015,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Poochy & Yoshi's Woolly World",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yoshi's Crafted World",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2019,
+            "PLAYED": "false"
+        }
+    ]
+}
+
+const yuGiOh = {
+    name: "Yu-Gi-Oh!",
+    slug: "yugioh",
+    games: [
+        {
+            "GAME": "Yu-Gi-Oh! Duel Monsters",
+            "SYSTEM": "GAMEBOY",
+            "YEAR": 1998,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 1999,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Monster Capsule GB",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Duelo en las Tinieblas",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Duel Monsters 4 Battle of Great Duelist",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! The Eternal Duelist Soul",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2001,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Dungeon Dice Monsters",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2001,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Las Cartas Sagradas",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2002,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! El Salto del Reino Animal",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2002,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Reshef el Destructor",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! World Championship Tournament 2004",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Destiny Board Traveler",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! El Día del Duelo: World Championship Tournament 2005",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! GX Duel Academy",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2005,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Nightmare Troubadour",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2005,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yu-Gi-Oh! Ultimate Masters: World Championship Tournament 2006",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2006,
+            "PLAYED": "false"
+        }
+    ]
+}
+
 export const allSagas = [
     crash,
     darkSouls,
@@ -3290,5 +3466,7 @@ export const allSagas = [
     superMario,
     theLegendOfZelda,
     uncharted,
-    wario
+    wario,
+    yoshi,
+    yuGiOh
 ];
