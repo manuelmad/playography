@@ -2176,6 +2176,1097 @@ const sonic = {
     ]
 }
 
+const streetFighter = {
+    name: "Street Fighter",
+    slug: "street-fighter",
+    games: [
+        {
+            "GAME": "Street Fighter",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1987,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter II: The World Warrior",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1991,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter II: Champion Edition",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1992,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter II: Turbo Hyper Fighting",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1992,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Street Fighter II: The New Challengers",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1993,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Street Fighter II Turbo",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1994,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter Alpha: Warriors' Dreams",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1995,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter Alpha 2",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1996,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter III: New Generation",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1997,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter III Second Impact: Giant Attack",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1997,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter Alpha 3",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1998,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter III 3rd Strike: Fight For The future",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1999,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Ultra Street Fighter IV",
+            "SYSTEM": "ARCADE",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter V: Champion Edition",
+            "SYSTEM": "PS4 / PC",
+            "YEAR": 2020,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Street Fighter VI",
+            "SYSTEM": "PS5",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        }
+    ]
+}
+
+const superMario = {
+    name: "Super Mario",
+    slug: "super-mario",
+    games: [
+        {
+            "GAME": "Mario Bros.",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1983,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Bros. Special",
+            "SYSTEM": "NEC PC-8801 / Sharp X1",
+            "YEAR": 1984,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Punch Ball Mario Bros.",
+            "SYSTEM": "NEC PC-8801",
+            "YEAR": 1984,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Bros.",
+            "SYSTEM": "NES",
+            "YEAR": 1985,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wrecking Crew",
+            "SYSTEM": "NES",
+            "YEAR": 1985,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "VS. Super Mario Bros.",
+            "SYSTEM": "ARCADE",
+            "YEAR": 1986,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Bros.: The Lost Levels:",
+            "SYSTEM": "NES",
+            "YEAR": 1986,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Bros. Special",
+            "SYSTEM": "NEC PC-8801 / Sharp X1",
+            "YEAR": 1986,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Yume Kōjō: Doki Doki Panic",
+            "SYSTEM": "Family Computer Disk System",
+            "YEAR": 1987,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Famicom Grand Prix: F-1 Race",
+            "SYSTEM": "Family Computer Disk System",
+            "YEAR": 1987,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Famicom Grand Prix 2: 3D Hot Rally",
+            "SYSTEM": "Family Computer Disk System",
+            "YEAR": 1988,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Kaettekita Mario Bros.",
+            "SYSTEM": "Family Computer Disk System",
+            "YEAR": 1988,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Bros. 2:",
+            "SYSTEM": "NES",
+            "YEAR": 1988,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Bros. 3:",
+            "SYSTEM": "NES",
+            "YEAR": 1988,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Land",
+            "SYSTEM": "GAMEBOY",
+            "YEAR": 1989,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Dr. Mario",
+            "SYSTEM": "NES",
+            "YEAR": 1990,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario World",
+            "SYSTEM": "SNES",
+            "YEAR": 1990,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Kart",
+            "SYSTEM": "SNES",
+            "YEAR": 1992,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Land 2: 6 Golden Coins",
+            "SYSTEM": "GAMEBOY",
+            "YEAR": 1992,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario & Wario",
+            "SYSTEM": "SNES (Sólo Japón)",
+            "YEAR": 1993,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario All-Stars",
+            "SYSTEM": "SNES",
+            "YEAR": 1993,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Tetris & Dr. Mario",
+            "SYSTEM": "SNES",
+            "YEAR": 1994,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario Land: Super Mario Land 3",
+            "SYSTEM": "GAMEBOY",
+            "YEAR": 1994,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Hotel Mario",
+            "SYSTEM": "Philips CD-i",
+            "YEAR": 1994,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Clash",
+            "SYSTEM": "VIRTUAL BOY",
+            "YEAR": 1995,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario's Tennis",
+            "SYSTEM": "VIRTUAL BOY",
+            "YEAR": 1995,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario World 2: Yoshi's Island",
+            "SYSTEM": "SNES",
+            "YEAR": 1995,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario RPG: Legend of the Seven Stars",
+            "SYSTEM": "SNES",
+            "YEAR": 1996,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario 64",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1996,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart 64",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1996,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "BS Super Mario USA",
+            "SYSTEM": "SNES (Satellaview)",
+            "YEAR": 1996,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Excitebike: Bun Bun Mario Battle Stadium",
+            "SYSTEM": "SNES (Satellaview)",
+            "YEAR": 1997,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wrecking Crew '98",
+            "SYSTEM": "SNES (Sólo Japón)",
+            "YEAR": 1998,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1998,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 2",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1999,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Smash Bros.",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 1999,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 3",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Paper Mario",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Dr. Mario 64",
+            "SYSTEM": "Nintendo 64",
+            "YEAR": 2001,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart: Super Circuit",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2001,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Luigi's Mansion",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2001,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Sunshine",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2002,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 4",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2002,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 5",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart: Double Dash!!",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario & Luigi: Superstar Saga",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario vs. Donkey Kong",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Paper Mario: The Thousand-Year Door",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario 64 DS",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 6",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party Advance",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Princess Peach",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 7",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2005,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart Arcade GP",
+            "SYSTEM": "ARCADE",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart DS",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario & Luigi: Partners in Time",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2005,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "New Super Mario Bros.",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2006,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario vs. Donkey Kong 2: March of the Minis",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2006,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Hoops 3-on-3",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2006,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart Arcade GP 2",
+            "SYSTEM": "ARCADE",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Paper Mario",
+            "SYSTEM": "Wii",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party 8",
+            "SYSTEM": "Wii",
+            "YEAR": 2007,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Galaxy",
+            "SYSTEM": "Wii",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Party DS",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart Wii",
+            "SYSTEM": "Wii",
+            "YEAR": 2008,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario & Luigi: Bowser's Inside Story",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2009,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario vs. Donkey Kong: Minis March Again",
+            "SYSTEM": "NINTENDO DSi Ware",
+            "YEAR": 2009,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "New Super Mario Bros. Wii",
+            "SYSTEM": "Wii",
+            "YEAR": 2009,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario Galaxy 2",
+            "SYSTEM": "Wii",
+            "YEAR": 2010,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2010,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Super Mario 3D Land",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2011,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart 7",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2011,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Party 9",
+            "SYSTEM": "Wii",
+            "YEAR": 2012,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "New Super Mario Bros. 2",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2012,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "New Super Mario Bros. U",
+            "SYSTEM": "Wii U",
+            "YEAR": 2012,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Paper Mario: Sticker Star",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2012,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario Kart Arcade GP DX",
+            "SYSTEM": "ARCADE",
+            "YEAR": 2013,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Luigi's Mansion: Dark Moon",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2013,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario and Donkey Kong: Minis on the Move",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2013,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario & Luigi: Dream Team Bros.",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "New Super Luigi U",
+            "SYSTEM": "Wii U",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario 3D World",
+            "SYSTEM": "Wii U",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Party: Island Tour",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart 8",
+            "SYSTEM": "Wii U",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Captain Toad: Treasure Tracker",
+            "SYSTEM": "Wii U",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Party 10",
+            "SYSTEM": "Wii U",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Maker",
+            "SYSTEM": "Wii U",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario vs. Donkey Kong: Tipping Stars",
+            "SYSTEM": "NINTENDO 3DS / Wii U",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario & Luigi: Paper Jam",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mini Mario & Friends: Amiibo Challenge",
+            "SYSTEM": "NINTENDO 3DS / Wii U",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Party: Star Rush",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Paper Mario: Color Splash",
+            "SYSTEM": "Wii U",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Run",
+            "SYSTEM": "iOS / Android",
+            "YEAR": 2016,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Mario + Rabbids Kingdom Battle",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario & Luigi: Superstar Saga + Bowser's Minions",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Odyssey",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Party",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2018,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Maker 2",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2019,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Luigi's Mansion 3",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2019,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart Tour",
+            "SYSTEM": "iOS / Android",
+            "YEAR": 2019,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Paper Mario: The Origami King",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2020,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart Live: Home Circuit",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2020,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario 3D World + Bowser's Fury",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2021,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Party Superstars",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2021,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario + Rabbids: Sparks of Hope",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2022,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Bros. Wonder",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        }
+    ]
+}
+
+const theLegendOfZelda = {
+    name: "The Legend of Zelda",
+    slug: "zelda",
+    games: [
+        {
+            "GAME": "The Legend of Zelda",
+            "SYSTEM": "FAMICOM DISK SYSTEM / NES",
+            "YEAR": 1986,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Zelda II: The Adventure of Link",
+            "SYSTEM": "FAMICOM DISK SYSTEM / NES",
+            "YEAR": 1987,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: A Link to the Past",
+            "SYSTEM": "SNES",
+            "YEAR": 1991,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Link's Awakening",
+            "SYSTEM": "GAMEBOY / GAMEBOY COLOR",
+            "YEAR": 1993,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Link: The Faces of Evil",
+            "SYSTEM": "Philips CD-i",
+            "YEAR": 1993,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Zelda: The Wand of Gamelon",
+            "SYSTEM": "Philips CD-i",
+            "YEAR": 1993,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Zelda's Adventure",
+            "SYSTEM": "Philips CD-i",
+            "YEAR": 1994,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "BS The Legend of Zelda: Ancient Stone Tablets",
+            "SYSTEM": "SNES (Satellaview)",
+            "YEAR": 1997,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Ocarina of Time",
+            "SYSTEM": "NINTENDO 64",
+            "YEAR": 1998,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Majora's Mask",
+            "SYSTEM": "NINTENDO 64",
+            "YEAR": 2000,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Oracle of Seasons",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2001,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Oracle of Ages",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2001,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: The Wind Waker",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2002,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Four Swords",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Four Swords Adventures",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2004,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: The Minish Cap",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Twilight Princess",
+            "SYSTEM": "GAMECUBE / Wii",
+            "YEAR": 2006,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Link's Crossbow Training",
+            "SYSTEM": "Wii",
+            "YEAR": 2007,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Phantom Hourglass",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2007,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Spirit Tracks",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2009,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Skyward Sword",
+            "SYSTEM": "Wii",
+            "YEAR": 2011,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: A Link Between Worlds",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Hyrule Warriors",
+            "SYSTEM": "Wii U",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Tri Force Heroes",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Breath of the Wild",
+            "SYSTEM": "Wii U",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Cadence of Hyrule Crypt of the Necrodancer",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2019,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Hyrule Warriors: Age of Calamity",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2020,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Tears of the Kingdom",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        }
+    ]
+}
+
+const uncharted = {
+    name: "Uncharted",
+    slug: "uncharted",
+    games: [
+        {
+            "GAME": "Uncharted: El tesoro de Drake",
+            "SYSTEM": "PS3",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Uncharted 2: El reino de los ladrones",
+            "SYSTEM": "PS3",
+            "YEAR": 2009,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted 3: La traición de Drake",
+            "SYSTEM": "PS3",
+            "YEAR": 2011,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted: El abismo de oro",
+            "SYSTEM": "PS VITA",
+            "YEAR": 2011,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted: The Nathan Drake Collection",
+            "SYSTEM": "PS4",
+            "YEAR": 2015,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted 4: El desenlace del ladrón",
+            "SYSTEM": "PS4",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted: El legado perdido",
+            "SYSTEM": "PS4",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Uncharted: Legacy of Thieves Collection",
+            "SYSTEM": "PS5 / PC",
+            "YEAR": 2022,
+            "PLAYED": "false"
+        }
+    ]
+}
+
+const wario = {
+    name: "Wario",
+    slug: "wario",
+    games: [
+        {
+            "GAME": "Wario Blast: Featuring Bomberman!",
+            "SYSTEM": "GAMEBOY",
+            "YEAR": 1994,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario's Woods",
+            "SYSTEM": "NES",
+            "YEAR": 1994,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Virtual Boy Wario Land",
+            "SYSTEM": "VITUAL BOY",
+            "YEAR": 1995,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario Land 2",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 1999,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario Land 3",
+            "SYSTEM": "GAMEBOY COLOR",
+            "YEAR": 2000,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario Land 4",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2001,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario World",
+            "SYSTEM": "GAMECUBE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare, Inc.: Minigame Mania",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2003,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare: Twisted!",
+            "SYSTEM": "GAMEBOY ADVANCE",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare: Touched!",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2004,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare: Smooth Moves",
+            "SYSTEM": "Wii",
+            "YEAR": 2006,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Wario Land: Master of Disguise",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2007,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare: Snapped!",
+            "SYSTEM": "NINTENDO DSi",
+            "YEAR": 2007,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Wario Land: The Shake Dimension",
+            "SYSTEM": "Wii",
+            "YEAR": 2008,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "WarioWare: D.I.Y.",
+            "SYSTEM": "NINTENDO DS",
+            "YEAR": 2009,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Game & Wario",
+            "SYSTEM": "Wii U",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "WarioWare Gold",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2018,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "WarioWare: Get It Together!",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2021,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "WarioWare: Move it!",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        }
+    ]
+}
+
 export const allSagas = [
     crash,
     darkSouls,
@@ -2194,5 +3285,10 @@ export const allSagas = [
     residentEvil,
     silentHill,
     simpsons,
-    sonic
+    sonic,
+    streetFighter,
+    superMario,
+    theLegendOfZelda,
+    uncharted,
+    wario
 ];
