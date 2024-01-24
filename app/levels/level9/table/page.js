@@ -112,6 +112,15 @@ export default function table() {
     return(
         <main>
             <section className='table-section'>
+                <div className='arrow-back__container'>
+                    <p>
+                        <Link href="/levels/level9">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-arrow-left" viewBox="0 0 16 16">
+                                <path fillRule="evenodd" d="M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8"/>
+                            </svg> Volver al Level 9
+                        </Link>
+                    </p>
+                </div>
             <h2 className='table-h2'>TODAS LAS SAGAS</h2>
                 <article id='tables_container' className='first-article'>
                     {/* <table>
@@ -128,11 +137,13 @@ export default function table() {
                         </tbody>
                     </table> */}
                 </article>
-                <article>
-                    <p>Número total de sagas: <span id='total_sagas'></span>.</p>
-                    <p>Número total de videojuegos: <span id='total_games'></span>.</p>
-                    <p>Número de videojuegos jugados: <span id='total_played'></span>.</p>
-                    <p>Número de videojuegos pendientes: <span id='total_toplay'></span>.</p>
+                <article className='statistics-container'>
+                    <div>
+                        <p>Número total de sagas: <span id='total_sagas'></span>.</p>
+                        <p>Número total de videojuegos: <span id='total_games'></span>.</p>
+                        <p>Número de videojuegos jugados: <span id='total_played'></span>.</p>
+                        <p>Número de videojuegos pendientes: <span id='total_toplay'></span>.</p>
+                    </div>
                 </article>
             </section>
         </main>

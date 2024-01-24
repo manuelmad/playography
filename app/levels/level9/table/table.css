@@ -1,25 +1,43 @@
 .table-section {
-	padding-top: 2rem;
+	/* padding-top: 2rem; */
+	font-size: var(--small-font);
+}
+
+.arrow-back__container {
+	position: sticky;
+	top: 0;
+	background-color: var(--tone-4);
 }
 
 .table-h2 {
 	width: 100%;
 	margin: 0 auto 3rem;
 	padding: 3rem 1rem;
-	background-color: var(--celeste);
-	color: var(--black-blue);
-	border-radius: 0.5rem;
-	border: 0.2rem solid var(--black-blue);
+	/* background-color: var(--celeste); */
+	/* color: var(--black-blue); */
+	/* border-radius: 0.5rem; */
+	border-bottom: 0.4rem solid var(--celeste);
     text-align: center;
+}
+
+.table-section #tables_container {
+	width: 100%;
+	padding: 0;
+}
+
+.table-section #tables_container div {
+	width: 100%;
 }
 
 .table-section table {
     border-collapse: collapse;
     margin: 0 auto;
+	background-color: var(--very-light-gray);
 }
 
 .table-section thead {
     background-color: var(--main-blue);
+	color: var(--white);
 }
 
 tr td:first-child {
@@ -30,22 +48,12 @@ tr td, tr th {
     text-align: center;
     padding: 0.5rem;
     border-collapse: collapse;
-    border: 0.1rem solid var(--black);
+    border: 0.1rem solid var(--white);
 }
 
 #tables_container div {
     margin-bottom: 12rem;
 }
-
-/* #ghost-n-goblins table tbody tr:first-child,
-#ghost-n-goblins table tbody tr:nth-child(2),
-#ghost-n-goblins table tbody tr:nth-child(3),
-#ghost-n-goblins table tbody tr:nth-child(4),
-#ghost-n-goblins table tbody tr:nth-child(5),
-#ghost-n-goblins table tbody tr:nth-child(6),
-#ghost-n-goblins table tbody tr:nth-child(7) {
-    background-color: #cacaca;
-} */
 
 #ghost-n-goblins table tbody tr:nth-child(7),
 #ghost-n-goblins table tbody tr:nth-child(10),
@@ -59,26 +67,51 @@ tr td, tr th {
 	border-bottom: 0.3rem solid var(--black);
 }
 
-/* #ghost-n-goblins table tbody tr:nth-child(8),
-#ghost-n-goblins table tbody tr:nth-child(9),
-#ghost-n-goblins table tbody tr:nth-child(10) {
-    background-color: #e8c2bd;
+.statistics-container {
+	width: 100%;
+	background-color: var(--very-light-gray);
 }
 
-#ghost-n-goblins table tbody tr:nth-child(11),
-#ghost-n-goblins table tbody tr:nth-child(12) {
-    background-color: #aec2dd;
-} */
+.statistics-container div, .arrow-back__container p {
+	width: 30rem;
+	margin: 0 auto;
+}
+
+.arrow-back__container p {
+	display: flex;
+	align-items: center;
+	height: 6rem;
+}
+
+.arrow-back__container a {
+	color: var(--white);
+	text-decoration: none;
+}
+
+.statistics-container span {
+	font-weight: bold;
+}
 
 @media (min-width: 700px) {
+	.table-section {
+		font-size: var(--medium-font);
+	}
 
 	.table-h2 {
+		width: 68rem;
+	}
+
+	.statistics-container div, .arrow-back__container p {
 		width: 68rem;
 	}
 }
 
 @media (min-width: 1024px) {
 	.table-h2 {
+		width: 80rem;
+	}
+
+	.statistics-container div, .arrow-back__container p {
 		width: 80rem;
 	}
 }
