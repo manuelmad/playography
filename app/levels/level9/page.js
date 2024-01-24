@@ -41,15 +41,15 @@ export default function Level9() {
                             height={469}    
                         />
                         Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme, jajaja. No sé si tendré el tiempo suficiente para lograr el cometido que me propuse, lo que sí sé es que me voy a divertir intentándolo.</p>
-                    <p className='list-paragraph'>He aquí, en orden alfabético, la lista de cada saga que quiero completar. Claro, hay sagas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
+                    <p className='list-paragraph'>He aquí, en orden alfabético, la lista de sagas que quiero completar. Claro, hay algunas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
                     <p>Puedes ver el detalle de cualquiera de ellas haciendo clic sobre la que te interese.</p>
                     <div className='list-container first-list'>
                         <Image
                             className="bg"
-                            src="/imgs/level9/bg.jpg"
+                            src="/imgs/level9/blue-celeste.jpg"
                             alt="background img"
                             width={564}
-                            height={1002}    
+                            height={1003}    
                         />
                         <ul id='sagasList'>
                             <li><Link scroll={false} href="/levels/level9/table#crash">Crash</Link></li>

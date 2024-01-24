@@ -68,8 +68,8 @@ ul li {
 
 .first-list {
 	position: relative;
-	padding-top: 4rem;
-	padding-bottom: 4rem;
+	/* padding-top: 4rem;
+	padding-bottom: 4rem; */
 	color: var(--white);
 	text-align: center;
 }
@@ -86,7 +86,7 @@ ul li {
 }
 
 .first-list a {
-	color: var(--white);
+	color: var(--very-light-gray);
 }
 
 .second-list {
