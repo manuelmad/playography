@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 import Link from 'next/link';
 import './level2.css';
@@ -5,8 +7,33 @@ import './level2.css';
 import Router from '@/app/components/Router/Router';
 import Header from '@/app/components/Header/Header';
 import Footer from '@/app/components/Footer/Footer';
+import { useEffect } from 'react';
 
 export default function Level2() {
+
+    useEffect(()=>{
+        const observer = new IntersectionObserver(entries => {
+            // Recorrer las entradas recibidas
+            entries.forEach(entry => {
+              // Está visible en el viewport
+              if (entry.intersectionRatio > 0) {
+                // entry.target es el elemento que se está observando
+                // Agregar la clase para animar
+                entry.target.classList.add('animate');
+        
+                // Dejar de observar
+                observer.unobserve(entry.target);
+              }
+            });
+          });
+        
+        // Observar elementos a animar
+        observer.observe(document.querySelector('.punch-out__gif'));
+        observer.observe(document.querySelector('.punchout-name'));
+        // observer.observe(document.querySelector('.article3'));
+        // observer.observe(document.querySelector('.article4'));
+    },[]);
+
     return(
         <>
         <Header
@@ -275,6 +302,7 @@ export default function Level2() {
                         <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos, solo permíteme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
                         <p className='centered-text'>
                             <Image
+                                className='punch-out__gif'
                                 src="/imgs/level2/punch-out.gif"
                                 alt="punch-out gif"
                                 width={500}

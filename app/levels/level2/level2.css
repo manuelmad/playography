@@ -39,6 +39,7 @@
 
 .punchout-name {
 	text-align: center;
+	font-size: 3rem;
 }
 
 .tyson-win {
@@ -53,6 +54,16 @@
     height: auto;
 	float: right;
 	border-radius: 0.5rem;
+}
+
+.animate {
+	animation-name: example;
+	animation-duration: 4s;
+}
+
+@keyframes example {
+	from {opacity: 0;}
+	to {opacity: 1;}
 }
 
 @media (min-width: 700px) {

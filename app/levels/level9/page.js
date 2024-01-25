@@ -11,9 +11,6 @@ import Footer from '@/app/components/Footer/Footer';
 
 export default function Level9() {
 
-    const dk = ()=> {
-        table = "donkey-kong";
-    }
     return(
         <>
         <Header
