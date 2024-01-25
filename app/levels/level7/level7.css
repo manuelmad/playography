@@ -3,12 +3,8 @@
 }
 
 .level7-h2 {
-	/* width: 100%;
-	margin: 0 auto 3rem;
-	padding: 3rem 1rem; */
 	background-color: var(--dark-gray);
 	color: var(--white);
-	/* border-radius: 0.5rem; */
 }
 
 .level7-section .past article:first-child {
@@ -31,11 +27,6 @@
 }
 
 @media (min-width: 700px) {
-
-	/* .level7-h2 {
-		width: 68rem;
-	} */
-
 	.happy-gamer  {
 		width: 30rem;
 	}
@@ -47,10 +38,4 @@
         top: -4rem;
         left: calc(50% - 4rem);
     }
-}
-
-@media (min-width: 1024px) {
-	/* .level7-h2 {
-		width: 80rem;
-	} */
 }

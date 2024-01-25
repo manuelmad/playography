@@ -13,25 +13,23 @@ export default function Level2() {
 
     useEffect(()=>{
         const observer = new IntersectionObserver(entries => {
-            // Recorrer las entradas recibidas
+            // Go across the received entries
             entries.forEach(entry => {
-              // Está visible en el viewport
+              // Entry is visible on viewport
               if (entry.intersectionRatio > 0) {
-                // entry.target es el elemento que se está observando
-                // Agregar la clase para animar
+                // entry.target is the observed element
+                // Add the className to animate the element
                 entry.target.classList.add('animate');
         
-                // Dejar de observar
+                // Unobserve the element
                 observer.unobserve(entry.target);
               }
             });
           });
         
-        // Observar elementos a animar
+        // Observe the elements to animate when on the viewport
         observer.observe(document.querySelector('.punch-out__gif'));
         observer.observe(document.querySelector('.punchout-name'));
-        // observer.observe(document.querySelector('.article3'));
-        // observer.observe(document.querySelector('.article4'));
     },[]);
 
     return(

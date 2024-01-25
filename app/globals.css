@@ -44,7 +44,6 @@ html {
 main {
 	width: 100%;
 	font-size: var(--medium-font);
-	/* padding-top: 2rem; */
 }
 
 section {
@@ -54,7 +53,6 @@ section {
 
 article {
 	padding: 6rem 1rem;
-	/* width: 30rem; */
 	width: 94%;
 	margin: 0 auto;
 }
@@ -76,7 +74,6 @@ p {
 }
 
 section > h2 {
-	/* width: 30rem; */
 	width: 94%;
 	margin: 0 auto 3rem;
 	padding: 3rem 1rem;
@@ -123,41 +120,6 @@ section > h2 {
 	margin: 1rem auto 0;
 }
 
-.last-article {
-	background-color: var(--black-blue);
-	width: 100%;
-	padding: 4rem 1rem;
-}
-
-.last-article div {
-	width: 94%;
-	margin: 0 auto;
-}
-
-.arrows-container {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	font-size: var(--small-font);
-}
-  
-.arrows-container a {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	color: var(--very-light-gray);
-	text-decoration: none;
-	font-weight: bold;
-}
-
-.bi-arrow-left {
-	margin-right: 1rem;
-}
-
-.bi-arrow-right, .bi-house {
-	margin-left: 1rem;
-}
-
 @media (min-width: 700px) {
 	main {
 		font-size: var(--lg-font);
@@ -168,17 +130,9 @@ section > h2 {
 		padding: 8rem 1rem;
 	}
 
-	.last-article div, section > h2  {
-		width: 68rem;
-	}
-
 	.centered-text img {
 		width: 45rem;
 		height: auto;
-	}
-
-	.arrows-container {
-		font-size: var(--medium-font);
 	}
 }
 
@@ -186,9 +140,5 @@ section > h2 {
 	article {
 		width: 80rem;
 		padding: 10rem 1rem;
-	}
-
-	.last-article div, section > h2   {
-		width: 80rem;
 	}
 }

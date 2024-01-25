@@ -3,11 +3,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import './header.css';
-import React from 'react';
+import { useEffect } from 'react';
 
 export default function Header(props) {
     // Code for the menu icon to show/hide the dropdown menu
-    React.useEffect(()=> {
+
+    // Hidden by default
+    useEffect(()=> {
          const dropdown_menu = document.getElementById('dropdown_menu');
          dropdown_menu.style.display = 'none';
 	},[]);
@@ -17,7 +19,6 @@ export default function Header(props) {
         if(dropdown_menu.style.display == 'none') {
             dropdown_menu.style.display = 'block';
             menu_icon.style.color = '#66C4E3';
-            // menu_icon.style.backgroundColor = '#ffffff';
         } else if(dropdown_menu.style.display == 'block') {
             dropdown_menu.style.display = 'none';
             menu_icon.style.color = '#ffffff';

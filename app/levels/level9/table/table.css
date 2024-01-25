@@ -1,5 +1,4 @@
 .table-section {
-	/* padding-top: 2rem; */
 	font-size: var(--small-font);
 }
 
@@ -14,9 +13,6 @@
 }
 
 .table-h2 {
-	/* width: 100%;
-	margin: 0 auto 3rem;
-	padding: 3rem 1rem; */
 	border-bottom: 0.4rem solid var(--celeste);
     text-align: center;
 }
@@ -98,20 +94,12 @@ tr td, tr th {
 		font-size: var(--medium-font);
 	}
 
-	/* .table-h2 {
-		width: 68rem;
-	} */
-
 	.statistics-container div, .arrow-back__container p {
 		width: 68rem;
 	}
 }
 
 @media (min-width: 1024px) {
-	/* .table-h2 {
-		width: 80rem;
-	} */
-
 	.statistics-container div, .arrow-back__container p {
 		width: 80rem;
 	}

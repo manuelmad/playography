@@ -3,12 +3,8 @@
 }
 
 .final-level__h2 {
-	/* width: 100%;
-	margin: 0 auto 3rem;
-	padding: 3rem 1rem; */
 	background-color: var(--burn-yellow);
 	color: var(--tone-4);
-	/* border-radius: 0.5rem; */
     border: 0.2rem solid var(--tone-4);
 }
 
@@ -54,11 +50,6 @@
 
 
 @media (min-width: 700px) {
-
-	/* .final-level__h2 {
-		width: 68rem;
-	} */
-
     .time, .developer, .gracias {
         width: 30rem;
     }
@@ -73,10 +64,6 @@
 }
 
 @media (min-width: 1024px) {
-	/* .final-level__h2 {
-		width: 80rem;
-	} */
-
     .final-level__section .all-characters {
         width: 78rem;
     }

@@ -123,19 +123,28 @@ export default function table() {
                 </div>
                 <h2 className='table-h2'>TODAS LAS SAGAS</h2>
                 <article id='tables_container' className='first-article'>
-                    {/* <table>
-                        <thead>
-                            <tr>
-                                <th>Nombre</th>
-                                <th>Año</th>
-                                <th>Sistema</th>
-                                <th>Jugado</th>
-                            </tr>
-                        </thead>
-                        <tbody id="tableBody">
-
-                        </tbody>
-                    </table> */}
+                    {/* 
+                    <div>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Nombre</th>
+                                    <th>Año</th>
+                                    <th>Sistema</th>
+                                    <th>Jugado</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    */}
                 </article>
                 <article className='statistics-container'>
                     <div>

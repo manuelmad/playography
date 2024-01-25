@@ -7,12 +7,8 @@
 }
 
 .references-h2 {
-	/* width: 100%;
-	margin: 0 auto 3rem;
-	padding: 3rem 1rem; */
 	background-color: var(--tone-3);
 	color: var(--white);
-	/* border-radius: 0.5rem; */
 }
 
 .references-section article:nth-child(2) {
@@ -30,18 +26,7 @@
 }
 
 @media (min-width: 700px) {
-
     .references-section article {
         padding: 4rem 1rem;
     }
-
-	/* .references-h2 {
-		width: 68rem;
-	} */
-}
-
-@media (min-width: 1024px) {
-	/* .references-h2 {
-		width: 80rem;
-	} */
 }
