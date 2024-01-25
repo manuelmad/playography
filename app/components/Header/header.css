@@ -38,14 +38,14 @@ header {
     height: 100%;
 }
 
-.nav-bar-container .main-menu ul {
+.nav-bar-container .main-menu> ul {
     display: flex;
     align-items: center;
     justify-content: flex-end;
     height: 100%;
 }
 
-.nav-bar-container .main-menu ul li {
+.nav-bar-container .main-menu > ul li {
     list-style: none;
     position: absolute;
     visibility: hidden;
@@ -54,7 +54,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-width: 5rem;
+    width: 15rem;
 }
 
 .nav-bar-container .main-menu ul li:hover {
@@ -63,23 +63,17 @@ header {
     border-right: 0.01rem solid var(--very-light-gray);
 }
 
-.nav-bar-container .main-menu ul li a {
+#all_levels_container ul li:hover {
+    background-color: var(--black-blue);
+    border-left: 0.01rem solid var(--tone-4);
+    border-right: 0.01rem solid var(--tone-4);
+}
+
+.nav-bar-container .main-menu ul li a, #all_levels_container {
     text-decoration: none;
     font-size: var(--medium-font);
     color: var(--very-light-gray);
     transition: 0.4s ease all;
-}
-
-.list-item2 a,
-.list-item3 a,
-.list-item4 a,
-.list-item5 a,
-.list-item6 a,
-.list-item7 a,
-.list-item8 a,
-.list-item9 a,
-.list-item10 a {
-    border-bottom: 0.1rem solid var(--celeste);
 }
 
 .nav-bar-container .main-menu ul li a:hover {
@@ -106,6 +100,32 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#all_levels_container {
+    position: relative;
+}
+
+#secondary_menu {
+    visibility: hidden;
+    position: absolute;
+    top: 6rem;
+    left: -0.1rem;
+    transition: 0.7s ease all;
+    opacity: 0;
+}
+
+#all_levels_container:hover>#secondary_menu {
+    visibility: visible;
+    top: 6rem;
+    left: -0.1rem;
+    opacity: 1;
+}
+
+#secondary_menu li {
+    background-color: var(--tone-4);
+    width: 15rem;
+    line-height: 3rem;
 }
 
 
