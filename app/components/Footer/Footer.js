@@ -130,7 +130,7 @@ export default function Footer() {
                 </div>
             </section>
             <section className="creator">
-                <p>Creado con cariño por <Link href="https://manuelmad.vercel.app/" target="_blank">Manuel Araujo</Link></p>
+                <p>Creado por <Link href="https://manuelmad.vercel.app/" target="_blank">Manuel Araujo</Link></p>
             </section>
             <section className='creation-year'>
                 <p>2023 - 2024</p>

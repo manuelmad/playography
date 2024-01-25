@@ -3,12 +3,12 @@
 }
 
 .level9-h2 {
-	width: 100%;
+	/* width: 100%;
 	margin: 0 auto 3rem;
-	padding: 3rem 1rem;
+	padding: 3rem 1rem; */
 	background-color: var(--celeste);
 	color: var(--black-blue);
-	border-radius: 0.5rem;
+	/* border-radius: 0.5rem; */
 	border: 0.2rem solid var(--black-blue);
 }
 
@@ -109,9 +109,9 @@ ul li {
 
 @media (min-width: 700px) {
 
-	.level9-h2 {
+	/* .level9-h2 {
 		width: 68rem;
-	}
+	} */
 
 	.write-paragraph {
 		margin-top: 4rem;
@@ -152,9 +152,9 @@ ul li {
 }
 
 @media (min-width: 1024px) {
-	.level9-h2 {
+	/* .level9-h2 {
 		width: 80rem;
-	}
+	} */
 
 	.revenge {
 		width: 30rem;

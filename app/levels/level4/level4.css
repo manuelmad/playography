@@ -3,12 +3,12 @@
 }
 
 .level4-h2 {
-	width: 100%;
+	/* width: 100%;
 	margin: 0 auto 3rem;
-	padding: 3rem 1rem;
+	padding: 3rem 1rem; */
 	background-color: var(--dark-green);
 	color: var(--white);
-	border-radius: 0.5rem;
+	/* border-radius: 0.5rem; */
 }
 
 .level4-section .past article:first-child {
@@ -46,9 +46,9 @@
 
 @media (min-width: 700px) {
 
-	.level4-h2 {
+	/* .level4-h2 {
 		width: 68rem;
-	}
+	} */
 
 	.yugioh {
 		width: 10rem;
@@ -71,7 +71,7 @@
 }
 
 @media (min-width: 1024px) {
-	.level4-h2 {
+	/* .level4-h2 {
 		width: 80rem;
-	}
+	} */
 }

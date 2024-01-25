@@ -121,7 +121,7 @@ export default function table() {
                         </Link>
                     </p>
                 </div>
-            <h2 className='table-h2'>TODAS LAS SAGAS</h2>
+                <h2 className='table-h2'>TODAS LAS SAGAS</h2>
                 <article id='tables_container' className='first-article'>
                     {/* <table>
                         <thead>

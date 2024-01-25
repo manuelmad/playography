@@ -92,7 +92,7 @@ export default function Level5() {
                         height={379}
                     />
                     <p>Por otra casualidad más, hace poco obtuve el contacto de ese amigo de mi hermano. Ya no sé si todas estas cosas son casualidades 🤔, o si estaba destinado a escribir este artículo, jejeje. De cualquier manera, aproveché de preguntarle acerca de aquella anécdota y efectivamente me corroboró que tenía el Super Smash, 2 juegos de Resident (0 y 1 Remake), pero no recuerda cuál de los Mario Party's tuvo. Así que ésta ha sido mi investigación menos fructífera: no sé cuál de los 2 Resident Evil jugué ni cuál entrega de Mario Party de GameCube 😩... Pero, no importa, todos esos juegos los estoy jugando ahora y los jugaré en un futuro cercano, como ya te explicaré más adelante.</p>
-                    <p>En Resumen, fue un periodo bastante flojo para mi experiencia gamer, y así continuaría por varios años, hasta que empezaron a mejorar algunas circunstancias...</p>
+                    <p>En resumen, fue un periodo bastante flojo para mi experiencia gamer, y así continuaría por varios años, hasta que empezaron a mejorar algunas circunstancias...</p>
                 </article>
                 <Router 
                     text1="LEVEL 4"

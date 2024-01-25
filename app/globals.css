@@ -54,7 +54,8 @@ section {
 
 article {
 	padding: 6rem 1rem;
-	width: 30rem;
+	/* width: 30rem; */
+	width: 94%;
 	margin: 0 auto;
 }
 
@@ -72,6 +73,14 @@ p {
 	margin: 1rem 0;
   	width: 100%;
 	line-height: 1.5;
+}
+
+section > h2 {
+	/* width: 30rem; */
+	width: 94%;
+	margin: 0 auto 3rem;
+	padding: 3rem 1rem;
+	border-radius: 0.5rem;
 }
 
 .bold-italic {
@@ -121,7 +130,7 @@ p {
 }
 
 .last-article div {
-	width: 30rem;
+	width: 94%;
 	margin: 0 auto;
 }
 
@@ -154,12 +163,12 @@ p {
 		font-size: var(--lg-font);
 	}
 
-	article{
+	article {
 		width: 68rem;
 		padding: 8rem 1rem;
 	}
 
-	.last-article div  {
+	.last-article div, section > h2  {
 		width: 68rem;
 	}
 
@@ -179,7 +188,7 @@ p {
 		padding: 10rem 1rem;
 	}
 
-	.last-article div  {
+	.last-article div, section > h2   {
 		width: 80rem;
 	}
 }

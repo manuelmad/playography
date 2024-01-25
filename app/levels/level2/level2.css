@@ -3,12 +3,12 @@
 }
 
 .level2-h2 {
-	width: 100%;
+	/* width: 100%;
 	margin: 0 auto 3rem;
-	padding: 3rem 1rem;
+	padding: 3rem 1rem; */
 	background-color: var(--turquoise-blue);
 	color: var(--white);
-	border-radius: 0.5rem;
+	/* border-radius: 0.5rem; */
 }
 
 .level2-section .first-article {
@@ -57,9 +57,9 @@
 
 @media (min-width: 700px) {
 
-	.level2-h2 {
+	/* .level2-h2 {
 		width: 68rem;
-	}
+	} */
 
 	.tyson-tko__paragraph {
 		padding-top: 8rem;
@@ -82,9 +82,9 @@
 }
 
 @media (min-width: 1024px) {
-	.level2-h2 {
+	/* .level2-h2 {
 		width: 80rem;
-	}
+	} */
 
 	.tyson-win__paragraph {
 		padding-top: 3rem;

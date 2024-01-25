@@ -3,12 +3,12 @@
 }
 
 .level8-h2 {
-	width: 100%;
+	/* width: 100%;
 	margin: 0 auto 3rem;
-	padding: 3rem 1rem;
+	padding: 3rem 1rem; */
 	background-color: var(--fucsia);
 	color: var(--white);
-	border-radius: 0.5rem;
+	/* border-radius: 0.5rem; */
 }
 
 .level8-section .past article:first-child {
@@ -79,9 +79,9 @@
 
 @media (min-width: 700px) {
 
-	.level8-h2 {
+	/* .level8-h2 {
 		width: 68rem;
-	}
+	} */
 
 	.long-list, .money-wings {
 		width: 30rem;
@@ -104,9 +104,9 @@
 }
 
 @media (min-width: 1024px) {
-	.level8-h2 {
+	/* .level8-h2 {
 		width: 80rem;
-	}
+	} */
 
 	.broken-laptop__paragraph {
 		padding-top: 4rem;
