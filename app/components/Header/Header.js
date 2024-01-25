@@ -81,39 +81,6 @@ export default function Header(props) {
                                 </ul>
                                 LEVELS
                             </li>
-                            {/* <li className="list-item2">
-                                <Link href={props.link2}>LV-1</Link>
-                            </li>
-                            <li className="list-item3">
-                                <Link href={props.link3}>LV-2</Link>
-                            </li>
-                            <li className="list-item4">
-                                <Link href={props.link4}>LV-3</Link>
-                            </li>
-                            <li className="list-item5">
-                                <Link href={props.link5}>LV-4</Link>
-                            </li>
-                            <li className="list-item6">
-                                <Link href={props.link6}>LV-5</Link>
-                            </li>
-                            <li className="list-item7">
-                                <Link href={props.link7}>LV-6</Link>
-                            </li>
-                            <li className="list-item8">
-                                <Link href={props.link8}>LV-7</Link>
-                            </li>
-                            <li className="list-item9">
-                                <Link href={props.link9}>LV-8</Link>
-                            </li>
-                            <li className="list-item10">
-                                <Link href={props.link10}>LV-9</Link>
-                            </li>
-                            <li className="list-item11">
-                                <Link href={props.link11}>FINAL LEVEL</Link>
-                            </li>
-                            <li className="list-item12">
-                                <Link href={props.link12}>REFERENCIAS</Link>
-                            </li> */}
                             <li className="list-item11">
                                 <Link href={props.link11}>FINAL LEVEL</Link>
                             </li>
