@@ -179,7 +179,7 @@ nav #dropdown-list {
     color: var(--celeste);
 }
 
-#dropdown-list #home2 {
+#dropdown-list #home2, #dropdown-list #ref2 {
     color: var(--celeste);
 }
 

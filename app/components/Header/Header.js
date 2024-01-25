@@ -125,7 +125,7 @@ export default function Header(props) {
                                     <Link href={props.link11} onClick={onMenuItemClick}>FINAL LEVEL</Link>
                                 </li>
                                 <li>
-                                    <Link href={props.link12} onClick={onMenuItemClick}>REFERENCIAS</Link>
+                                    <Link id='ref2' href={props.link12} onClick={onMenuItemClick}>REFERENCIAS</Link>
                                 </li>
                             </ul>
                         </nav>

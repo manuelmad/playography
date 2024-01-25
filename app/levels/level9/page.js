@@ -11,6 +11,9 @@ import Footer from '@/app/components/Footer/Footer';
 
 export default function Level9() {
 
+    const dk = ()=> {
+        table = "donkey-kong";
+    }
     return(
         <>
         <Header
@@ -42,7 +45,6 @@ export default function Level9() {
                         />
                         Después de tantos años desconectado de este hermoso mundo de los videojuegos, llegaba la hora de despertar y al fin desquitarme, jajaja. No sé si tendré el tiempo suficiente para lograr el cometido que me propuse, lo que sí sé es que me voy a divertir intentándolo.</p>
                     <p className='list-paragraph'>He aquí, en orden alfabético, la lista de sagas que quiero completar. Claro, hay algunas demasiado extensas y en esos casos traté de evitar algunos de sus spin-off's, o aquellos títulos que no me parecían disfrutables según mis gustos.</p>
-                    <p>Puedes ver el detalle de cualquiera de ellas haciendo clic sobre la que te interese.</p>
                     <div className='list-container first-list'>
                         <Image
                             className="bg"
@@ -52,34 +54,35 @@ export default function Level9() {
                             height={1003}    
                         />
                         <ul id='sagasList'>
-                            <li><Link scroll={false} href="/levels/level9/table#crash">Crash</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#dark-souls">Dark Souls</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#devil-may-cry">Devil May Cry</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#donkey-kong">Donkey Kong</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#ghost-n-goblins">Ghost 'n Goblins</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#god-of-war">God of War</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#kirby">Kirby</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#mega-man">Mega Man</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#metal-slug">Metal Slug</Link></li>
+                            <li>Crash</li>
+                            <li>Dark Souls</li>
+                            <li>Devil May Cry</li>
+                            <li>Donkey Kong</li>
+                            <li>Ghost 'n Goblins</li>
+                            <li>God of War</li>
+                            <li>Kirby</li>
+                            <li>Mega Man</li>
+                            <li>Metal Slug</li>
                             {/* <li>Monkey Island</li> */}
-                            <li><Link scroll={false} href="/levels/level9/table#monster-hunter">Monster Hunter</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#mortal-kombat">Mortal Kombat</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#ninja-gaiden">Ninja Gaiden</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#pokemon">Pokémon</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#punch-out">Punch Out</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#resident-evil">Resident Evil</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#silent-hill">Silent Hill</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#simpsons">Simpsons</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#sonic">Sonic</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#street-fighter">Street Fighter</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#super-mario">Super Mario Bros.</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#zelda">The Legend of Zelda</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#uncharted">Uncharted</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#wario">Wario</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#yoshi">Yoshi</Link></li>
-                            <li><Link scroll={false} href="/levels/level9/table#yugioh">Yu-Gi-Oh!</Link></li>
+                            <li>Monster Hunter</li>
+                            <li>Mortal Kombat</li>
+                            <li>Ninja Gaiden</li>
+                            <li>Pokémon</li>
+                            <li>Punch Out</li>
+                            <li>Resident Evil</li>
+                            <li>Silent Hill</li>
+                            <li>Simpsons</li>
+                            <li>Sonic</li>
+                            <li>Street Fighter</li>
+                            <li>Super Mario Bros.</li>
+                            <li>The Legend of Zelda</li>
+                            <li>Uncharted</li>
+                            <li>Wario</li>
+                            <li>Yoshi</li>
+                            <li>Yu-Gi-Oh!</li>
                         </ul>
                     </div>
+                    <p>Puedes ver el detalle de cualquiera de ellas siguiendo este <Link href="/levels/level9/table">link.</Link></p>
                     <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de la saga principal de Pokémon (porque sí jugué al Pokémon Stadium y un poco al Pokémon GO). Por cierto, en este particular de los Pocket Monsters, probé sus primeros juegos de Game Boy, pero no me agradaron mucho y preferí jugar los remakes que se lanzaron en posteriores consolas.</p>
                     <p>De aquellas sagas que sí jugué, voy decidiendo según me apetezca si rejugaré o no el(los) juego(s) que ya había probado hace años.</p>
                     <p>En algunas sagas podrás notar que incluí juegos que, si bien no pertenecen directamente a ella, están relacionados de alguna forma con la misma.</p>
