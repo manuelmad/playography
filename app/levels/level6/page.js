@@ -47,7 +47,7 @@ export default function Level6() {
                             />
                             Luego de dos años como profesor, en 2010, consigo un empleo como Ingeniero de Petróleo y paralelamente me graduó de la otra carrera... Ahora que lo pienso, eso fue extraño 🤔, jajaja: estudiar "A" para trabajar de "B" y luego estudiar "B" para trabajar de "A"... En fin, lo importante es que con mi nuevo empleo las finanzas comienzan a mejorar.</p>
                         <p>Pero lo cierto es que, cualquiera sea el trabajo que tuviera, empiezo a contar con muy poco tiempo libre, prácticamente nulo, diría yo.</p>
-                        <p>La <span className="bold-italic">séptima generación de consolas</span> ya estaba en marcha desde 2005-2006. Yo venía con la inercia de mi floja etapa anterior y, ahora en conjunto con mi ajetreada vida laboral, lo único que sabía al respecto era lo que escuchaba en eventuales comentarios de algunas personas a mi alrededor: “existe una consola de Nintendo cuyos controles se basan en movimiento”, “ya hay una nueva PlayStation”, “salió al mercado una portátil de doble pantalla”, etc. Esporádicamente jugaba en mi Smartphone algún jueguito que no me quitara mucho tiempo, pero que me hiciera sentir satisfecho al menos mínimamente: Candy Crush, Hill Climb Racing, Sonic Dash, etc.</p>
+                        <p>La <span className="bold-italic">séptima generación de consolas</span> ya estaba en marcha desde 2005-2006. Yo venía con la inercia de mi floja etapa anterior y, ahora en conjunto con mi ajetreada vida laboral, lo único que sabía al respecto era lo que escuchaba en eventuales comentarios de algunas personas a mi alrededor: "existe una consola de Nintendo cuyos controles se basan en movimiento", "ya hay una nueva PlayStation", "salió al mercado una portátil de doble pantalla", etc. Esporádicamente jugaba en mi Smartphone algún jueguito que no me quitara mucho tiempo, pero que me hiciera sentir satisfecho al menos mínimamente: Candy Crush, Hill Climb Racing, Sonic Dash, etc.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level6/candy-crush.jpg"
@@ -82,9 +82,9 @@ export default function Level6() {
                                 height={710}
                             />
                         </p>
-                        <p>Por cierto, recientemente comencé a ver los animés de Yu-Gi-Oh!, terminé la llamada Yu-Gi-Oh! (conocida como la tenporada "0", no sabía que existía), la Duel Monsters (la que vi durante mi adolescencia en canales de televisión nacional) y actualmente estoy viendo la saga GX. Ahora me doy cuenta que muchas de las cartas que conocí en el videojuego Duel Links, provienen de la serie GX. Si no sabías que existía una temporada "0" de Yu-Gi-Oh! y quieres verla, te dejaré un enlace en la sección de referencias.</p>
+                        <p>Por cierto, recientemente comencé a ver los animés de Yu-Gi-Oh!, terminé la llamada Yu-Gi-Oh! (conocida como la temporada "0", no sabía que existía), la Duel Monsters (la que vi durante mi adolescencia) y actualmente estoy viendo la saga GX. Ahora me doy cuenta que muchas de las cartas que conocí en el videojuego Duel Links, provienen de la serie GX. Si no sabías que existía una temporada "0" de Yu-Gi-Oh! y quieres verla, te dejaré un enlace en la sección de referencias.</p>
                         <p>Hace poco quise rejugar el Duel Links, pero la cantidad de nuevas reglas y efectos de cartas me hicieron sentir abrumado y desistí.</p>
-                        <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 “Slim” nueva de caja, con el juego de Uncharted en físico.</p>
+                        <p>Luego de algunos años, mi esposa vio la oportunidad de encarrilarme de nuevo al mundo gamer. En mi cumpleaños número 32 (año 2013) me trajo a casa la sorpresa de una PlayStation 3 "Slim" nueva de caja, con el juego de Uncharted en físico.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level6/PS3-slim-console.png"
@@ -144,7 +144,7 @@ export default function Level6() {
                                 height={900}
                             />
                         </p>
-                        <p>Sin embargo, ahora recuerdo que los 2 juegos que habían salido originalmente para PlayStation Portable (Chains of Olympus y Ghost of Sparta) no estaban incluidos en el disco, sino que había un código de descarga escrito en el papel interno del juego físico. Cuando intenté canjearlo, estaba vencido, así que volví a la tienda y al explicarle la situación al vendedor, me permitió escoger un juego usado como reemplazo de esos 2, y así fue como obtuve el Heavy Rain. Esto resultó de alguna manera conveniente, ya que fue un juego que disfruté muchísimo.</p>
+                        <p>Sin embargo, ahora recuerdo que los 2 juegos que habían salido originalmente para PlayStation Portable (Chains of Olympus y Ghost of Sparta) no estaban incluidos en el disco, sino que había un código de descarga escrito en el papel interno del juego físico. Cuando intenté canjearlo, estaba vencido, así que volví a la tienda y al explicarle la situación al vendedor, me permitió escoger un juego usado de PS3 como reemplazo de esos 2, y así fue como obtuve el Heavy Rain. Esto resultó de alguna manera conveniente, ya que fue un juego que disfruté muchísimo.</p>
                         <p>A parte de los juegos físicos que compré, solía descargar y jugar algunos demos gratuitos de la PlayStation Store, nada importante que mencionar.</p>
                     </article>
                 </div>

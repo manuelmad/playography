@@ -174,7 +174,7 @@ export default function Level7() {
                             />
                         </p>
                         <p>Usé los arriba mostrados y muchos otros más, tanto en mi laptop como en mi tablet y smartphone. También usé un programa para poder utilizar los controles de mi PS3 en la laptop. Mi espíritu gamer había estado dormido, amarrado por muchos años y por varias razones, pero en mayor medida y más recientemente por las ocupaciones diarias del trabajo y el hogar.</p>
-                        <p>Para el momento en que me topé con toda la información acerca de los emuladores, mi mente ya estaba libre de muchas de esas responsabilidades.</p>
+                        <p>Para el momento en que me topé con toda la información acerca de los emuladores, mi mente estaba libre de muchas de esas responsabilidades.</p>
                         <p>
                             <Image
                                 className="happy-gamer"
@@ -226,7 +226,7 @@ export default function Level7() {
                             />
                         </p>
                         <p>Aunque logré terminarlos todos, la experiencia no fue muy satisfactoria en términos de jugabilidad, gráficos y sonido, así que no seguí maltratando mis pobres cachivaches con esos emuladores de mayor exigencia.</p>
-                        <p>¿Recuerdas que mencioné a Yu-Gi-Oh! Forbidden Memories como uno de mis juegos favoritos? Pues en este momento no perdí oportunidad de intentar obtener todas las cartas 🤩, hasta que aprendí acerca de las imposibles 😐. En ese momento solo decidí aplicar un "cheat" sobre el juego en un emulador para tenerlas todas y saber lo que se siente jugar con ellas, jejeje. Algo que aprendí es que existe una comunidad de "moders", principalmente brasileros, dedicados a desarrollar versiones de este juego pero con la posibilidad de obtener todas las cartas batallando de manera normal a los duelistas. Algunas versiones cuentan con mejores probabilidades de éxito que otras. Incluso han desarrollado secuelas numeradas (por supuesto no oficiales) del juego.</p>
+                        <p>¿Recuerdas que mencioné a Yu-Gi-Oh! Forbidden Memories como uno de mis juegos favoritos? Pues en este momento no perdí oportunidad de intentar obtener todas las cartas 🤩, hasta que aprendí acerca de las imposibles 😐. En ese momento solo decidí aplicar un "cheat" sobre el juego en un emulador para tenerlas todas y saber lo que se siente jugar con ellas, jejeje. Algo que aprendí es que existe una comunidad de "moders", principalmente brasileros, dedicados a desarrollar versiones de este juego pero con la posibilidad de obtener todas las cartas batallando de manera normal a los duelistas. Algunas versiones cuentan con mejores probabilidades de éxito que otras. Incluso han desarrollado secuelas numeradas (por supuesto, no oficiales) del juego.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level7/fm2.png"

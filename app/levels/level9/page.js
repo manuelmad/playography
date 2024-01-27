@@ -83,7 +83,7 @@ export default function Level9() {
                     <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de la saga principal de Pokémon (porque sí jugué al Pokémon Stadium y un poco al Pokémon GO). Por cierto, en este particular de los Pocket Monsters, probé sus primeros juegos de Game Boy, pero no me agradaron mucho y preferí jugar los remakes que se lanzaron en posteriores consolas.</p>
                     <p>De aquellas sagas que sí jugué, voy decidiendo según me apetezca si rejugaré o no el(los) juego(s) que ya había probado hace años.</p>
                     <p>En algunas sagas podrás notar que incluí juegos que, si bien no pertenecen directamente a ella, están relacionados de alguna forma con la misma.</p>
-                    <p>La saga de Yu-Gi-Oh! es tan, pero tan extensa, que decidí hacer la lista de los primeros juegos, desde 1998 hasta el 2006, y así decidir si vale la pena continuar avanzando con ella.</p>
+                    <p>La saga de Yu-Gi-Oh! es tan, pero tan extensa, que solo hice la lista de sus primeros juegos, desde 1998 hasta el 2006, para luego decidir si vale la pena continuar avanzando con ella.</p>
                     <p className='write-paragraph'>
                         <Image
                             className="write"
@@ -129,7 +129,7 @@ export default function Level9() {
                     </p>
                     <p>No suelo jugar 2 videojuegos seguidos dentro de la misma saga, para mantener la variedad. Por lo general, solo termino la historia principal y no reinicio la entrega cuando existe la opción de hacerlo con un nuevo personaje desbloqueado o con una nueva dificultad. Solo si el juego me gustó demasiado, puedo hacer la excepción en alguno de esos apartados.</p>
                     <p>¡Ah! Y con los juegos retro que emulo con RetroArch, muchas veces recurro a los "save states" para pasar tramos muy difíciles, no quiero estancarme por varios días o semanas en un solo título. La alta dificultad y rejugabilidad de esos juegos es lo que compensa su corto recorrido.</p>
-                    <p>Hablando de retro, estos son los juegos que rejugué solo por el mero placer de la nostalgia, todos de la NES:</p>
+                    <p>Hablando de retro, estos son los juegos que ya rejugué solo por el mero placer de la nostalgia, todos de la NES:</p>
                     <div className='list-container second-list'>
                         <Image
                             className="nes"
@@ -146,7 +146,7 @@ export default function Level9() {
                             <li>Urban Champion.</li>
                         </ul>
                     </div>
-                    <p>Por supuesto, aún tengo varios otros en mente para rejugar, tanto de NES como de Atari 2600.</p>
+                    <p>Por supuesto, aún tengo varios otros en mente para rejugar, tanto de NES como de Atari 2600. Estoy empezando a animarme con la idea de hacerlo en streaming 🤔, por favor visita mis redes y ojalá puedas acompañarme cuando lo haga.</p>
                     <p>Como aún me falta terminar algunos juegos más antes de llegar a aquellos que salieron para Switch, en esta consola me he dedicado a jugar los videojuegos que, según los analistas y críticos que suelo mirar, son los mejores y que no pertenecen a las sagas de mi proyecto. Por supuesto, dichos juegos tienen que ser de mi agrado al verlos y también deben adaptarse a mi economía.</p>
                     <p>Entre los juegos que he probado en la híbrida de Nintendo están:</p>
                     <p className='centered-text'>

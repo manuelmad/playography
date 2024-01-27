@@ -138,9 +138,9 @@ export default function Level1() {
                         width={450}
                         height={450}
                     />
-					Las antiguas consolas de Atari fueron producidas en variedad de modelos y versiones. Para saber exactamente cuál fue la que tuve, me disfracé de investigador, no podía quedarme con esa duda.
+					Las antiguas consolas de Atari fueron producidas en variedad de modelos y versiones. Para saber exactamente cuál fue la que tuve, me disfracé de detective e inicié una investigación profunda en internet, no podía quedarme con esa duda.
 				</p>
-				<p>Leyendo características, viendo imágenes y asociando fechas de lanzamiento, estoy casi completamente seguro de que fue la versión de tamaño y costo reducidos del Atari 2600, apodada como Atari 2600 Jr.</p>
+				<p>Luego de varios días leyendo características, viendo imágenes y asociando fechas de lanzamiento, estoy casi completamente seguro de que fue la versión de tamaño y costo reducidos del Atari 2600, apodada como Atari 2600 Jr.</p>
                 <p className='atarijr-paragraph'>Sí, con esa inicié mi aventura gamer, durante la <span className="bold-italic">segunda generación de consolas</span>.</p>
 				<p className="centered-text">
                     <Image
@@ -172,7 +172,7 @@ export default function Level1() {
 				</p>
 				<p>Ésta tiene todos los detalles que busco: negra y achatada en el frente, una franja gris en el centro, los mandos exactamente iguales a los míos, y cuando vi esos botones a cada lado de la ranura para los cartuchos... Mi mente viajó al pasado y sentí que veía desde los ojos de mi yo niño, prendiendo y apagando la consola, reseteándola o seleccionando juegos... Es increíble lo que una imagen puede hacer.</p>
 				<p>Ahora, para poder recordar muchos de los juegos que para esos años me cautivaron y que hicieron tan feliz al niño Manuel, tuve que buscar varios videos recopilatorios en YouTube. Te dejaré los links en la sección de referencias.</p>
-				<p>Para resumirte mi experiencia, voy a compartirte los que más bonitas memorias traen a mi mente:</p>
+				<p>Para resumirte mi experiencia, te compartiré los que más bonitas memorias traen a mi mente:</p>
 				<p className="atari-games__container">
                     <Image
                         src="/imgs/level1/adventure.jpg"
@@ -379,7 +379,7 @@ export default function Level1() {
                         />
                         La anécdota más divertida que tengo es estar jugando al boxeo con otro niño en mi habitación.
                     </p>
-                    <p>Yo escogí al peleador negro y mi amigo al blanco, y en un momento en que comencé a oprimir el botón rápidamente para golpear, tuve la suerte de que mi personaje atrapó al otro en una seguidilla de rectos de izquierda y derecha a la nariz que terminaron con la pelea.</p>
+                    <p>Yo escogí al peleador negro y mi amigo al blanco y, en un momento en que comencé a oprimir el botón rápidamente para golpear, tuve la suerte de que mi personaje atrapó al otro en una seguidilla de rectos de izquierda y derecha a la nariz que terminaron con la pelea.</p>
                     <div>
                         <Image
                             className="boxer-woman"

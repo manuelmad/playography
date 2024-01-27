@@ -41,7 +41,7 @@ export default function Level8() {
                             Luego agregué a mi lista aquellas sagas que, viendo sus gameplays o análisis en las redes, me parecieron buenas o importantes para la industria.
                         </p>
                         <p>También incluí algunos juegos que no pertenecen a sagas, así como juegos indies que me llamaron la atención.</p>
-                        <p>Hace poco decidí también jugar algunos juegos retro específicos, solo por el placer de sentir la nostalgia y transportarme al momento en que los jugue de niño.</p>
+                        <p>Hace poco decidí también jugar algunos juegos retro específicos, solo por el placer de sentir la nostalgia y transportarme al momento en que los jugué de niño.</p>
                         <p>Obviamente, como comprenderás porque seguro eres igual a mí, dicha lista solo crecía y crecía, jejeje. Cualquier excusa era válida para agregar nuevas sagas al "proyecto". Me divertí muchísimo con el solo hecho de investigar y crear estas listas.</p>
                         <p>Una vez que estaban más o menos terminadas, era obvio que, como ya mencioné anteriormente, mi laptop y teléfono no serían suficientes para cumplirlas a cabalidad.</p>
                         <p className='broken-laptop__paragraph'>
@@ -95,7 +95,7 @@ export default function Level8() {
                                 height={400}    
                             />
                         </p>
-                        <p>En Julio de 2022, una PlayStation 2 (<span className="bold-italic">sexta generación de consolas</span>): También vino "modificada". Además de jugar los juegos de PS2, aquí puedo emular los de PS1. Los juegos están guardados en 2 memorias USB (pendrives) que voy intercambiando dependiendo de donde tenga el juego que quiera jugar en el momento. Ésta también la compre usando MercadoLibre.</p>
+                        <p>En Julio de 2022, una PlayStation 2 (<span className="bold-italic">sexta generación de consolas</span>): También vino "modificada". Además de jugar los juegos de PS2, aquí puedo emular los de PS1. Los juegos están guardados en 2 memorias USB (pendrives) que voy intercambiando dependiendo de donde tenga el juego que quiera jugar en el momento. Ésta también la compré usando MercadoLibre.</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level8/ps2-slim.png"
@@ -269,7 +269,7 @@ export default function Level8() {
                         height={333}
                     />
                     <p>Por supuesto que ansío incursionar en la <span className="bold-italic">novena generación de consolas</span> con una PlayStation 5 para rematar la faena, pero es algo que no tengo previsto a corto plazo.</p>
-                    <p>En el siguiente <span className='bold'>LEVEL</span>, quiero explicarte cómo me organicé y mostrarte los retos que me he autoimpuesto como gamer para los años por venir.</p>
+                    <p>En el siguiente level, quiero explicarte cómo me organicé y mostrarte los retos que me he autoimpuesto como gamer para los años por venir.</p>
                 </article>
                 <Router 
                     text1="LEVEL 7"

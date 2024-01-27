@@ -65,7 +65,7 @@ export default function Level2() {
                             />
                         </p>
                         <p>Pero lo extraño es que la mía no lucía exactamente así... Jajaja. Los detalles que la original japonesa tiene en rojo, la mía los tenía en gris. Pero entonces, ¡¿qué consola me dieron?!</p>
-                        <p>Así que, otra vez con la cachucha de investigador puesta, me dedico a realizar una búsqueda exhaustiva para resolver el misterio.</p>
+                        <p>Así que, otra vez con la cachucha de detective puesta, me dedico a realizar una búsqueda exhaustiva para resolver el misterio.</p>
                     </article>
                 </div>
                 <article className='article2'>
@@ -76,7 +76,7 @@ export default function Level2() {
                         width={4096}
                         height={4096}
                     />
-                    <p>Como era de esperarse, descubrí que poseí una versión “bucanera” de la consola original y, por lo visto, salieron varias al mercado con ese color:</p>
+                    <p>Como era de esperarse, descubrí que poseí una versión "bucanera" de la consola original y, por lo visto, salieron varias al mercado con ese color:</p>
                     <p>Las Dendy Junior y Dendy Junior II, ensambladas por la empresa Steepler en Taiwan con componentes chinos y distribuidas principalmente en Rusia y el resto de países de la ex Unión Soviética:</p>
                     <p className='centered-text'>
                         <Image
@@ -285,7 +285,7 @@ export default function Level2() {
                                 height={500}    
                             />
                         </p>
-                        <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día. Te dejaré el vínculo a uno de los canales de YouTube que utilicé. También, en algunos de los canales que te dejé para Atari encontrarás videos de NES y otras muchas consolas.</p>
+                        <p>Seguramente se me escapa uno que otro juego, vi varios videos y listas de juegos en internet para refrescar mi memoria y recordar aquellos que no tenía presentes hoy en día. Te dejaré el vínculo a uno de los canales de YouTube que visité. También, en algunos de los canales que te dejé para Atari encontrarás videos de NES y otras muchas consolas.</p>
                         <p>Como nota curiosa, recuerdo perfectamente haber jugado Street Fighter en mi Famicom,  pero durante esta investigación aprendí que no fue lanzado ningún juego 1 vs. 1 de dicha saga para esta consola 🤔... Entonces, ¡¿qué fue lo que jugué?!</p>
                         <p>Pues, ahondando un poco más, descubrí que sí que existió una entrega de Street Fighter II: The World Warrior para la NES... Pero fue una versión NO oficial... ¡Pirata!, para ser más claros. Les dejaré el enlace al gameplay de este juego en la sección de referencias.</p>
                         <p className='centered-text'>
@@ -296,7 +296,7 @@ export default function Level2() {
                                 height={359}    
                             />
                         </p>
-                        <p>Y ahora recuerdo que bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas disfrutado mucho, ¡malandrín!</p>
+                        <p>Y ahora recuerdo que bastante lo disfruté hasta que uno de mis compañeros de colegio me lo robó 🤬. Espero lo hayas aprovechado mucho, ¡malandrín!</p>
                         <p>Como ya dije antes, no entraré en detalle con juegos archiconocidos por todos, solo permíteme hacer la excepción de mencionar el juego que pienso que más marcó mi experiencia en ésta la tercera generación de consolas. Se trata de...</p>
                         <p className='centered-text'>
                             <Image
@@ -310,7 +310,7 @@ export default function Level2() {
                         <h3 className='punchout-name'>Punch-Out!!</h3>
                         <p>Recuerdo que, antes de tener mi propia Famicom (o como se llamara la que yo tenía), acompañaba a mis padres a hacer las compras en un supermercado, ubicado en un centro comercial cercano a casa. En este mall había, por supuesto, otros locales, entre los cuales se encontraba un centro de alquiler de consolas por hora, o como los niños llamábamos a ese tipo de sitios: "maquinitas".</p>
                         <p>Mientras mis padres pasaban el tiempo en el supermercado comprando lo necesario para el hogar, yo me distraía en las "maquinitas", y les juro que el único juego que recuerdo haber jugado en ese establecimiento fue Punch-Out!!</p>
-                        <p>Me hipnotizaban esos contrincantes con sprites mucho más grandes que el del héroe, cada personaje tenía un encanto único y una forma distinta de vencerlo. Siempre había algún cliente usando este juego, y el resto de niños que esperábamos nuestro turno, rodeábamos al afortunado del momento y lo alentábamos a seguir avanzando en los circuitos.</p>
+                        <p>Me hipnotizaban esos contrincantes con sprites mucho más grandes que el del héroe, cada personaje tenía un encanto único y una forma distinta de vencerlo. Siempre había algún cliente usando este juego, y el resto de niños que esperábamos nuestro turno rodeábamos al afortunado del momento y lo alentábamos a seguir avanzando en los circuitos.</p>
                         <p>Mi tiempo de juego dependía de las visitas al centro comercial y a la disponibilidad del juego en ese momento que yo estaba allí, así que recuerdo que solo pude avanzar hasta King Hippo, el cual tenía una forma, digamos, "rebuscada" de ser vencido.</p>
                         <p className='centered-text'>
                             <Image

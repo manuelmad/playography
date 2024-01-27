@@ -123,7 +123,7 @@ export default function Level4() {
                                 height={506}    
                             />
                         </p>
-                        <p>Creo que el juego que más disfrutamos mi hermano y yo fue el Ken Griffey Jr.'s Slugfest, ¡muchas lágrimas derramadas!, tanto de risa como de rabia jajaja. Yo solía ganar las partidas por mi condición de ser más experimentado a los mandos, hasta que mi hermano descubrió por casualidad que los Seattle Mariners, con Ken Griffey Jr. en su roster, estaban muuuy rotos 😣.</p>
+                        <p>Creo que el juego que más disfrutamos mi hermano y yo fue el Ken Griffey Jr.'s Slugfest, ¡muchas lágrimas derramadas!, tanto de risa como de rabia, jajaja. Yo solía ganar las partidas por mi condición de ser más experimentado a los mandos, hasta que mi hermano descubrió que los Seattle Mariners, con Ken Griffey Jr. en su roster, estaban muuuy rotos 😣.</p>
                         <p>Se acabó mi felicidad y empezó la suya, un partido tras otros me derrotó fácilmente sin importar qué equipo yo eligiera. ¡En serio! Él podía tener sus ojos cerrados y hacer swing en el momento que quisiera, Ken Griffey se encargaría de sacarla del parque todas las veces 😤. Los demás bateadores de los Mariners no estaban tan rotos, pero seguían siendo mejores que cualquiera de otro equipo. Nunca olvidaré la odiosa frasecita "¡Say good bye!" que decía Ken cada vez que conectaba la pelota y se sabía que se iba fuera 😡.</p>
                         <p className='centered-text'>
                             <Image
@@ -151,7 +151,7 @@ export default function Level4() {
                                 height={311}    
                             />
                         </p>
-                        <p>Al principio no usaba la consola, pero a medida que crecía la confianza familiar, su hermanita de 11 años me iba involucrando más en sus cosas y, en los años posteriores, fui su principal proveedor de juegos de PSone, por lo que empezamos todos a jugar mucho. Recuerdo que frente a la casa de mis padres había un vendedor de CD's de todo tipo: películas, series, música y videojuegos de PS. El señor siempre tenía una gran variedad de títulos. Si no tenía el que yo buscaba, anotaba el nombre en su libreta y en pocos días podía pasarlo buscando. ¡Gracias por tanto apoyo, señor Gary!</p>
+                        <p>Al principio no usaba la consola, pero a medida que crecía la confianza familiar, su hermanita de 11 años me iba involucrando más en sus cosas y, en los años posteriores, fui su principal proveedor de juegos de PSone, por lo que empezamos todos a jugar mucho. Recuerdo que diagonal a la casa de mis padres había un vendedor de CD's de todo tipo: películas, series, música y videojuegos de PS. El señor siempre tenía una gran variedad de títulos. Si no tenía el que yo buscaba, anotaba el nombre en su libreta y en pocos días podía pasarlo buscando. ¡Gracias por tanto apoyo, señor Gary!</p>
                         <p>Se me hace incontable la cantidad de títulos que jugamos, buenos y malos, sin piedad ni contemplación para con la pobre consolita, jajaja. Aquí algunos de los que más recuerdo y disfrutamos:</p>
                         <p className='psone-games__container'>
                             <Image
@@ -310,7 +310,7 @@ export default function Level4() {
                         <p>También jugué muchas de las entregas de FIFA que eran lanzadas al mercado anualmente.</p>
                         <p>De verdad fueron momentos mágicos jugando tanta variedad y por tantos años.</p>
                         <p>Creo que los juegos que más disfruté, personalmente, fueron Yu-Gi-Oh! Forbidden Memories y Tony Hawk's Pro Skater 2.</p>
-                        <p>¡Qué emocionante era intentar obtener todas las cartas existentes! Para ese entonces no tenía ni idea de que era imposible, jajaja. Hoy en día sé que algunas de las cartas solo estaban disponibles a través de la PocketStation, dispositivo que nunca se comercializó fuera de Japón. Y terminar el juego también supuso un gran reto para todos, nos pasábamos el control de una mano a otra para ver quién lo lograría, hasta mi suegro se incluyó en esa rotación.</p>
+                        <p>¡Qué emocionante era intentar obtener todas las cartas existentes! Para ese entonces no tenía ni idea de que era imposible 🥴. Hoy en día sé que algunas de las cartas solo estaban disponibles a través de la PocketStation, dispositivo que nunca se comercializó fuera de Japón. Y terminar el juego también supuso un gran reto para todos, nos pasábamos el control de una mano a otra para ver quién lo lograría, hasta mi suegro se incluyó en esa rotación.</p>
                         <p>Lo duro es esa última seguidilla de enemigos que hay que derrotar sin poder guardar partida entre duelos, que te salgan mejores cartas que a todos tus rivales de manera consecutiva parecía imposible. Pero bueno, farmeando un poco a rivales específicos, comprando algunas cartas con starchips y, por supuesto, con mucha suerte, lo pudimos conseguir.</p>
                         <p className='centered-text'>
                             <Image
@@ -373,7 +373,7 @@ export default function Level4() {
                         width={516}
                         height={484}
                     />
-                    <p>Lamentablemente, durante esta generación no pude disfrutar mucho del catálogo de la consola de Nintendo, mi compañía favorita, ni de ninguna otra máquina (creo que ni sabía que existían otras en ese momento, como la Atari Jaguar o la Sega Saturn), pero en la actualidad me he dedicado a enmendar de la manera que he podido esos “pendientes” del pasado. Más adelante te contaré al respecto.</p>
+                    <p>Lamentablemente, durante esta generación no pude disfrutar mucho del catálogo de la consola de Nintendo, mi compañía favorita, ni de ninguna otra máquina (creo que ni sabía que existían otras en ese momento, como la Atari Jaguar o la Sega Saturn), pero en la actualidad me he dedicado a enmendar de la manera que he podido esos "pendientes" del pasado. Más adelante te contaré al respecto.</p>
                     <p>Para este momento ya había iniciado la <span className="bold-italic">sexta generación de consolas</span>, pero por las mismas razones que antes expuse, pasó casi desapercibida para mí. Prácticamente jugué con las de quinta durante la sexta generación.</p>
                 </article>
                 <Router 

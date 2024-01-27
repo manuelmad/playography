@@ -114,7 +114,7 @@ export default function Level3() {
                             width={683}
                             height={365}
                         />
-                    <p>Investigué en internet y... ¡Qué emocionante fue ver de nuevo esas portadas y páginas internas! Vinieron a mí demasiados recuerdos de cuando las leía, ahora sé que también las compré para conocer los movimientos de Killer Instinct, había desarrollado un gran gusto por los juegos de pelea.</p>
+                    <p>Investigué en internet y... ¡Qué emocionante fue ver de nuevo esas portadas y páginas internas! Vinieron a mí demasiados recuerdos de cuando las leía, ahora sé que también las compré para conocer los movimientos de Killer Instinct, había desarrollado un gran gusto por los juegos de pelea. Aquel 1% que había guardado se lo adjudico a este juego, jejeje, aunque seguramene fue mucho más que eso.</p>
                     <p>Aquí te dejo algunas de las portadas de las revistas que recuerdo haber tenido:</p>
                     <p className='magazines-covers__container'>
                         <Image
@@ -326,7 +326,7 @@ export default function Level3() {
                         </p>
                         <p>El juego de hockey sobre hielo me pareció especialmente divertido porque, si lograbas molestar lo suficiente a un jugador rival, la cámara hacía un primer plano a los jugadores involucrados en la riña y tocaba controlar a tu personaje para ganar una pelea a puñetazo limpio, jejeje. Mucho me reí durante esos momentos.</p>
                         <p>La gran mayoría de los juegos que probé (por no decir todos), fueron aquellos que se prestaban a la modalidad de multijugador. Esto, claro, debido al hecho de depender siempre de consolas compartidas o alquiladas.</p>
-                        <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos alrededor de la máquina gris y púrpura para jugar por turnos, siempre al Mortal Kombat del momento.</p>
+                        <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos alrededor de la máquina gris y púrpura para jugar por turnos, casi siempre al Mortal Kombat del momento.</p>
                         <p>Los adultos nos obligaban a salir de la casa para compartir con el resto de la familia, y nosotros a regañadientes accedíamos. ¡Qué buenos tiempos!</p>
                     </article>
                 </div>

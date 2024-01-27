@@ -55,8 +55,8 @@ export default function finalThoughts() {
                             width={564}
                             height={397}    
                         />
-                        Por cierto, toda esta historia la escribí porque los videojuegos son mi pasatiempo preferido, como ya lo he dicho, pero la compartí con ustedes en forma de página web porque actualmente estoy formándome como Programador Web (sí, una tercera profesión...), así que utilicé algunas de las habilidades que he adquirido para elaborar cada detalle de ella.</p>
-                    <p>Espero haya sido de su agrado y estoy abierto a sugerencias, consejos o incluso a colaborar en proyectos de cualquier tipo en los que pueda aportar algo. En la sección de referencias les dejo el enlace hacia mi página web, donde podrás ver algunos de los proyectos que he desarrollado y obtener mi información de contacto.</p>
+                        Por cierto, toda esta historia la escribí porque los videojuegos son mi pasatiempo preferido, como ya lo he dicho, pero la compartí con ustedes en forma de página web porque actualmente estoy formándome como Programador Web (sí, una tercera profesión...), así que utilicé algunas de las habilidades que he adquirido para elaborar cada detalle de lo que ves.</p>
+                    <p>Espero haya sido de su agrado y estoy abierto a sugerencias, consejos o incluso a colaborar en proyectos de cualquier tipo en los que pueda aportar algo. En la sección de referencias les dejo el enlace hacia mi página web personal, donde podrás ver algunos de los proyectos que he desarrollado y obtener mi información de contacto.</p>
                     <p>Uno de los proyectos que allí encontrarás es, ¡por supuesto!, un pequeño videojuego, jejeje. Funciona en cualquier navegador web y solo necesitarás el teclado para jugarlo. Puedes encontrarlo en la sección “PROJECTS” de mi página, pero de todas maneras te dejaré el link directo en la sección de referencias.</p>
                     <p>
                         <Image
@@ -67,6 +67,7 @@ export default function finalThoughts() {
                             height={500}    
                         />
                         Gracias de nuevo por acompañarme en este viaje, ojalá este relato te anime a hacer cosas entretenidas para ti o para alguien más, o al menos que hayas podido transportarte a tu propio pasado y tener recuerdos placenteros de cualquier evento con tus seres queridos.</p>
+                    <p>Mantengamos el contacto en redes sociales y sigamos compartiendo lo que más nos gusta.</p>
                     <p>¡Hasta luego!</p>
                     <p className='the-end__container'>
                         <h2 className={press_start_2P.className}>THE</h2>
