@@ -68,6 +68,7 @@ export default function finalThoughts() {
                         />
                         Gracias de nuevo por acompañarme en este viaje, ojalá este relato te anime a hacer cosas entretenidas para ti o para alguien más, o al menos que hayas podido transportarte a tu propio pasado y tener recuerdos placenteros de cualquier evento con tus seres queridos.</p>
                     <p>Mantengamos el contacto en redes sociales y sigamos compartiendo lo que más nos gusta.</p>
+                    <p>¿Y sabes qué? Luego de terminar esta página web, me decidí a subir mi primer video en YouTube hablando de uno de los juegos de Atari que disfruté en mi niñez. Me tomó bastante trabajo a pesar que es relativamente simple, supongo que estoy pagando la novatada, jajaja. Te invito a visitar mi canal y comparte conmigo en la sección de comentrios qué te pareció. Te espero.</p>
                     <p>¡Hasta luego!</p>
                     <p className='the-end__container'>
                         <h2 className={press_start_2P.className}>THE</h2>
