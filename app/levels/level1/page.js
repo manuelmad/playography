@@ -401,7 +401,7 @@ export default function Level1() {
                         />
                     </p>
                     <p>Como nota adicional, un par de años más tarde, a la edad de 8 aproximadamente, mi mejor amigo era un niño que vivía diagonal a casa de mis papás, él tendría 6 años.</p>
-                    <p>Recuerdo que en una oportunidad, de las taaantas que visité su casa, sus 2 hermanas y hermano mayores estaban en una de las habitaciones jugando con un aparto conectado al televisor y me invitaron a participar.</p>
+                    <p>Recuerdo que en una oportunidad, de las taaantas que visité su casa, sus 2 hermanas y hermano mayores estaban en una de las habitaciones jugando con un aparato conectado al televisor y me invitaron a participar.</p>
                     <p>Solo me pidieron que tratara de adivinar la palabra secreta que estaba en la pantalla, representada con sus letras inicial y final y, entre éstas, tantas líneas como letras faltantes tenía la palabra. Ellos me daban una sola pista relacionada con la palabra.</p>
                     <p>Esta anécdota es también bastante divertida para mí, porque aquellos adolescentes no podían creer que un niño les adivinara cada una de las palabras secretas que se inventaban.</p>
                     <p>Cada nueva vez me decían que saliera de la habitación, a la cocina o cualquier lugar lejano, y luego de escribir la palabra secreta me invitaban de regreso y me daban la pista. Todas y cada una de las veces adiviné bien. Recuerdo las risas y la incredulidad de todos, jajaja. ¡Qué bonitos recuerdos!</p>
