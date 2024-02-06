@@ -184,7 +184,7 @@ export default function Level7() {
                                 height={408}
                             />
                             Eso me permitió sentir la alegría, asombro y fascinación de tener ante mí la posibilidad de disfrutar de nuevo del mundo de los videojuegos de una forma tan sencilla. Comencé a instalar los programas en mi laptop y descargar las roms de todos los juegos retro que recordaba y los que no había jugado. Pronto me di cuenta que tenía a mi disposición un sinfín de juegos, mientras más jugaba más me emocionaba.</p>
-                        <p>Emulé desde juegos de Arcade hasta juegos de quinta generación de consolas. Calculo que jugué alrededor de 200 videojuegos 😳. De la sexta y séptima generaciones, solo logré emular eficientemente las portátiles. Vale la pena mencionar que pude jugar con dificultad algunos de GameCube, como Wario World, Luigi's Mansion, Mario Kart Double Dash, Donkey Kong Jungle Beat y Super Mario Sunshine (los 2 últimos último en mi teléfono).</p>
+                        <p>Emulé desde juegos de Arcade hasta juegos de quinta generación de consolas. Calculo que jugué alrededor de 200 videojuegos 😳. De la sexta y séptima generaciones, solo logré emular eficientemente las portátiles. Vale la pena mencionar que pude jugar con dificultad algunos de GameCube, como Wario World, Luigi's Mansion, Mario Kart Double Dash, Donkey Kong Jungle Beat y Super Mario Sunshine (los 2 últimos en mi teléfono).</p>
                         <p className='centered-text'>
                             <Image
                                 src="/imgs/level7/dk-jungle-beat.webp"
