@@ -9,7 +9,35 @@ import Router from '@/app/components/Router/Router';
 import Header from '@/app/components/Header/Header';
 import Footer from '@/app/components/Footer/Footer';
 
+import { allSagas } from './table/allSagas';
+import { useEffect } from 'react';
+
+// Variable where the slug of the selected game is going to be stored
+let currentGame;
+
 export default function Level9() {
+    // Function to store the currentGame variable in localStorage
+    function updateCurrentGame (slug) {
+        currentGame = slug;
+        localStorage.setItem('currentGame', currentGame);
+    }
+
+    // Code to add li's to the ul of sagas, where the links will have the event to update the currentGame and localStorage
+    useEffect(()=> {
+        const ul = document.getElementById("sagasList");
+        ul.innerHTML = ""; // clean it so useEffect don't render it twice
+        allSagas.forEach(saga => {
+            const li = document.createElement("li");
+            const link = document.createElement("a");
+            link.setAttribute("href", "/levels/level9/table");
+            link.addEventListener('click', ()=> {
+                updateCurrentGame(saga.slug);
+            });
+            link.innerText = `${saga.name}`;
+            li.appendChild(link);
+            ul.appendChild(li);
+        });
+    },[]);
 
     return(
         <>
@@ -51,35 +79,10 @@ export default function Level9() {
                             height={1003}    
                         />
                         <ul id='sagasList'>
-                            <li>Crash</li>
-                            <li>Dark Souls</li>
-                            <li>Devil May Cry</li>
-                            <li>Donkey Kong</li>
-                            <li>Ghost 'n Goblins</li>
-                            <li>God of War</li>
-                            <li>Kirby</li>
-                            <li>Mega Man</li>
-                            <li>Metal Slug</li>
-                            {/* <li>Monkey Island</li> */}
-                            <li>Monster Hunter</li>
-                            <li>Mortal Kombat</li>
-                            <li>Ninja Gaiden</li>
-                            <li>Pokémon</li>
-                            <li>Punch Out</li>
-                            <li>Resident Evil</li>
-                            <li>Silent Hill</li>
-                            <li>Simpsons</li>
-                            <li>Sonic</li>
-                            <li>Street Fighter</li>
-                            <li>Super Mario Bros.</li>
-                            <li>The Legend of Zelda</li>
-                            <li>Uncharted</li>
-                            <li>Wario</li>
-                            <li>Yoshi</li>
-                            <li>Yu-Gi-Oh!</li>
+                            {/* Filled with useEffect*/}
                         </ul>
                     </div>
-                    <p>Puedes ver el detalle de cualquiera de ellas siguiendo este <Link href="/levels/level9/table">link.</Link></p>
+                    <p>Puedes ver el detalle de cualquiera de ellas haciendo clic sobre la que te interese.</p>
                     <p>Te sorprendería saber que, aunque son todas famosas, nunca en mi vida había jugado ni un solo título de algunas de estas sagas 😰, como es el caso de la saga principal de Pokémon (porque sí jugué al Pokémon Stadium y un poco al Pokémon GO). Por cierto, en este particular de los Pocket Monsters, probé sus primeros juegos de Game Boy, pero no me agradaron mucho y preferí jugar los remakes que se lanzaron en posteriores consolas.</p>
                     <p>De aquellas sagas que sí jugué, voy decidiendo según me apetezca si rejugaré o no el(los) juego(s) que ya había probado hace años.</p>
                     <p>En algunas sagas podrás notar que incluí juegos que, si bien no pertenecen directamente a ella, están relacionados de alguna forma con la misma.</p>
