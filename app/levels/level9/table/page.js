@@ -11,8 +11,6 @@ const check = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fi
 <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z"/>
 </svg>`;
 
-// Getting the slug in localStorage to scroll to that position
-let gameInStore = localStorage.getItem('currentGame');
 
 export default function table() {
 
@@ -109,6 +107,9 @@ export default function table() {
         const total_toplay = document.getElementById('total_toplay');
         total_toplay.innerText = '';
         total_toplay.innerText = `${totalGames - playedGames}`;
+
+        // Getting the slug in localStorage to scroll to that position
+        let gameInStore = localStorage.getItem('currentGame');
 
         // Code to take the slug in localStorage (clicked on level 9) and use it to scroll to that position
         const element = document.getElementById(gameInStore);
