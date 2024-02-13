@@ -564,7 +564,7 @@ const kirby = {
             "GAME": "Kirby: Triple Deluxe",
             "SYSTEM": "NINTENDO 3DS",
             "YEAR": 2014,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Kirby and the Rainbow Curse",
