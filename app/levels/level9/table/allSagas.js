@@ -2863,7 +2863,7 @@ const superMario = {
             "GAME": "Luigi's Mansion 3",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2019,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario Kart Tour",
