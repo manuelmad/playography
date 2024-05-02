@@ -1749,7 +1749,7 @@ const silentHill = {
             "GAME": "Silent Hill 4: The Room",
             "SYSTEM": "PS2",
             "YEAR": 2004,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Silent Hill: Orphan",
