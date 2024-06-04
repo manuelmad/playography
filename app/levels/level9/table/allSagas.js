@@ -2081,7 +2081,7 @@ const sonic = {
             "GAME": "Sonic Heroes",
             "SYSTEM": "GAMECUBE",
             "YEAR": 1994,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Shadow the Hedgehog",
