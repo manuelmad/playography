@@ -2659,7 +2659,7 @@ const superMario = {
             "GAME": "Mario Kart Wii",
             "SYSTEM": "Wii",
             "YEAR": 2008,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario & Luigi: Bowser's Inside Story",
