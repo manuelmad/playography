@@ -2924,7 +2924,7 @@ const theLegendOfZelda = {
             "GAME": "Zelda II: The Adventure of Link",
             "SYSTEM": "FAMICOM DISK SYSTEM / NES",
             "YEAR": 1987,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "The Legend of Zelda: A Link to the Past",
