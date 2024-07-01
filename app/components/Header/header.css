@@ -182,6 +182,10 @@ nav #dropdown-list {
 
 @media (min-width: 1024px) {
 
+    .main-nav-bar {
+        padding: 0 7.5rem 0;
+    }
+
     .logo-container {
         width: 15rem;
     }
