@@ -324,6 +324,14 @@ export default function Level3() {
                                 height={365}    
                             />
                         </p>
+                        <p className='centered-text'>
+                            <Image
+                                src="/imgs/level3/teenage-mutant-ninja-turtles-tournament-fighters.jpg"
+                                alt="TMNT tournament fighters cover img"
+                                width={1146}
+                                height={800}    
+                            />
+                        </p>
                         <p>El juego de hockey sobre hielo me pareció especialmente divertido porque, si lograbas molestar lo suficiente a un jugador rival, la cámara hacía un primer plano a los jugadores involucrados en la riña y tocaba controlar a tu personaje para ganar una pelea a puñetazo limpio, jejeje. Mucho me reí durante esos momentos.</p>
                         <p>La gran mayoría de los juegos que probé (por no decir todos), fueron aquellos que se prestaban a la modalidad de multijugador. Esto, claro, debido al hecho de depender siempre de consolas compartidas o alquiladas.</p>
                         <p>Esos mismos primos también llevaban la consola a casa de nuestra abuela materna en navidad, y nos amontonábamos todos alrededor de la máquina gris y púrpura para jugar por turnos, casi siempre al Mortal Kombat del momento.</p>

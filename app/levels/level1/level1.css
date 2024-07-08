@@ -73,7 +73,7 @@
 
 .atari-games__container img {
 	width: 13rem;
-    height: auto;
+    height: 18.4rem;
 	border-radius: 0.5rem;
 }
 
@@ -143,6 +143,7 @@
 
 	.atari-games__container img {
 		width: 20rem;
+		height: 28.3rem;
 	}
 }
 

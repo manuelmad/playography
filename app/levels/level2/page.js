@@ -135,6 +135,12 @@ export default function Level2() {
                                 height={793}    
                             />
                             <Image
+                                src="/imgs/level2/b-wings.png"
+                                alt="b-wings cover game"
+                                width={647}
+                                height={1157}    
+                            />
+                            <Image
                                 src="/imgs/level2/captain-america-avengers.jpg"
                                 alt="captain america and the avengers cover game"
                                 width={514}
@@ -225,6 +231,12 @@ export default function Level2() {
                                 height={771}    
                             />
                             <Image
+                                src="/imgs/level2/Power_Soccer.jpg"
+                                alt="power soccer cover game"
+                                width={220}
+                                height={316}    
+                            />
+                            <Image
                                 src="/imgs/level2/rbi.jpg"
                                 alt="r.b.i. baseball cover game"
                                 width={564}
@@ -235,6 +247,12 @@ export default function Level2() {
                                 alt="simpsons space mutants cover game"
                                 width={564}
                                 height={807}    
+                            />
+                            <Image
+                                src="/imgs/level2/star-force.png"
+                                alt="star force cover game"
+                                width={496}
+                                height={680}    
                             />
                             <Image
                                 src="/imgs/level2/tinytoon-adventures.jpg"
