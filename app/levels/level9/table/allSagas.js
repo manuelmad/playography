@@ -2701,7 +2701,7 @@ const superMario = {
             "GAME": "Mario Kart 7",
             "SYSTEM": "NINTENDO 3DS",
             "YEAR": 2011,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario Party 9",
@@ -2797,7 +2797,7 @@ const superMario = {
             "GAME": "Mario vs. Donkey Kong: Tipping Stars",
             "SYSTEM": "NINTENDO 3DS / Wii U",
             "YEAR": 2015,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario & Luigi: Paper Jam",
@@ -3408,7 +3408,7 @@ const yuGiOh = {
             "GAME": "Yu-Gi-Oh! World Championship Tournament 2004",
             "SYSTEM": "GAMEBOY ADVANCE",
             "YEAR": 2004,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Yu-Gi-Oh! Destiny Board Traveler",
