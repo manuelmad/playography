@@ -2172,6 +2172,12 @@ const sonic = {
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2022,
             "PLAYED": "false"
+        },
+        {
+            "GAME": "The Murder of Sonic the Hedgehog",
+            "SYSTEM": "PC",
+            "YEAR": 2023,
+            "PLAYED": "true"
         }
     ]
 }
@@ -2905,7 +2911,7 @@ const superMario = {
             "GAME": "Super Mario Bros. Wonder",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2023,
-            "PLAYED": "false"
+            "PLAYED": "true"
         }
     ]
 }
