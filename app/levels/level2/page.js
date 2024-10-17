@@ -243,6 +243,12 @@ export default function Level2() {
                                 height={761}    
                             />
                             <Image
+                                src="/imgs/level2/silent-service.jpg"
+                                alt="silent service cover game"
+                                width={591}
+                                height={848}    
+                            />
+                            <Image
                                 src="/imgs/level2/simpsons-space-mutants.jpg"
                                 alt="simpsons space mutants cover game"
                                 width={564}
@@ -253,6 +259,12 @@ export default function Level2() {
                                 alt="star force cover game"
                                 width={496}
                                 height={680}    
+                            />
+                            <Image
+                                src="/imgs/level2/superspike-vball.jpg"
+                                alt="superspike vball cover game"
+                                width={715}
+                                height={999}    
                             />
                             <Image
                                 src="/imgs/level2/tinytoon-adventures.jpg"

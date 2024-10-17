@@ -2839,7 +2839,7 @@ const superMario = {
             "GAME": "Mario + Rabbids Kingdom Battle",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2017,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario & Luigi: Superstar Saga + Bowser's Minions",
@@ -2851,6 +2851,12 @@ const superMario = {
             "GAME": "Super Mario Odyssey",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario + Rabbids Kingdom Battle: Donkey Kong Adventure",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2018,
             "PLAYED": "false"
         },
         {
