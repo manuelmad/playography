@@ -1025,13 +1025,13 @@ const metalSlug = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Metal Slug Advance ",
+            "GAME": "Metal Slug Advance",
             "SYSTEM": "GAMEBOY ADVANCE",
             "YEAR": 2004,
             "PLAYED": "true"
         },
         {
-            "GAME": "Metal Slug (3D)",
+            "GAME": "Metal Slug (3D)",
             "SYSTEM": "PS2",
             "YEAR": 2006,
             "PLAYED": "true"
@@ -1891,7 +1891,7 @@ const simpsons = {
             "PLAYED": "true"
         },
         {
-            "GAME": "The Itchy and Scratchy Game",
+            "GAME": "The Itchy & Scratchy Game",
             "SYSTEM": "SNES",
             "YEAR": 1995,
             "PLAYED": "true"
@@ -1951,7 +1951,7 @@ const simpsons = {
             "PLAYED": "true"
         },
         {
-            "GAME": "The Simpsons 2:Itchy & Scratchy Land",
+            "GAME": "The Simpsons 2: Itchy & Scratchy Land",
             "SYSTEM": "Mobile",
             "YEAR": 2008,
             "PLAYED": "true"
@@ -2356,13 +2356,13 @@ const superMario = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Mario Bros. 2:",
+            "GAME": "Super Mario Bros. 2",
             "SYSTEM": "NES",
             "YEAR": 1988,
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Mario Bros. 3:",
+            "GAME": "Super Mario Bros. 3",
             "SYSTEM": "NES",
             "YEAR": 1988,
             "PLAYED": "true"
