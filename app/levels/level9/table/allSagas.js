@@ -33,7 +33,7 @@ const crash = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Crash Bandicoot: La venganza de Cortex",
+            "GAME": "Crash Bandicoot: La Venganza de Cortex",
             "SYSTEM": "PS2",
             "YEAR": 2001,
             "PLAYED": "false"
@@ -87,7 +87,7 @@ const crash = {
             "PLAYED": "false"
         },
         {
-            "GAME": "Crash: Mind over Mutant",
+            "GAME": "Crash: Mind Over Mutant",
             "SYSTEM": "PS2",
             "YEAR": 2008,
             "PLAYED": "false"
@@ -131,7 +131,7 @@ const darkSouls = {
         },
         {
             "GAME": "Dark Souls: Prepare to Die Edition",
-            "SYSTEM": "PS3 – DLC: Artorias of tht Abyss",
+            "SYSTEM": "PS3 - DLC: Artorias of the Abyss",
             "YEAR": 2011,
             "PLAYED": "false"
         },
@@ -718,7 +718,7 @@ const megaMan = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Adventrure Rockman",
+            "GAME": "Super Adventure Rockman",
             "SYSTEM": "PS1",
             "YEAR": 1998,
             "PLAYED": "true"
@@ -730,7 +730,7 @@ const megaMan = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Megaman & Bass",
+            "GAME": "Mega man & Bass",
             "SYSTEM": "GAMEBOY ADVANCE",
             "YEAR": 2002,
             "PLAYED": "true"
@@ -922,7 +922,7 @@ const megaMan = {
             "PLAYED": "false"
         },
         {
-            "GAME": "MegaMan Battle Chip Challenge",
+            "GAME": "Mega Man Battle Chip Challenge",
             "SYSTEM": "GAMEBOY ADVANCE",
             "YEAR": 2003,
             "PLAYED": "false"
@@ -1528,13 +1528,13 @@ const punchOut = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Punch-Out!!",
+            "GAME": "Mike Tyson's Punch Out!!",
             "SYSTEM": "NES",
             "YEAR": 1987,
             "PLAYED": "true"
         },
         {
-            "GAME": "Mike Tyson's Punch Out!!",
+            "GAME": "Punch-Out!!",
             "SYSTEM": "NES",
             "YEAR": 1987,
             "PLAYED": "true"
@@ -1595,7 +1595,7 @@ const residentEvil = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Resident Evil Code: Veronica",
+            "GAME": "Resident Evil: Code: Veronica",
             "SYSTEM": "PS2",
             "YEAR": 2000,
             "PLAYED": "true"
@@ -1607,7 +1607,7 @@ const residentEvil = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Resident Evil Survivor 2: Code Veronica",
+            "GAME": "Resident Evil: Survivor 2 - Code: Veronica",
             "SYSTEM": "PS2",
             "YEAR": 2001,
             "PLAYED": "true"
@@ -2012,7 +2012,7 @@ const sonic = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Sonic 3 & Knuckles.",
+            "GAME": "Sonic 3 & Knuckles",
             "SYSTEM": "SEGA GENESIS (MEGA DRIVE)",
             "YEAR": 1994,
             "PLAYED": "true"
@@ -2253,7 +2253,7 @@ const streetFighter = {
             "PLAYED": "false"
         },
         {
-            "GAME": "Street Fighter III 3rd Strike: Fight For The future",
+            "GAME": "Street Fighter III 3rd Strike: Fight for The Future",
             "SYSTEM": "ARCADE",
             "YEAR": 1999,
             "PLAYED": "false"
@@ -2320,7 +2320,7 @@ const superMario = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Mario Bros.: The Lost Levels:",
+            "GAME": "Super Mario Bros.: The Lost Levels",
             "SYSTEM": "NES",
             "YEAR": 1986,
             "PLAYED": "true"
@@ -3126,12 +3126,6 @@ const uncharted = {
             "PLAYED": "false"
         },
         {
-            "GAME": "Uncharted: The Nathan Drake Collection",
-            "SYSTEM": "PS4",
-            "YEAR": 2015,
-            "PLAYED": "false"
-        },
-        {
             "GAME": "Uncharted 4: El desenlace del ladrón",
             "SYSTEM": "PS4",
             "YEAR": 2016,
@@ -3141,12 +3135,6 @@ const uncharted = {
             "GAME": "Uncharted: El legado perdido",
             "SYSTEM": "PS4",
             "YEAR": 2017,
-            "PLAYED": "false"
-        },
-        {
-            "GAME": "Uncharted: Legacy of Thieves Collection",
-            "SYSTEM": "PS5 / PC",
-            "YEAR": 2022,
             "PLAYED": "false"
         }
     ]
@@ -3375,7 +3363,7 @@ const yuGiOh = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Yu-Gi-Oh! Duel Monsters 4 Battle of Great Duelist",
+            "GAME": "Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist",
             "SYSTEM": "GAMEBOY COLOR",
             "YEAR": 2000,
             "PLAYED": "true"
