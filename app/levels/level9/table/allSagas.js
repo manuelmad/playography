@@ -1845,7 +1845,7 @@ const simpsons = {
         {
             "GAME": "The Simpsons: Bart's House of Weirdness",
             "SYSTEM": "MS-DOS",
-            "YEAR": 1991,
+            "YEAR": 1992,
             "PLAYED": "true"
         },
         {
@@ -1873,15 +1873,15 @@ const simpsons = {
             "PLAYED": "true"
         },
         {
-            "GAME": "The Simpsons: Bart & the Beanstalk",
+            "GAME": "Itchy & Scratchy in Miniature Golf Madness",
             "SYSTEM": "GAMEBOY",
             "YEAR": 1993,
             "PLAYED": "true"
         },
         {
-            "GAME": "Itchy & Scratchy in Miniature Golf Madness",
+            "GAME": "The Simpsons: Bart & the Beanstalk",
             "SYSTEM": "GAMEBOY",
-            "YEAR": 1993,
+            "YEAR": 1994,
             "PLAYED": "true"
         },
         {
