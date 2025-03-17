@@ -2755,7 +2755,7 @@ const superMario = {
             "GAME": "Mario & Luigi: Dream Team Bros.",
             "SYSTEM": "NINTENDO 3DS",
             "YEAR": 2013,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "New Super Luigi U",
