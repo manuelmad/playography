@@ -2797,7 +2797,7 @@ const superMario = {
             "GAME": "Super Mario Maker",
             "SYSTEM": "Wii U",
             "YEAR": 2015,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario vs. Donkey Kong: Tipping Stars",
