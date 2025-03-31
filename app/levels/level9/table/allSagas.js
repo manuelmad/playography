@@ -3281,7 +3281,7 @@ const yoshi = {
             "GAME": "Yoshi's Safari",
             "SYSTEM": "SNES",
             "YEAR": 1993,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Super Mario World 2: Yoshi's Island",
