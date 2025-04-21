@@ -189,7 +189,7 @@ export default function Level2() {
                                 height={795}    
                             />
                             <Image
-                                src="/imgs/level2/F1-race.jpg"
+                                src="/imgs/level2/F1-Race.jpg"
                                 alt="F-1 Race cover game"
                                 width={497}
                                 height={680}    
