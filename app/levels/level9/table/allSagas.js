@@ -1506,7 +1506,7 @@ const pokemon = {
 }
 
 const punchOut = {
-    name: "Punch Out",
+    name: "Punch-Out",
     slug: "punch-out",
     games: [
         {
@@ -1516,7 +1516,7 @@ const punchOut = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Super Punch Out!!",
+            "GAME": "Super Punch-Out!!",
             "SYSTEM": "ARCADE",
             "YEAR": 1985,
             "PLAYED": "true"
@@ -1528,7 +1528,7 @@ const punchOut = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Mike Tyson's Punch Out!!",
+            "GAME": "Mike Tyson's Punch-Out!!",
             "SYSTEM": "NES",
             "YEAR": 1987,
             "PLAYED": "true"
@@ -1555,7 +1555,7 @@ const punchOut = {
             "GAME": "Punch-Out!!",
             "SYSTEM": "Wii",
             "YEAR": 2009,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Doc Louis Punch-Out!!",
