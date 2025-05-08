@@ -1217,7 +1217,7 @@ const ninjaGaiden = {
             "GAME": "Ninja Gaiden",
             "SYSTEM": "ARCADE",
             "YEAR": 1988,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Ninja Gaiden",
@@ -1755,7 +1755,7 @@ const silentHill = {
             "GAME": "Silent Hill: Orphan",
             "SYSTEM": "Mobile",
             "YEAR": 2007,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Silent Hill Origins",
