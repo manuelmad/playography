@@ -2767,7 +2767,7 @@ const superMario = {
             "GAME": "Super Mario 3D World",
             "SYSTEM": "Wii U",
             "YEAR": 2013,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario Party: Island Tour",
