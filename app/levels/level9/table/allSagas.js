@@ -121,7 +121,7 @@ const darkSouls = {
             "GAME": "Demon's Souls",
             "SYSTEM": "PS3",
             "YEAR": 2009,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Dark Souls",
