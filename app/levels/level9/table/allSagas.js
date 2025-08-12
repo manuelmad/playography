@@ -730,7 +730,7 @@ const megaMan = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Mega man & Bass",
+            "GAME": "Mega Man & Bass",
             "SYSTEM": "GAMEBOY ADVANCE",
             "YEAR": 2002,
             "PLAYED": "true"
