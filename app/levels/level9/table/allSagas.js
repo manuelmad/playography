@@ -2911,7 +2911,7 @@ const superMario = {
             "GAME": "Mario + Rabbids: Sparks of Hope",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2022,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Super Mario Bros. Wonder",
