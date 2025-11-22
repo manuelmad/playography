@@ -3097,6 +3097,50 @@ const theLegendOfZelda = {
     ]
 }
 
+const theWalkingDead = {
+    name: "The Walking Dead",
+    slug: "walking-dead",
+    games: [
+        {
+            "GAME": "The Walking Dead",
+            "SYSTEM": "PS3",
+            "YEAR": 2012,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "Episodio Especial: 400 Days",
+            "SYSTEM": "PS3",
+            "YEAR": 2013,
+            "PLAYED": "true"
+        },
+        {
+            "GAME": "The Walking Dead: Season Two",
+            "SYSTEM": "PS3",
+            "YEAR": 2013,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Walking Dead: Michonne",
+            "SYSTEM": "PS3",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Walking Dead: A New Frontier",
+            "SYSTEM": "PS4",
+            "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Walking Dead: The Final Season",
+            "SYSTEM": "PS4",
+            "YEAR": 2018,
+            "PLAYED": "false"
+        },
+       
+    ]
+}
+
 const uncharted = {
     name: "Uncharted",
     slug: "uncharted",
@@ -3471,6 +3515,7 @@ export const allSagas = [
     streetFighter,
     superMario,
     theLegendOfZelda,
+    theWalkingDead,
     uncharted,
     wario,
     yoshi,
