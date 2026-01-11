@@ -817,7 +817,7 @@ const megaMan = {
             "GAME": "Mega Man X: Command Mission",
             "SYSTEM": "PS2 / GAMECUBE",
             "YEAR": 2004,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mega Man: Maverick Hunter X",
