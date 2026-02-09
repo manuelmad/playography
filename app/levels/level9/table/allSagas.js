@@ -2689,7 +2689,7 @@ const superMario = {
             "GAME": "Super Mario Galaxy 2",
             "SYSTEM": "Wii",
             "YEAR": 2010,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mario vs. Donkey Kong: Mini-Land Mayhem!",
