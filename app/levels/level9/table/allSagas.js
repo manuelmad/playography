@@ -1,6 +1,6 @@
 const crash = {
     name: "Crash",
-    slug:"crash",
+    slug: "crash",
     games: [
         {
             "GAME": "Crash Bandicoot",
@@ -1058,7 +1058,7 @@ const metalSlug = {
 }
 
 const monsterHunter = {
-    name:"Monster Hunter",
+    name: "Monster Hunter",
     slug: "monster-hunter",
     games: [
         {
@@ -1392,7 +1392,7 @@ const pokemon = {
             "GAME": "Pokémon Negro 2",
             "SYSTEM": "NINTENDO DS",
             "YEAR": 2012,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Pokémon Y",
@@ -3137,7 +3137,7 @@ const theWalkingDead = {
             "YEAR": 2018,
             "PLAYED": "false"
         },
-       
+
     ]
 }
 
