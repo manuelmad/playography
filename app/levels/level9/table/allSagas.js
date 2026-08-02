@@ -1773,7 +1773,7 @@ const silentHill = {
             "GAME": "Silent Hill: The Escape",
             "SYSTEM": "iPhone, iPod",
             "YEAR": 2007,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Silent Hill: Orphan 2",
@@ -3155,7 +3155,7 @@ const uncharted = {
             "GAME": "Uncharted 2: El reino de los ladrones",
             "SYSTEM": "PS3",
             "YEAR": 2009,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Uncharted 3: La traición de Drake",
