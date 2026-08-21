@@ -1779,7 +1779,7 @@ const silentHill = {
             "GAME": "Silent Hill: Orphan 2",
             "SYSTEM": "Mobile",
             "YEAR": 2008,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Silent Hill: Homecoming",
