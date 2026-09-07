@@ -500,6 +500,12 @@ const kirby = {
             "YEAR": 1994,
             "PLAYED": "true"
         },
+                {
+            "GAME": "Kirby's Dream Course",
+            "SYSTEM": "SNES",
+            "YEAR": 1994,
+            "PLAYED": "false"
+        },
         {
             "GAME": "Kirby's Dream Land 2",
             "SYSTEM": "GAMEBOY /  SUPER GAMEBOY",
