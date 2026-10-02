@@ -108,7 +108,7 @@ const crash = {
             "GAME": "Crash Bandicoot: On The Run!",
             "SYSTEM": "ANDROID / iOS",
             "YEAR": 2020,
-            "PLAYED": "false"
+            "PLAYED": "true"
         }
     ]
 }
@@ -967,7 +967,7 @@ const megaMan = {
             "GAME": "Mega Man Star Force (Leo / Pegasus / Dragon)",
             "SYSTEM": "NINTENDO DS",
             "YEAR": 2006,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Mega Man Star Force 2 (Zeker X Saurian / Zerker X Ninja)",
