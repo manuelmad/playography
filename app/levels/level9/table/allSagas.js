@@ -334,6 +334,12 @@ const donkeyKong = {
             "SYSTEM": "Wii U",
             "YEAR": 2014,
             "PLAYED": "true"
+        },
+        {
+            "GAME": "Donkey Kong Bananza",
+            "SYSTEM": "NINTENDO SWITCH 2",
+            "YEAR": 2025,
+            "PLAYED": "false"
         }
     ]
 }
@@ -474,6 +480,18 @@ const godOfWar = {
             "SYSTEM": "PS4",
             "YEAR": 2022,
             "PLAYED": "false"
+        },
+        {
+            "GAME": "God of War: Ragnarök, Valhalla (DLC)",
+            "SYSTEM": "PS4",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "God of War: Sons of Sparta",
+            "SYSTEM": "PS5",
+            "YEAR": 2026,
+            "PLAYED": "false"
         }
     ]
 }
@@ -576,12 +594,24 @@ const kirby = {
             "GAME": "Kirby and the Rainbow Curse",
             "SYSTEM": "Wii U",
             "YEAR": 2015,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "Kirby: Planet Robobot",
             "SYSTEM": "NINTENDO 3DS",
             "YEAR": 2016,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Kirby's Blowout Blast",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2017,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Kirby Battle Royale",
+            "SYSTEM": "NINTENDO 3DS",
+            "YEAR": 2017,
             "PLAYED": "false"
         },
         {
@@ -835,6 +865,11 @@ const megaMan = {
             "GAME": "Mega Man X8",
             "SYSTEM": "PS2 / PC",
             "YEAR": 2005,
+            "PLAYED": "false"
+        },        {
+            "GAME": "Mega Man X Dive Offline",
+            "SYSTEM": "Mobile",
+            "YEAR": 2023,
             "PLAYED": "false"
         },
         {
@@ -1436,6 +1471,12 @@ const pokemon = {
             "YEAR": 2019,
             "PLAYED": "false"
         },
+                {
+            "GAME": "New Pokémon Snap",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2021,
+            "PLAYED": "false"
+        },
         {
             "GAME": "Leyendas Pokémon: Arceus",
             "SYSTEM": "NINTENDO SWITCH",
@@ -1446,6 +1487,24 @@ const pokemon = {
             "GAME": "Pokémon Escarlata",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2022,
+            "PLAYED": "false"
+        },
+                {
+            "GAME": "Detective Pikachu Returns",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2023,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Leyendas Pokémon: Z-A",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2025,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Pokémon Pokopia",
+            "SYSTEM": "NINTENDO SWITCH 2",
+            "YEAR": 2026,
             "PLAYED": "false"
         },
         {
@@ -1473,7 +1532,7 @@ const pokemon = {
             "PLAYED": "true"
         },
         {
-            "GAME": "Pokémon Puzzle Collection vol. 2",
+            "GAME": "Pokémon Puzzle Collection vol. 2",
             "SYSTEM": "POKEMON MINI",
             "YEAR": 2002,
             "PLAYED": "true"
@@ -1720,6 +1779,13 @@ const residentEvil = {
             "YEAR": 2021,
             "PLAYED": "false"
         }
+        ,
+        {
+            "GAME": "Resident Evil Requiem",
+            "SYSTEM": "NINTENDO SWITCH 2/PS5",
+            "YEAR": 2026,
+            "PLAYED": "false"
+        }
     ]
 }
 
@@ -1815,6 +1881,24 @@ const silentHill = {
             "GAME": "Silent Hill: Downpour",
             "SYSTEM": "PS3",
             "YEAR": 2012,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Silent Hill: The Short Message",
+            "SYSTEM": "PS5",
+            "YEAR": 2024,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Silent Hill f",
+            "SYSTEM": "PS5",
+            "YEAR": 2025,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Silent Hill: Townfall",
+            "SYSTEM": "PS5",
+            "YEAR": 2026,
             "PLAYED": "false"
         }
     ]
@@ -2184,6 +2268,13 @@ const sonic = {
             "SYSTEM": "PC",
             "YEAR": 2023,
             "PLAYED": "true"
+        }
+        ,
+        {
+            "GAME": "Sonic Superstars",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2023,
+            "PLAYED": "false"
         }
     ]
 }
@@ -2924,6 +3015,30 @@ const superMario = {
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2023,
             "PLAYED": "true"
+        },
+        {
+            "GAME": "Princess Peach: Showtime!",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2024,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Super Mario Party Jamboree",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2024,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario & Luigi: Brothership",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2024,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Mario Kart World",
+            "SYSTEM": "NINTENDO SWITCH 2",
+            "YEAR": 2025,
+            "PLAYED": "false"
         }
     ]
 }
