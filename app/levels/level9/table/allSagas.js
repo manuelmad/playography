@@ -2246,6 +2246,18 @@ const sonic = {
             "PLAYED": "false"
         },
         {
+            "GAME": "Sonic Boom: Rise of Lyric",
+            "SYSTEM": "Wii U",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Sonic Boom: Shattered Crystal",
+            "SYSTEM": "Wii U",
+            "YEAR": 2014,
+            "PLAYED": "false"
+        },
+        {
             "GAME": "Sonic Mania",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2017,
@@ -2274,6 +2286,13 @@ const sonic = {
             "GAME": "Sonic Superstars",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2023,
+            "PLAYED": "false"
+        }
+        ,
+        {
+            "GAME": "Shadow Generations",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2024,
             "PLAYED": "false"
         }
     ]
@@ -3213,6 +3232,12 @@ const theLegendOfZelda = {
             "GAME": "The Legend of Zelda: Tears of the Kingdom",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2023,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "The Legend of Zelda: Echoes of Wisdom",
+            "SYSTEM": "NINTENDO SWITCH",
+            "YEAR": 2024,
             "PLAYED": "false"
         }
     ]
