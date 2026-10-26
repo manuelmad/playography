@@ -3428,7 +3428,7 @@ const wario = {
             "GAME": "Game & Wario",
             "SYSTEM": "Wii U",
             "YEAR": 2013,
-            "PLAYED": "false"
+            "PLAYED": "true"
         },
         {
             "GAME": "WarioWare Gold",
@@ -3525,6 +3525,12 @@ const yoshi = {
             "GAME": "Yoshi's Crafted World",
             "SYSTEM": "NINTENDO SWITCH",
             "YEAR": 2019,
+            "PLAYED": "false"
+        },
+        {
+            "GAME": "Yoshi and the Mysterious Book",
+            "SYSTEM": "NINTENDO SWITCH 2",
+            "YEAR": 2026,
             "PLAYED": "false"
         }
     ]
